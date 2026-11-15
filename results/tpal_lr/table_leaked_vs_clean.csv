@@ -1,0 +1,2 @@
+protocol,test predictions,% with a family member in train,"acc, with family member","acc, without"
+grouped_5fold,36000,0.0,,0.8569

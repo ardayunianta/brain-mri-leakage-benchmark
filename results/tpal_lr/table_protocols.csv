@@ -1,0 +1,2 @@
+,runs,accuracy,balanced_accuracy,macro_f1,auroc_macro,tumour_sensitivity,notumor_specificity,ece_tpal,ece_adaptive
+grouped_5fold,25,0.8569 ± 0.0900,0.8569 ± 0.0900,0.8563 ± 0.0916,0.9650 ± 0.0348,0.9611 ± 0.0728,0.9269 ± 0.0710,0.0274 ± 0.0151,0.0377 ± 0.0166

@@ -1,0 +1,113 @@
+group,A,B,seeds,acc_A,acc_B,delta,ci_lo,ci_hi,p
+baselines,resnet18,resnet18_scratch,42,0.9326,0.9175,0.0151,0.0054,0.0254,0.0000
+baselines,resnet18,resnet18_scratch,43,0.9344,0.9124,0.0221,0.0111,0.0334,0.0000
+baselines,resnet18,resnet18_scratch,44,0.9333,0.9133,0.0200,0.0103,0.0302,0.0000
+baselines,resnet18,resnet18_scratch,3 seeds,0.9335,0.9144,0.0191,0.0110,0.0278,0.0000
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,42,0.9154,0.8960,0.0194,0.0068,0.0324,0.0000
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,43,0.9158,0.9040,0.0118,0.0014,0.0227,0.0270
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,44,0.9222,0.9014,0.0208,0.0091,0.0331,0.0000
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,3 seeds,0.9178,0.9005,0.0174,0.0092,0.0257,0.0000
+followup,bipal_tpal_cls_lesion,T-PAL,42,0.9154,0.8929,0.0225,0.0096,0.0355,0.0000
+followup,bipal_tpal_cls_lesion,T-PAL,43,0.9158,0.9069,0.0089,-0.0030,0.0207,0.1450
+followup,bipal_tpal_cls_lesion,T-PAL,44,0.9222,0.9018,0.0204,0.0089,0.0319,0.0010
+followup,bipal_tpal_cls_lesion,T-PAL,3 seeds,0.9178,0.9006,0.0173,0.0093,0.0255,0.0000
+followup,deit_small_cls,deit_small,42,0.9329,0.9365,-0.0036,-0.0117,0.0047,0.4230
+followup,deit_small_cls,deit_small,43,0.9337,0.9339,-0.0001,-0.0081,0.0078,0.9700
+followup,deit_small_cls,deit_small,44,0.9372,0.9375,-0.0003,-0.0081,0.0076,0.9660
+followup,deit_small_cls,deit_small,3 seeds,0.9346,0.9360,-0.0013,-0.0050,0.0026,0.5380
+followup,deit_small_cls_lesion,deit_small_cls,42,0.9426,0.9329,0.0097,0.0004,0.0190,0.0430
+followup,deit_small_cls_lesion,deit_small_cls,43,0.9413,0.9337,0.0075,0.0005,0.0147,0.0350
+followup,deit_small_cls_lesion,deit_small_cls,44,0.9469,0.9372,0.0097,0.0022,0.0168,0.0080
+followup,deit_small_cls_lesion,deit_small_cls,3 seeds,0.9436,0.9346,0.0090,0.0042,0.0139,0.0000
+followup,deit_small_cls_lesion,deit_small,42,0.9426,0.9365,0.0061,-0.0036,0.0155,0.2180
+followup,deit_small_cls_lesion,deit_small,43,0.9413,0.9339,0.0074,-0.0011,0.0151,0.0810
+followup,deit_small_cls_lesion,deit_small,44,0.9469,0.9375,0.0094,0.0015,0.0183,0.0190
+followup,deit_small_cls_lesion,deit_small,3 seeds,0.9436,0.9360,0.0076,0.0025,0.0131,0.0020
+followup,deit_small_cls_lesion,efficientnet_b0,42,0.9426,0.9425,0.0001,-0.0105,0.0105,0.9550
+followup,deit_small_cls_lesion,efficientnet_b0,43,0.9413,0.9337,0.0075,-0.0008,0.0161,0.0780
+followup,deit_small_cls_lesion,efficientnet_b0,44,0.9469,0.9387,0.0082,-0.0004,0.0176,0.0730
+followup,deit_small_cls_lesion,efficientnet_b0,3 seeds,0.9436,0.9383,0.0053,-0.0012,0.0119,0.1150
+followup,deit_small_cls_lesion,T-PAL,42,0.9426,0.8929,0.0497,0.0338,0.0658,0.0000
+followup,deit_small_cls_lesion,T-PAL,43,0.9413,0.9069,0.0343,0.0211,0.0478,0.0000
+followup,deit_small_cls_lesion,T-PAL,44,0.9469,0.9018,0.0451,0.0330,0.0582,0.0000
+followup,deit_small_cls_lesion,T-PAL,3 seeds,0.9436,0.9006,0.0431,0.0322,0.0539,0.0000
+followup2,efficientnet_b0_cls,efficientnet_b0,42,0.9415,0.9425,-0.0010,-0.0090,0.0066,0.8280
+followup2,efficientnet_b0_cls,efficientnet_b0,43,0.9467,0.9337,0.0129,0.0055,0.0208,0.0000
+followup2,efficientnet_b0_cls,efficientnet_b0,44,0.9431,0.9387,0.0043,-0.0027,0.0115,0.2470
+followup2,efficientnet_b0_cls,efficientnet_b0,3 seeds,0.9437,0.9383,0.0054,0.0007,0.0104,0.0180
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,42,0.9404,0.9415,-0.0011,-0.0089,0.0065,0.8430
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,43,0.9458,0.9467,-0.0008,-0.0096,0.0085,0.8560
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,44,0.9468,0.9431,0.0038,-0.0041,0.0118,0.3510
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,3 seeds,0.9444,0.9437,0.0006,-0.0050,0.0060,0.8080
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,42,0.9404,0.9425,-0.0021,-0.0106,0.0060,0.6390
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,43,0.9458,0.9337,0.0121,0.0030,0.0219,0.0040
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,44,0.9468,0.9387,0.0081,-0.0020,0.0183,0.1190
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,3 seeds,0.9444,0.9383,0.0060,-0.0000,0.0128,0.0540
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,42,0.9404,0.9426,-0.0022,-0.0115,0.0065,0.6230
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,43,0.9458,0.9413,0.0046,-0.0040,0.0137,0.2950
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,44,0.9468,0.9469,-0.0001,-0.0089,0.0079,1.0000
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,3 seeds,0.9444,0.9436,0.0007,-0.0055,0.0070,0.8120
+followup2,efficientnet_b0_cls_lesion,T-PAL,42,0.9404,0.8929,0.0475,0.0344,0.0608,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,43,0.9458,0.9069,0.0389,0.0271,0.0517,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,44,0.9468,0.9018,0.0450,0.0319,0.0584,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,3 seeds,0.9444,0.9006,0.0438,0.0340,0.0543,0.0000
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,42,0.9483,0.9425,0.0058,-0.0028,0.0145,0.1880
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,43,0.9457,0.9337,0.0119,0.0038,0.0203,0.0040
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,44,0.9485,0.9387,0.0097,0.0008,0.0189,0.0340
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,3 seeds,0.9475,0.9383,0.0092,0.0032,0.0157,0.0030
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,42,0.9483,0.9404,0.0079,-0.0001,0.0160,0.0590
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,43,0.9457,0.9458,-0.0001,-0.0083,0.0075,0.9790
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,44,0.9485,0.9468,0.0017,-0.0081,0.0121,0.7680
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,3 seeds,0.9475,0.9444,0.0031,-0.0021,0.0081,0.2010
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,42,0.9483,0.9426,0.0057,-0.0028,0.0139,0.2010
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,43,0.9457,0.9413,0.0044,-0.0024,0.0119,0.2550
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,44,0.9485,0.9469,0.0015,-0.0066,0.0099,0.6760
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,3 seeds,0.9475,0.9436,0.0039,-0.0011,0.0088,0.1290
+followup3,efficientnet_b0_aux_lesion,T-PAL,42,0.9483,0.8929,0.0554,0.0419,0.0695,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,43,0.9457,0.9069,0.0387,0.0261,0.0518,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,44,0.9485,0.9018,0.0467,0.0343,0.0602,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,3 seeds,0.9475,0.9006,0.0469,0.0367,0.0573,0.0000
+tuned,bipal_tpal_cls_lesion,resnet18_scratch,42,0.9154,0.9175,-0.0021,-0.0160,0.0123,0.8070
+tuned,bipal_tpal_cls_lesion,resnet18_scratch,43,0.9158,0.9124,0.0035,-0.0114,0.0178,0.6500
+tuned,bipal_tpal_cls_lesion,resnet18_scratch,44,0.9222,0.9133,0.0089,-0.0048,0.0221,0.2000
+tuned,bipal_tpal_cls_lesion,resnet18_scratch,3 seeds,0.9178,0.9144,0.0034,-0.0090,0.0158,0.5730
+tuned,resnet18_scratch,T-PAL,42,0.9175,0.8929,0.0246,0.0099,0.0398,0.0020
+tuned,resnet18_scratch,T-PAL,43,0.9124,0.9069,0.0054,-0.0088,0.0202,0.4530
+tuned,resnet18_scratch,T-PAL,44,0.9133,0.9018,0.0115,-0.0030,0.0259,0.1280
+tuned,resnet18_scratch,T-PAL,3 seeds,0.9144,0.9006,0.0138,0.0018,0.0257,0.0190
+tuned,deit_small,efficientnet_b0,42,0.9365,0.9425,-0.0060,-0.0157,0.0039,0.2320
+tuned,deit_small,efficientnet_b0,43,0.9339,0.9337,0.0001,-0.0092,0.0096,0.9750
+tuned,deit_small,efficientnet_b0,44,0.9375,0.9387,-0.0012,-0.0096,0.0069,0.7620
+tuned,deit_small,efficientnet_b0,3 seeds,0.9360,0.9383,-0.0024,-0.0085,0.0040,0.4670
+tuned,resnet50,efficientnet_b0,42,0.9475,0.9425,0.0050,-0.0038,0.0136,0.2700
+tuned,resnet50,efficientnet_b0,43,0.9410,0.9337,0.0072,-0.0003,0.0147,0.0590
+tuned,resnet50,efficientnet_b0,44,0.9415,0.9387,0.0028,-0.0058,0.0113,0.5490
+tuned,resnet50,efficientnet_b0,3 seeds,0.9433,0.9383,0.0050,-0.0003,0.0101,0.0670
+tuned,mobilenetv3_large,efficientnet_b0,42,0.9368,0.9425,-0.0057,-0.0129,0.0009,0.0920
+tuned,mobilenetv3_large,efficientnet_b0,43,0.9342,0.9337,0.0004,-0.0077,0.0083,0.9010
+tuned,mobilenetv3_large,efficientnet_b0,44,0.9379,0.9387,-0.0008,-0.0098,0.0095,0.8630
+tuned,mobilenetv3_large,efficientnet_b0,3 seeds,0.9363,0.9383,-0.0020,-0.0083,0.0041,0.5320
+tuned,efficientnet_b0_aux_lesion,resnet50,42,0.9483,0.9475,0.0008,-0.0063,0.0078,0.8350
+tuned,efficientnet_b0_aux_lesion,resnet50,43,0.9457,0.9410,0.0047,-0.0034,0.0127,0.2520
+tuned,efficientnet_b0_aux_lesion,resnet50,44,0.9485,0.9415,0.0069,-0.0020,0.0167,0.1320
+tuned,efficientnet_b0_aux_lesion,resnet50,3 seeds,0.9475,0.9433,0.0042,-0.0008,0.0095,0.1030
+tuned,deit_small_cls_lesion,resnet50,42,0.9426,0.9475,-0.0049,-0.0125,0.0032,0.2510
+tuned,deit_small_cls_lesion,resnet50,43,0.9413,0.9410,0.0003,-0.0071,0.0080,1.0000
+tuned,deit_small_cls_lesion,resnet50,44,0.9469,0.9415,0.0054,-0.0025,0.0136,0.2120
+tuned,deit_small_cls_lesion,resnet50,3 seeds,0.9436,0.9433,0.0003,-0.0051,0.0061,0.9450
+gain,efficientnet_b0_gain,efficientnet_b0,42,0.9401,0.9425,-0.0024,-0.0132,0.0088,0.6690
+gain,efficientnet_b0_gain,efficientnet_b0,43,0.9426,0.9337,0.0089,-0.0016,0.0198,0.0960
+gain,efficientnet_b0_gain,efficientnet_b0,44,0.9200,0.9387,-0.0187,-0.0345,-0.0035,0.0200
+gain,efficientnet_b0_gain,efficientnet_b0,3 seeds,0.9343,0.9383,-0.0041,-0.0133,0.0058,0.3850
+gain,efficientnet_b0_aux_lesion,efficientnet_b0_gain,42,0.9483,0.9401,0.0082,-0.0003,0.0169,0.0590
+gain,efficientnet_b0_aux_lesion,efficientnet_b0_gain,43,0.9457,0.9426,0.0031,-0.0064,0.0123,0.5260
+gain,efficientnet_b0_aux_lesion,efficientnet_b0_gain,44,0.9485,0.9200,0.0285,0.0158,0.0430,0.0000
+gain,efficientnet_b0_aux_lesion,efficientnet_b0_gain,3 seeds,0.9475,0.9343,0.0132,0.0057,0.0212,0.0000
+gain,efficientnet_b0_cls_lesion,efficientnet_b0_gain,42,0.9404,0.9401,0.0003,-0.0097,0.0100,0.9490
+gain,efficientnet_b0_cls_lesion,efficientnet_b0_gain,43,0.9458,0.9426,0.0032,-0.0057,0.0124,0.4930
+gain,efficientnet_b0_cls_lesion,efficientnet_b0_gain,44,0.9468,0.9200,0.0268,0.0146,0.0395,0.0000
+gain,efficientnet_b0_cls_lesion,efficientnet_b0_gain,3 seeds,0.9444,0.9343,0.0101,0.0030,0.0177,0.0000
+gain,efficientnet_b0_gain,T-PAL,42,0.9401,0.8929,0.0472,0.0320,0.0626,0.0000
+gain,efficientnet_b0_gain,T-PAL,43,0.9426,0.9069,0.0357,0.0246,0.0476,0.0000
+gain,efficientnet_b0_gain,T-PAL,44,0.9200,0.9018,0.0182,0.0025,0.0341,0.0230
+gain,efficientnet_b0_gain,T-PAL,3 seeds,0.9343,0.9006,0.0337,0.0235,0.0446,0.0000

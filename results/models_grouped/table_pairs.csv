@@ -1,0 +1,181 @@
+group,A,B,seeds,acc_A,acc_B,delta,ci_lo,ci_hi,p
+ladder,bipal_learn_sigma,bipal_tpal_like,42,0.9122,0.9022,0.0100,0.0031,0.0174,0.0050
+ladder,bipal_learn_sigma,bipal_tpal_like,43,0.9011,0.9003,0.0008,-0.0069,0.0082,0.8120
+ladder,bipal_learn_sigma,bipal_tpal_like,44,0.8962,0.9008,-0.0046,-0.0126,0.0042,0.3130
+ladder,bipal_learn_sigma,bipal_tpal_like,3 seeds,0.9032,0.9011,0.0021,-0.0022,0.0065,0.3350
+ladder,bipal_adaptive,bipal_learn_sigma,42,0.8878,0.9122,-0.0244,-0.0356,-0.0142,0.0000
+ladder,bipal_adaptive,bipal_learn_sigma,43,0.8947,0.9011,-0.0064,-0.0178,0.0039,0.2340
+ladder,bipal_adaptive,bipal_learn_sigma,44,0.8949,0.8962,-0.0014,-0.0122,0.0093,0.8280
+ladder,bipal_adaptive,bipal_learn_sigma,3 seeds,0.8925,0.9032,-0.0107,-0.0175,-0.0046,0.0000
+ladder,bipal_global,bipal_adaptive,42,0.8964,0.8878,0.0086,-0.0001,0.0173,0.0550
+ladder,bipal_global,bipal_adaptive,43,0.8888,0.8947,-0.0060,-0.0175,0.0054,0.3050
+ladder,bipal_global,bipal_adaptive,44,0.8938,0.8949,-0.0011,-0.0098,0.0081,0.7830
+ladder,bipal_global,bipal_adaptive,3 seeds,0.8930,0.8925,0.0005,-0.0048,0.0059,0.9080
+ladder,bipal_mirror,bipal_global,42,0.9038,0.8964,0.0074,-0.0027,0.0180,0.1690
+ladder,bipal_mirror,bipal_global,43,0.8906,0.8888,0.0018,-0.0090,0.0124,0.7340
+ladder,bipal_mirror,bipal_global,44,0.9057,0.8938,0.0119,0.0021,0.0224,0.0210
+ladder,bipal_mirror,bipal_global,3 seeds,0.9000,0.8930,0.0070,0.0002,0.0137,0.0470
+ladder,bipal_full,bipal_mirror,42,0.9071,0.9038,0.0033,-0.0054,0.0122,0.4450
+ladder,bipal_full,bipal_mirror,43,0.9018,0.8906,0.0112,0.0024,0.0211,0.0110
+ladder,bipal_full,bipal_mirror,44,0.9083,0.9057,0.0026,-0.0061,0.0120,0.6150
+ladder,bipal_full,bipal_mirror,3 seeds,0.9057,0.9000,0.0057,-0.0001,0.0119,0.0550
+ladder,bipal_lesion,bipal_full,42,0.9293,0.9071,0.0222,0.0140,0.0311,0.0000
+ladder,bipal_lesion,bipal_full,43,0.9239,0.9018,0.0221,0.0102,0.0343,0.0000
+ladder,bipal_lesion,bipal_full,44,0.9217,0.9083,0.0133,0.0034,0.0234,0.0070
+ladder,bipal_lesion,bipal_full,3 seeds,0.9250,0.9057,0.0192,0.0117,0.0269,0.0000
+summary,bipal_full,bipal_tpal_like,42,0.9071,0.9022,0.0049,-0.0038,0.0141,0.2770
+summary,bipal_full,bipal_tpal_like,43,0.9018,0.9003,0.0015,-0.0070,0.0099,0.7150
+summary,bipal_full,bipal_tpal_like,44,0.9083,0.9008,0.0075,-0.0015,0.0165,0.0980
+summary,bipal_full,bipal_tpal_like,3 seeds,0.9057,0.9011,0.0046,-0.0009,0.0102,0.1020
+summary,bipal_lesion,bipal_tpal_like,42,0.9293,0.9022,0.0271,0.0178,0.0371,0.0000
+summary,bipal_lesion,bipal_tpal_like,43,0.9239,0.9003,0.0236,0.0114,0.0357,0.0010
+summary,bipal_lesion,bipal_tpal_like,44,0.9217,0.9008,0.0208,0.0096,0.0322,0.0000
+summary,bipal_lesion,bipal_tpal_like,3 seeds,0.9250,0.9011,0.0238,0.0160,0.0321,0.0000
+summary,bipal_tpal_like,T-PAL,42,0.9022,0.8983,0.0039,-0.0060,0.0138,0.4220
+summary,bipal_tpal_like,T-PAL,43,0.9003,0.9003,0.0000,-0.0104,0.0105,1.0000
+summary,bipal_tpal_like,T-PAL,44,0.9008,0.9061,-0.0053,-0.0156,0.0044,0.2850
+summary,bipal_tpal_like,T-PAL,3 seeds,0.9011,0.9016,-0.0005,-0.0066,0.0056,0.8610
+summary,bipal_full,T-PAL,42,0.9071,0.8983,0.0088,-0.0013,0.0196,0.0990
+summary,bipal_full,T-PAL,43,0.9018,0.9003,0.0015,-0.0087,0.0116,0.7640
+summary,bipal_full,T-PAL,44,0.9083,0.9061,0.0022,-0.0080,0.0122,0.7090
+summary,bipal_full,T-PAL,3 seeds,0.9057,0.9016,0.0042,-0.0024,0.0104,0.1970
+summary,bipal_lesion,T-PAL,42,0.9293,0.8983,0.0310,0.0202,0.0425,0.0000
+summary,bipal_lesion,T-PAL,43,0.9239,0.9003,0.0236,0.0105,0.0367,0.0000
+summary,bipal_lesion,T-PAL,44,0.9217,0.9061,0.0156,0.0042,0.0273,0.0090
+summary,bipal_lesion,T-PAL,3 seeds,0.9250,0.9016,0.0234,0.0154,0.0319,0.0000
+baselines,bipal_lesion,resnet18_scratch,42,0.9293,0.9118,0.0175,0.0041,0.0324,0.0120
+baselines,bipal_lesion,resnet18_scratch,43,0.9239,0.9136,0.0103,-0.0040,0.0253,0.1630
+baselines,bipal_lesion,resnet18_scratch,44,0.9217,0.9119,0.0097,-0.0046,0.0242,0.1900
+baselines,bipal_lesion,resnet18_scratch,3 seeds,0.9250,0.9125,0.0125,0.0004,0.0251,0.0370
+baselines,bipal_lesion,resnet18,42,0.9293,0.9269,0.0024,-0.0088,0.0140,0.7000
+baselines,bipal_lesion,resnet18,43,0.9239,0.9286,-0.0047,-0.0178,0.0094,0.5040
+baselines,bipal_lesion,resnet18,44,0.9217,0.9233,-0.0017,-0.0153,0.0132,0.8360
+baselines,bipal_lesion,resnet18,3 seeds,0.9250,0.9263,-0.0013,-0.0117,0.0093,0.8220
+baselines,bipal_lesion,efficientnet_b0,42,0.9293,0.9347,-0.0054,-0.0179,0.0077,0.3860
+baselines,bipal_lesion,efficientnet_b0,43,0.9239,0.9374,-0.0135,-0.0264,-0.0005,0.0420
+baselines,bipal_lesion,efficientnet_b0,44,0.9217,0.9404,-0.0188,-0.0303,-0.0076,0.0000
+baselines,bipal_lesion,efficientnet_b0,3 seeds,0.9250,0.9375,-0.0125,-0.0229,-0.0020,0.0240
+baselines,bipal_lesion,deit_small,42,0.9293,0.9365,-0.0072,-0.0184,0.0040,0.2110
+baselines,bipal_lesion,deit_small,43,0.9239,0.9339,-0.0100,-0.0217,0.0025,0.1310
+baselines,bipal_lesion,deit_small,44,0.9217,0.9375,-0.0158,-0.0287,-0.0028,0.0190
+baselines,bipal_lesion,deit_small,3 seeds,0.9250,0.9360,-0.0110,-0.0206,-0.0009,0.0290
+baselines,resnet18,resnet18_scratch,42,0.9269,0.9118,0.0151,0.0047,0.0267,0.0050
+baselines,resnet18,resnet18_scratch,43,0.9286,0.9136,0.0150,0.0031,0.0270,0.0150
+baselines,resnet18,resnet18_scratch,44,0.9233,0.9119,0.0114,-0.0000,0.0224,0.0530
+baselines,resnet18,resnet18_scratch,3 seeds,0.9263,0.9125,0.0138,0.0057,0.0221,0.0000
+followup,bipal_tpal_cls,bipal_tpal_like,42,0.8960,0.9022,-0.0063,-0.0178,0.0043,0.2560
+followup,bipal_tpal_cls,bipal_tpal_like,43,0.9040,0.9003,0.0038,-0.0049,0.0119,0.4050
+followup,bipal_tpal_cls,bipal_tpal_like,44,0.9014,0.9008,0.0006,-0.0092,0.0106,0.8500
+followup,bipal_tpal_cls,bipal_tpal_like,3 seeds,0.9005,0.9011,-0.0006,-0.0061,0.0046,0.8520
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,42,0.9154,0.8960,0.0194,0.0068,0.0324,0.0000
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,43,0.9158,0.9040,0.0118,0.0014,0.0227,0.0270
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,44,0.9222,0.9014,0.0208,0.0091,0.0331,0.0000
+followup,bipal_tpal_cls_lesion,bipal_tpal_cls,3 seeds,0.9178,0.9005,0.0174,0.0092,0.0257,0.0000
+followup,bipal_tpal_cls_lesion,bipal_lesion,42,0.9154,0.9293,-0.0139,-0.0242,-0.0041,0.0030
+followup,bipal_tpal_cls_lesion,bipal_lesion,43,0.9158,0.9239,-0.0081,-0.0211,0.0035,0.1970
+followup,bipal_tpal_cls_lesion,bipal_lesion,44,0.9222,0.9217,0.0006,-0.0104,0.0108,0.9330
+followup,bipal_tpal_cls_lesion,bipal_lesion,3 seeds,0.9178,0.9250,-0.0071,-0.0146,-0.0001,0.0470
+followup,bipal_full,bipal_tpal_cls,42,0.9071,0.8960,0.0111,0.0005,0.0226,0.0400
+followup,bipal_full,bipal_tpal_cls,43,0.9018,0.9040,-0.0022,-0.0116,0.0069,0.7050
+followup,bipal_full,bipal_tpal_cls,44,0.9083,0.9014,0.0069,-0.0034,0.0169,0.2000
+followup,bipal_full,bipal_tpal_cls,3 seeds,0.9057,0.9005,0.0053,-0.0006,0.0117,0.0840
+followup,bipal_tpal_cls_lesion,T-PAL,42,0.9154,0.8983,0.0171,0.0060,0.0284,0.0030
+followup,bipal_tpal_cls_lesion,T-PAL,43,0.9158,0.9003,0.0156,0.0051,0.0257,0.0020
+followup,bipal_tpal_cls_lesion,T-PAL,44,0.9222,0.9061,0.0161,0.0050,0.0276,0.0030
+followup,bipal_tpal_cls_lesion,T-PAL,3 seeds,0.9178,0.9016,0.0162,0.0085,0.0236,0.0000
+followup,deit_small_cls,deit_small,42,0.9329,0.9365,-0.0036,-0.0117,0.0047,0.4230
+followup,deit_small_cls,deit_small,43,0.9337,0.9339,-0.0001,-0.0081,0.0078,0.9700
+followup,deit_small_cls,deit_small,44,0.9372,0.9375,-0.0003,-0.0081,0.0076,0.9660
+followup,deit_small_cls,deit_small,3 seeds,0.9346,0.9360,-0.0013,-0.0050,0.0026,0.5380
+followup,deit_small_cls_lesion,deit_small_cls,42,0.9426,0.9329,0.0097,0.0004,0.0190,0.0430
+followup,deit_small_cls_lesion,deit_small_cls,43,0.9413,0.9337,0.0075,0.0005,0.0147,0.0350
+followup,deit_small_cls_lesion,deit_small_cls,44,0.9469,0.9372,0.0097,0.0022,0.0168,0.0080
+followup,deit_small_cls_lesion,deit_small_cls,3 seeds,0.9436,0.9346,0.0090,0.0042,0.0139,0.0000
+followup,deit_small_cls_lesion,deit_small,42,0.9426,0.9365,0.0061,-0.0036,0.0155,0.2180
+followup,deit_small_cls_lesion,deit_small,43,0.9413,0.9339,0.0074,-0.0011,0.0151,0.0810
+followup,deit_small_cls_lesion,deit_small,44,0.9469,0.9375,0.0094,0.0015,0.0183,0.0190
+followup,deit_small_cls_lesion,deit_small,3 seeds,0.9436,0.9360,0.0076,0.0025,0.0131,0.0020
+followup,deit_small_cls_lesion,efficientnet_b0,42,0.9426,0.9347,0.0079,-0.0042,0.0205,0.1900
+followup,deit_small_cls_lesion,efficientnet_b0,43,0.9413,0.9374,0.0039,-0.0065,0.0139,0.4910
+followup,deit_small_cls_lesion,efficientnet_b0,44,0.9469,0.9404,0.0065,-0.0014,0.0145,0.1090
+followup,deit_small_cls_lesion,efficientnet_b0,3 seeds,0.9436,0.9375,0.0061,-0.0020,0.0142,0.1250
+followup,deit_small_cls_lesion,T-PAL,42,0.9426,0.8983,0.0443,0.0322,0.0577,0.0000
+followup,deit_small_cls_lesion,T-PAL,43,0.9413,0.9003,0.0410,0.0272,0.0542,0.0000
+followup,deit_small_cls_lesion,T-PAL,44,0.9469,0.9061,0.0408,0.0292,0.0524,0.0000
+followup,deit_small_cls_lesion,T-PAL,3 seeds,0.9436,0.9016,0.0420,0.0319,0.0518,0.0000
+followup2,efficientnet_b0_cls,efficientnet_b0,42,0.9285,0.9347,-0.0062,-0.0140,0.0011,0.0990
+followup2,efficientnet_b0_cls,efficientnet_b0,43,0.9374,0.9374,0.0000,-0.0073,0.0072,0.9790
+followup2,efficientnet_b0_cls,efficientnet_b0,44,0.9331,0.9404,-0.0074,-0.0142,-0.0008,0.0270
+followup2,efficientnet_b0_cls,efficientnet_b0,3 seeds,0.9330,0.9375,-0.0045,-0.0097,0.0001,0.0600
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,42,0.9413,0.9285,0.0128,0.0046,0.0215,0.0000
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,43,0.9435,0.9374,0.0061,-0.0019,0.0143,0.1630
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,44,0.9361,0.9331,0.0031,-0.0045,0.0096,0.4190
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0_cls,3 seeds,0.9403,0.9330,0.0073,0.0019,0.0125,0.0020
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,42,0.9413,0.9347,0.0065,-0.0005,0.0134,0.0660
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,43,0.9435,0.9374,0.0061,-0.0022,0.0139,0.1420
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,44,0.9361,0.9404,-0.0043,-0.0130,0.0032,0.2890
+followup2,efficientnet_b0_cls_lesion,efficientnet_b0,3 seeds,0.9403,0.9375,0.0028,-0.0023,0.0077,0.3140
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,42,0.9413,0.9426,-0.0014,-0.0123,0.0093,0.7890
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,43,0.9435,0.9413,0.0022,-0.0067,0.0113,0.6290
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,44,0.9361,0.9469,-0.0108,-0.0214,-0.0008,0.0340
+followup2,efficientnet_b0_cls_lesion,deit_small_cls_lesion,3 seeds,0.9403,0.9436,-0.0033,-0.0109,0.0036,0.3830
+followup2,efficientnet_b0_cls_lesion,T-PAL,42,0.9413,0.8983,0.0429,0.0296,0.0566,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,43,0.9435,0.9003,0.0432,0.0310,0.0567,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,44,0.9361,0.9061,0.0300,0.0155,0.0438,0.0000
+followup2,efficientnet_b0_cls_lesion,T-PAL,3 seeds,0.9403,0.9016,0.0387,0.0275,0.0503,0.0000
+followup2,bipal_tpal_cls_lesion_m10,bipal_tpal_cls,42,0.9033,0.8960,0.0074,-0.0041,0.0195,0.2010
+followup2,bipal_tpal_cls_lesion_m10,bipal_tpal_cls,43,0.8983,0.9040,-0.0057,-0.0151,0.0044,0.2810
+followup2,bipal_tpal_cls_lesion_m10,bipal_tpal_cls,44,0.9033,0.9014,0.0019,-0.0096,0.0132,0.8050
+followup2,bipal_tpal_cls_lesion_m10,bipal_tpal_cls,3 seeds,0.9017,0.9005,0.0012,-0.0066,0.0086,0.7600
+followup2,bipal_tpal_cls_lesion_m25,bipal_tpal_cls,42,0.9049,0.8960,0.0089,-0.0027,0.0210,0.1180
+followup2,bipal_tpal_cls_lesion_m25,bipal_tpal_cls,43,0.9058,0.9040,0.0018,-0.0101,0.0125,0.6760
+followup2,bipal_tpal_cls_lesion_m25,bipal_tpal_cls,44,0.9019,0.9014,0.0006,-0.0113,0.0120,0.9730
+followup2,bipal_tpal_cls_lesion_m25,bipal_tpal_cls,3 seeds,0.9042,0.9005,0.0038,-0.0038,0.0111,0.3340
+followup2,bipal_tpal_cls_lesion_m50,bipal_tpal_cls,42,0.9113,0.8960,0.0153,0.0029,0.0274,0.0080
+followup2,bipal_tpal_cls_lesion_m50,bipal_tpal_cls,43,0.9101,0.9040,0.0061,-0.0040,0.0167,0.2350
+followup2,bipal_tpal_cls_lesion_m50,bipal_tpal_cls,44,0.9086,0.9014,0.0072,-0.0059,0.0205,0.2900
+followup2,bipal_tpal_cls_lesion_m50,bipal_tpal_cls,3 seeds,0.9100,0.9005,0.0095,0.0008,0.0180,0.0310
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m10,42,0.9154,0.9033,0.0121,0.0013,0.0226,0.0290
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m10,43,0.9158,0.8983,0.0175,0.0051,0.0289,0.0030
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m10,44,0.9222,0.9033,0.0189,0.0085,0.0287,0.0000
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m10,3 seeds,0.9178,0.9017,0.0162,0.0082,0.0231,0.0000
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m50,42,0.9154,0.9113,0.0042,-0.0055,0.0132,0.3770
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m50,43,0.9158,0.9101,0.0057,-0.0030,0.0145,0.2140
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m50,44,0.9222,0.9086,0.0136,0.0027,0.0238,0.0110
+followup2,bipal_tpal_cls_lesion,bipal_tpal_cls_lesion_m50,3 seeds,0.9178,0.9100,0.0078,0.0017,0.0137,0.0090
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,42,0.9408,0.9347,0.0061,-0.0030,0.0149,0.1910
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,43,0.9375,0.9374,0.0001,-0.0083,0.0086,1.0000
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,44,0.9481,0.9404,0.0076,0.0013,0.0140,0.0110
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0,3 seeds,0.9421,0.9375,0.0046,-0.0012,0.0103,0.1240
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,42,0.9408,0.9413,-0.0004,-0.0078,0.0068,0.9060
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,43,0.9375,0.9435,-0.0060,-0.0142,0.0011,0.1230
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,44,0.9481,0.9361,0.0119,0.0038,0.0211,0.0000
+followup3,efficientnet_b0_aux_lesion,efficientnet_b0_cls_lesion,3 seeds,0.9421,0.9403,0.0019,-0.0030,0.0070,0.4860
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,42,0.9408,0.9426,-0.0018,-0.0124,0.0083,0.7150
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,43,0.9375,0.9413,-0.0038,-0.0127,0.0053,0.4240
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,44,0.9481,0.9469,0.0011,-0.0067,0.0089,0.7500
+followup3,efficientnet_b0_aux_lesion,deit_small_cls_lesion,3 seeds,0.9421,0.9436,-0.0015,-0.0082,0.0051,0.6880
+followup3,efficientnet_b0_aux_lesion,T-PAL,42,0.9408,0.8983,0.0425,0.0302,0.0549,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,43,0.9375,0.9003,0.0372,0.0245,0.0501,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,44,0.9481,0.9061,0.0419,0.0303,0.0546,0.0000
+followup3,efficientnet_b0_aux_lesion,T-PAL,3 seeds,0.9421,0.9016,0.0406,0.0308,0.0502,0.0000
+followup3,deit_small_cls_lesion_m10,deit_small_cls,42,0.9399,0.9329,0.0069,-0.0014,0.0157,0.1050
+followup3,deit_small_cls_lesion_m10,deit_small_cls,43,0.9411,0.9337,0.0074,0.0003,0.0150,0.0470
+followup3,deit_small_cls_lesion_m10,deit_small_cls,44,0.9422,0.9372,0.0050,-0.0036,0.0126,0.2500
+followup3,deit_small_cls_lesion_m10,deit_small_cls,3 seeds,0.9411,0.9346,0.0064,0.0013,0.0115,0.0100
+followup3,deit_small_cls_lesion_m25,deit_small_cls,42,0.9406,0.9329,0.0076,-0.0003,0.0160,0.0640
+followup3,deit_small_cls_lesion_m25,deit_small_cls,43,0.9378,0.9337,0.0040,-0.0044,0.0136,0.3920
+followup3,deit_small_cls_lesion_m25,deit_small_cls,44,0.9386,0.9372,0.0014,-0.0061,0.0091,0.7560
+followup3,deit_small_cls_lesion_m25,deit_small_cls,3 seeds,0.9390,0.9346,0.0044,-0.0002,0.0089,0.0630
+followup3,deit_small_cls_lesion_m50,deit_small_cls,42,0.9374,0.9329,0.0044,-0.0033,0.0129,0.3030
+followup3,deit_small_cls_lesion_m50,deit_small_cls,43,0.9439,0.9337,0.0101,0.0020,0.0185,0.0160
+followup3,deit_small_cls_lesion_m50,deit_small_cls,44,0.9429,0.9372,0.0057,-0.0025,0.0135,0.1820
+followup3,deit_small_cls_lesion_m50,deit_small_cls,3 seeds,0.9414,0.9346,0.0068,0.0015,0.0121,0.0120
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m10,42,0.9426,0.9399,0.0028,-0.0061,0.0117,0.5370
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m10,43,0.9413,0.9411,0.0001,-0.0077,0.0073,0.9880
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m10,44,0.9469,0.9422,0.0047,-0.0022,0.0123,0.2040
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m10,3 seeds,0.9436,0.9411,0.0025,-0.0023,0.0070,0.2650
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m50,42,0.9426,0.9374,0.0053,-0.0034,0.0143,0.2250
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m50,43,0.9413,0.9439,-0.0026,-0.0097,0.0045,0.4880
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m50,44,0.9469,0.9429,0.0040,-0.0024,0.0109,0.2370
+followup3,deit_small_cls_lesion,deit_small_cls_lesion_m50,3 seeds,0.9436,0.9414,0.0022,-0.0023,0.0069,0.3460

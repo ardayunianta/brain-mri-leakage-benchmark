@@ -1,0 +1,43 @@
+{
+  "phash_radius": 8,
+  "ncc_threshold": 0.98,
+  "candidate_pairs_checked": 47428,
+  "candidate_pairs_ncc_ge_0.9": 28930,
+  "figshare_matched_images": 4831,
+  "figshare_patients": 233,
+  "images": 7200,
+  "byte_identical_extra_copies": 187,
+  "pixel_identical_extra_copies": 322,
+  "confirmed_near_duplicate_pairs": 18985,
+  "families": 984,
+  "images_in_families_of_size_gt1": 6738,
+  "families_with_conflicting_labels": 4,
+  "tpal_val_with_train_family_member": "993/1080 (91.9%)",
+  "tpal_val_leak_by_class": {
+    "glioma": 0.963,
+    "meningioma": 0.848,
+    "notumor": 0.874,
+    "pituitary": 0.993
+  },
+  "tpal_test_with_train_family_member": "979/1080 (90.6%)",
+  "tpal_test_leak_by_class": {
+    "glioma": 0.978,
+    "meningioma": 0.833,
+    "notumor": 0.841,
+    "pituitary": 0.974
+  },
+  "official_test_with_training_family_member": "1410/1600 (88.1%)",
+  "metadata_probe_balanced_accuracy": {
+    "4class/header_only": 0.6829,
+    "4class/header_plus_intensity": 0.7742,
+    "tumour_vs_none/header_only": 0.9014,
+    "tumour_vs_none/header_plus_intensity": 0.9171
+  },
+  "fold_sizes": {
+    "0": 1440,
+    "1": 1440,
+    "2": 1440,
+    "3": 1440,
+    "4": 1440
+  }
+}

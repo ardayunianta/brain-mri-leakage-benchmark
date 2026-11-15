@@ -1,0 +1,4 @@
+set,images,with a family member in training,%,95% CI,% glioma,% meningioma,% notumor,% pituitary
+Official Testing folder,1600,1410,88.1,86.4-89.6,81.5,72.0,99.5,99.5
+T-PAL validation split,1080,993,91.9,90.2-93.4,96.3,84.8,87.4,99.3
+T-PAL test split,1080,979,90.6,88.8-92.2,97.8,83.3,84.1,97.4

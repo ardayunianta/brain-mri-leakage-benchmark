@@ -1,0 +1,1506 @@
+rel_path,label,kaggle_best_ncc,kaggle_copy,kaggle_match,family
+data/external/pmram/extracted/Raw/512Glioma/glioma (1).jpg,glioma,0.9999989,True,Training/glioma/Tr-gl_180.jpg,pmram_0
+data/external/pmram/extracted/Raw/512Glioma/glioma (10).jpg,glioma,0.99999934,True,Training/glioma/Tr-gl_1181.jpg,pmram_1
+data/external/pmram/extracted/Raw/512Glioma/glioma (100).jpg,glioma,0.0,False,,pmram_2
+data/external/pmram/extracted/Raw/512Glioma/glioma (101).jpg,glioma,0.0,False,,pmram_3
+data/external/pmram/extracted/Raw/512Glioma/glioma (102).jpg,glioma,0.0,False,,pmram_4
+data/external/pmram/extracted/Raw/512Glioma/glioma (103).jpg,glioma,0.0,False,,pmram_5
+data/external/pmram/extracted/Raw/512Glioma/glioma (104).jpg,glioma,0.0,False,,pmram_6
+data/external/pmram/extracted/Raw/512Glioma/glioma (105).jpg,glioma,0.0,False,,pmram_7
+data/external/pmram/extracted/Raw/512Glioma/glioma (106).jpg,glioma,0.0,False,,pmram_8
+data/external/pmram/extracted/Raw/512Glioma/glioma (107).jpg,glioma,0.0,False,,pmram_9
+data/external/pmram/extracted/Raw/512Glioma/glioma (108).jpg,glioma,0.0,False,,pmram_10
+data/external/pmram/extracted/Raw/512Glioma/glioma (109).jpg,glioma,0.0,False,,pmram_11
+data/external/pmram/extracted/Raw/512Glioma/glioma (11).jpg,glioma,1.0,True,Training/glioma/Tr-gl_338.jpg,pmram_12
+data/external/pmram/extracted/Raw/512Glioma/glioma (110).jpg,glioma,0.0,False,,pmram_13
+data/external/pmram/extracted/Raw/512Glioma/glioma (111).jpg,glioma,0.0,False,,pmram_14
+data/external/pmram/extracted/Raw/512Glioma/glioma (112).jpg,glioma,0.8020768,False,,pmram_15
+data/external/pmram/extracted/Raw/512Glioma/glioma (113).jpg,glioma,0.0,False,,pmram_16
+data/external/pmram/extracted/Raw/512Glioma/glioma (114).jpg,glioma,0.0,False,,pmram_17
+data/external/pmram/extracted/Raw/512Glioma/glioma (115).jpg,glioma,0.0,False,,pmram_18
+data/external/pmram/extracted/Raw/512Glioma/glioma (116).jpg,glioma,0.0,False,,pmram_19
+data/external/pmram/extracted/Raw/512Glioma/glioma (117).jpg,glioma,0.0,False,,pmram_20
+data/external/pmram/extracted/Raw/512Glioma/glioma (118).jpg,glioma,0.0,False,,pmram_21
+data/external/pmram/extracted/Raw/512Glioma/glioma (119).jpg,glioma,0.0,False,,pmram_22
+data/external/pmram/extracted/Raw/512Glioma/glioma (12).jpg,glioma,0.99997437,True,Training/glioma/Tr-gl_740.jpg,pmram_23
+data/external/pmram/extracted/Raw/512Glioma/glioma (120).jpg,glioma,0.0,False,,pmram_24
+data/external/pmram/extracted/Raw/512Glioma/glioma (121).jpg,glioma,0.0,False,,pmram_25
+data/external/pmram/extracted/Raw/512Glioma/glioma (122).jpg,glioma,0.0,False,,pmram_26
+data/external/pmram/extracted/Raw/512Glioma/glioma (123).jpg,glioma,0.0,False,,pmram_27
+data/external/pmram/extracted/Raw/512Glioma/glioma (124).jpg,glioma,0.0,False,,pmram_28
+data/external/pmram/extracted/Raw/512Glioma/glioma (125).jpg,glioma,0.0,False,,pmram_29
+data/external/pmram/extracted/Raw/512Glioma/glioma (126).jpg,glioma,0.6337359,False,,pmram_30
+data/external/pmram/extracted/Raw/512Glioma/glioma (127).jpg,glioma,0.0,False,,pmram_31
+data/external/pmram/extracted/Raw/512Glioma/glioma (128).jpg,glioma,0.0,False,,pmram_32
+data/external/pmram/extracted/Raw/512Glioma/glioma (129).jpg,glioma,0.0,False,,pmram_33
+data/external/pmram/extracted/Raw/512Glioma/glioma (13).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_216.jpg,pmram_34
+data/external/pmram/extracted/Raw/512Glioma/glioma (130).jpg,glioma,0.0,False,,pmram_35
+data/external/pmram/extracted/Raw/512Glioma/glioma (131).jpg,glioma,0.0,False,,pmram_36
+data/external/pmram/extracted/Raw/512Glioma/glioma (132).jpg,glioma,0.0,False,,pmram_37
+data/external/pmram/extracted/Raw/512Glioma/glioma (133).jpg,glioma,0.0,False,,pmram_38
+data/external/pmram/extracted/Raw/512Glioma/glioma (134).jpg,glioma,0.0,False,,pmram_39
+data/external/pmram/extracted/Raw/512Glioma/glioma (135).jpg,glioma,0.6249478,False,,pmram_40
+data/external/pmram/extracted/Raw/512Glioma/glioma (136).jpg,glioma,0.0,False,,pmram_41
+data/external/pmram/extracted/Raw/512Glioma/glioma (137).jpg,glioma,0.63704336,False,,pmram_42
+data/external/pmram/extracted/Raw/512Glioma/glioma (138).jpg,glioma,0.0,False,,pmram_43
+data/external/pmram/extracted/Raw/512Glioma/glioma (139).jpg,glioma,0.0,False,,pmram_44
+data/external/pmram/extracted/Raw/512Glioma/glioma (14).jpg,glioma,1.0,True,Training/glioma/Tr-gl_630.jpg,pmram_45
+data/external/pmram/extracted/Raw/512Glioma/glioma (140).jpg,glioma,0.0,False,,pmram_46
+data/external/pmram/extracted/Raw/512Glioma/glioma (141).jpg,glioma,0.68267804,False,,pmram_47
+data/external/pmram/extracted/Raw/512Glioma/glioma (142).jpg,glioma,0.0,False,,pmram_48
+data/external/pmram/extracted/Raw/512Glioma/glioma (143).jpg,glioma,0.0,False,,pmram_49
+data/external/pmram/extracted/Raw/512Glioma/glioma (144).jpg,glioma,0.0,False,,pmram_50
+data/external/pmram/extracted/Raw/512Glioma/glioma (145).jpg,glioma,0.0,False,,pmram_51
+data/external/pmram/extracted/Raw/512Glioma/glioma (146).jpg,glioma,0.0,False,,pmram_52
+data/external/pmram/extracted/Raw/512Glioma/glioma (147).jpg,glioma,0.0,False,,pmram_53
+data/external/pmram/extracted/Raw/512Glioma/glioma (148).jpg,glioma,0.0,False,,pmram_54
+data/external/pmram/extracted/Raw/512Glioma/glioma (149).jpg,glioma,0.0,False,,pmram_55
+data/external/pmram/extracted/Raw/512Glioma/glioma (15).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_946.jpg,pmram_56
+data/external/pmram/extracted/Raw/512Glioma/glioma (150).jpg,glioma,0.0,False,,pmram_57
+data/external/pmram/extracted/Raw/512Glioma/glioma (151).jpg,glioma,0.0,False,,pmram_58
+data/external/pmram/extracted/Raw/512Glioma/glioma (152).jpg,glioma,0.0,False,,pmram_59
+data/external/pmram/extracted/Raw/512Glioma/glioma (153).jpg,glioma,0.69261336,False,,pmram_60
+data/external/pmram/extracted/Raw/512Glioma/glioma (154).jpg,glioma,0.0,False,,pmram_61
+data/external/pmram/extracted/Raw/512Glioma/glioma (155).jpg,glioma,0.0,False,,pmram_62
+data/external/pmram/extracted/Raw/512Glioma/glioma (156).jpg,glioma,0.0,False,,pmram_63
+data/external/pmram/extracted/Raw/512Glioma/glioma (157).jpg,glioma,0.0,False,,pmram_64
+data/external/pmram/extracted/Raw/512Glioma/glioma (158).jpg,glioma,0.8793539,False,,pmram_65
+data/external/pmram/extracted/Raw/512Glioma/glioma (159).jpg,glioma,0.0,False,,pmram_66
+data/external/pmram/extracted/Raw/512Glioma/glioma (16).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_152.jpg,pmram_67
+data/external/pmram/extracted/Raw/512Glioma/glioma (160).jpg,glioma,0.0,False,,pmram_68
+data/external/pmram/extracted/Raw/512Glioma/glioma (161).jpg,glioma,0.0,False,,pmram_69
+data/external/pmram/extracted/Raw/512Glioma/glioma (162).jpg,glioma,0.58948314,False,,pmram_70
+data/external/pmram/extracted/Raw/512Glioma/glioma (163).jpg,glioma,0.0,False,,pmram_71
+data/external/pmram/extracted/Raw/512Glioma/glioma (164).jpg,glioma,0.0,False,,pmram_72
+data/external/pmram/extracted/Raw/512Glioma/glioma (165).jpg,glioma,0.0,False,,pmram_73
+data/external/pmram/extracted/Raw/512Glioma/glioma (166).jpg,glioma,0.0,False,,pmram_74
+data/external/pmram/extracted/Raw/512Glioma/glioma (167).jpg,glioma,0.0,False,,pmram_75
+data/external/pmram/extracted/Raw/512Glioma/glioma (168).jpg,glioma,0.0,False,,pmram_76
+data/external/pmram/extracted/Raw/512Glioma/glioma (169).jpg,glioma,0.0,False,,pmram_77
+data/external/pmram/extracted/Raw/512Glioma/glioma (17).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_526.jpg,pmram_78
+data/external/pmram/extracted/Raw/512Glioma/glioma (170).jpg,glioma,0.0,False,,pmram_79
+data/external/pmram/extracted/Raw/512Glioma/glioma (171).jpg,glioma,0.0,False,,pmram_80
+data/external/pmram/extracted/Raw/512Glioma/glioma (172).jpg,glioma,0.5661557,False,,pmram_81
+data/external/pmram/extracted/Raw/512Glioma/glioma (173).jpg,glioma,0.0,False,,pmram_82
+data/external/pmram/extracted/Raw/512Glioma/glioma (174).jpg,glioma,0.0,False,,pmram_83
+data/external/pmram/extracted/Raw/512Glioma/glioma (175).jpg,glioma,0.0,False,,pmram_84
+data/external/pmram/extracted/Raw/512Glioma/glioma (176).jpg,glioma,0.0,False,,pmram_85
+data/external/pmram/extracted/Raw/512Glioma/glioma (177).jpg,glioma,0.0,False,,pmram_86
+data/external/pmram/extracted/Raw/512Glioma/glioma (178).jpg,glioma,0.5603765,False,,pmram_87
+data/external/pmram/extracted/Raw/512Glioma/glioma (179).jpg,glioma,0.0,False,,pmram_88
+data/external/pmram/extracted/Raw/512Glioma/glioma (18).jpg,glioma,0.9999792,True,Training/glioma/Tr-gl_153.jpg,pmram_89
+data/external/pmram/extracted/Raw/512Glioma/glioma (180).jpg,glioma,0.0,False,,pmram_90
+data/external/pmram/extracted/Raw/512Glioma/glioma (181).jpg,glioma,0.0,False,,pmram_91
+data/external/pmram/extracted/Raw/512Glioma/glioma (182).jpg,glioma,0.0,False,,pmram_92
+data/external/pmram/extracted/Raw/512Glioma/glioma (183).jpg,glioma,0.0,False,,pmram_93
+data/external/pmram/extracted/Raw/512Glioma/glioma (184).jpg,glioma,0.0,False,,pmram_94
+data/external/pmram/extracted/Raw/512Glioma/glioma (185).jpg,glioma,0.0,False,,pmram_95
+data/external/pmram/extracted/Raw/512Glioma/glioma (186).jpg,glioma,0.0,False,,pmram_96
+data/external/pmram/extracted/Raw/512Glioma/glioma (187).jpg,glioma,0.0,False,,pmram_97
+data/external/pmram/extracted/Raw/512Glioma/glioma (188).jpg,glioma,0.0,False,,pmram_98
+data/external/pmram/extracted/Raw/512Glioma/glioma (189).jpg,glioma,0.62070805,False,,pmram_99
+data/external/pmram/extracted/Raw/512Glioma/glioma (19).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_741.jpg,pmram_100
+data/external/pmram/extracted/Raw/512Glioma/glioma (190).jpg,glioma,0.0,False,,pmram_101
+data/external/pmram/extracted/Raw/512Glioma/glioma (191).jpg,glioma,0.0,False,,pmram_102
+data/external/pmram/extracted/Raw/512Glioma/glioma (192).jpg,glioma,0.0,False,,pmram_103
+data/external/pmram/extracted/Raw/512Glioma/glioma (193).jpg,glioma,0.0,False,,pmram_104
+data/external/pmram/extracted/Raw/512Glioma/glioma (194).jpg,glioma,0.0,False,,pmram_105
+data/external/pmram/extracted/Raw/512Glioma/glioma (195).jpg,glioma,0.6627368,False,,pmram_106
+data/external/pmram/extracted/Raw/512Glioma/glioma (196).jpg,glioma,0.0,False,,pmram_107
+data/external/pmram/extracted/Raw/512Glioma/glioma (197).jpg,glioma,0.0,False,,pmram_108
+data/external/pmram/extracted/Raw/512Glioma/glioma (198).jpg,glioma,0.0,False,,pmram_109
+data/external/pmram/extracted/Raw/512Glioma/glioma (199).jpg,glioma,0.0,False,,pmram_110
+data/external/pmram/extracted/Raw/512Glioma/glioma (2).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_822.jpg,pmram_111
+data/external/pmram/extracted/Raw/512Glioma/glioma (20).jpg,glioma,0.9999995,True,Training/glioma/Tr-gl_606.jpg,pmram_112
+data/external/pmram/extracted/Raw/512Glioma/glioma (200).jpg,glioma,0.6451417,False,,pmram_113
+data/external/pmram/extracted/Raw/512Glioma/glioma (201).jpg,glioma,0.0,False,,pmram_114
+data/external/pmram/extracted/Raw/512Glioma/glioma (202).jpg,glioma,0.0,False,,pmram_115
+data/external/pmram/extracted/Raw/512Glioma/glioma (203).jpg,glioma,0.0,False,,pmram_41
+data/external/pmram/extracted/Raw/512Glioma/glioma (204).jpg,glioma,0.0,False,,pmram_117
+data/external/pmram/extracted/Raw/512Glioma/glioma (205).jpg,glioma,0.0,False,,pmram_118
+data/external/pmram/extracted/Raw/512Glioma/glioma (206).jpg,glioma,0.0,False,,pmram_119
+data/external/pmram/extracted/Raw/512Glioma/glioma (207).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1205.jpg,pmram_120
+data/external/pmram/extracted/Raw/512Glioma/glioma (208).jpg,glioma,0.999999,True,Training/glioma/Tr-gl_645.jpg,pmram_121
+data/external/pmram/extracted/Raw/512Glioma/glioma (209).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1153.jpg,pmram_122
+data/external/pmram/extracted/Raw/512Glioma/glioma (21).jpg,glioma,0.9999991,True,Training/glioma/Tr-gl_86.jpg,pmram_123
+data/external/pmram/extracted/Raw/512Glioma/glioma (210).jpg,glioma,0.999999,True,Training/glioma/Tr-gl_460.jpg,pmram_124
+data/external/pmram/extracted/Raw/512Glioma/glioma (211).jpg,glioma,1.0,True,Training/glioma/Tr-gl_613.jpg,pmram_125
+data/external/pmram/extracted/Raw/512Glioma/glioma (212).jpg,glioma,0.9999985,True,Training/glioma/Tr-gl_959.jpg,pmram_126
+data/external/pmram/extracted/Raw/512Glioma/glioma (213).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_272.jpg,pmram_127
+data/external/pmram/extracted/Raw/512Glioma/glioma (214).jpg,glioma,1.0,True,Training/glioma/Tr-gl_816.jpg,pmram_128
+data/external/pmram/extracted/Raw/512Glioma/glioma (215).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_943.jpg,pmram_129
+data/external/pmram/extracted/Raw/512Glioma/glioma (216).jpg,glioma,0.9999995,True,Training/glioma/Tr-gl_156.jpg,pmram_130
+data/external/pmram/extracted/Raw/512Glioma/glioma (217).jpg,glioma,0.99999934,True,Training/glioma/Tr-gl_449.jpg,pmram_131
+data/external/pmram/extracted/Raw/512Glioma/glioma (218).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_494.jpg,pmram_132
+data/external/pmram/extracted/Raw/512Glioma/glioma (219).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1116.jpg,pmram_133
+data/external/pmram/extracted/Raw/512Glioma/glioma (22).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_1339.jpg,pmram_134
+data/external/pmram/extracted/Raw/512Glioma/glioma (220).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1195.jpg,pmram_135
+data/external/pmram/extracted/Raw/512Glioma/glioma (221).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_1329.jpg,pmram_136
+data/external/pmram/extracted/Raw/512Glioma/glioma (222).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_532.jpg,pmram_137
+data/external/pmram/extracted/Raw/512Glioma/glioma (223).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_835.jpg,pmram_138
+data/external/pmram/extracted/Raw/512Glioma/glioma (224).jpg,glioma,0.99998236,True,Training/glioma/Tr-gl_49.jpg,pmram_139
+data/external/pmram/extracted/Raw/512Glioma/glioma (225).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_283.jpg,pmram_140
+data/external/pmram/extracted/Raw/512Glioma/glioma (226).jpg,glioma,0.9999746,True,Training/glioma/Tr-gl_553.jpg,pmram_141
+data/external/pmram/extracted/Raw/512Glioma/glioma (227).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_125.jpg,pmram_142
+data/external/pmram/extracted/Raw/512Glioma/glioma (228).jpg,glioma,0.9999996,True,Training/glioma/Tr-gl_117.jpg,pmram_143
+data/external/pmram/extracted/Raw/512Glioma/glioma (229).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_865.jpg,pmram_144
+data/external/pmram/extracted/Raw/512Glioma/glioma (23).jpg,glioma,0.9999889,True,Training/glioma/Tr-gl_823.jpg,pmram_145
+data/external/pmram/extracted/Raw/512Glioma/glioma (230).jpg,glioma,1.0,True,Training/glioma/Tr-gl_947.jpg,pmram_146
+data/external/pmram/extracted/Raw/512Glioma/glioma (231).jpg,glioma,0.99997634,True,Training/glioma/Tr-gl_868.jpg,pmram_147
+data/external/pmram/extracted/Raw/512Glioma/glioma (232).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_1183.jpg,pmram_148
+data/external/pmram/extracted/Raw/512Glioma/glioma (233).jpg,glioma,0.99997735,True,Training/glioma/Tr-gl_1115.jpg,pmram_149
+data/external/pmram/extracted/Raw/512Glioma/glioma (234).jpg,glioma,0.9999987,True,Training/glioma/Tr-gl_1160.jpg,pmram_150
+data/external/pmram/extracted/Raw/512Glioma/glioma (235).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_1334.jpg,pmram_151
+data/external/pmram/extracted/Raw/512Glioma/glioma (236).jpg,glioma,0.9999757,True,Training/glioma/Tr-gl_185.jpg,pmram_152
+data/external/pmram/extracted/Raw/512Glioma/glioma (237).jpg,glioma,0.9999782,True,Training/glioma/Tr-gl_447.jpg,pmram_153
+data/external/pmram/extracted/Raw/512Glioma/glioma (238).jpg,glioma,0.9999977,True,Training/glioma/Tr-gl_1248.jpg,pmram_154
+data/external/pmram/extracted/Raw/512Glioma/glioma (239).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_1340.jpg,pmram_155
+data/external/pmram/extracted/Raw/512Glioma/glioma (24).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_658.jpg,pmram_156
+data/external/pmram/extracted/Raw/512Glioma/glioma (240).jpg,glioma,0.9999988,True,Training/glioma/Tr-gl_784.jpg,pmram_157
+data/external/pmram/extracted/Raw/512Glioma/glioma (241).jpg,glioma,0.9999871,True,Training/glioma/Tr-gl_264.jpg,pmram_158
+data/external/pmram/extracted/Raw/512Glioma/glioma (242).jpg,glioma,1.0,True,Training/glioma/Tr-gl_22.jpg,pmram_159
+data/external/pmram/extracted/Raw/512Glioma/glioma (243).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_344.jpg,pmram_160
+data/external/pmram/extracted/Raw/512Glioma/glioma (244).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_913.jpg,pmram_161
+data/external/pmram/extracted/Raw/512Glioma/glioma (245).jpg,glioma,0.9999838,True,Training/glioma/Tr-gl_59.jpg,pmram_162
+data/external/pmram/extracted/Raw/512Glioma/glioma (246).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_315.jpg,pmram_163
+data/external/pmram/extracted/Raw/512Glioma/glioma (247).jpg,glioma,1.0,True,Training/glioma/Tr-gl_686.jpg,pmram_164
+data/external/pmram/extracted/Raw/512Glioma/glioma (248).jpg,glioma,0.99997413,True,Training/glioma/Tr-gl_1215.jpg,pmram_165
+data/external/pmram/extracted/Raw/512Glioma/glioma (249).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1319.jpg,pmram_166
+data/external/pmram/extracted/Raw/512Glioma/glioma (25).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_735.jpg,pmram_167
+data/external/pmram/extracted/Raw/512Glioma/glioma (250).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1379.jpg,pmram_168
+data/external/pmram/extracted/Raw/512Glioma/glioma (251).jpg,glioma,0.9999793,True,Training/glioma/Tr-gl_76.jpg,pmram_56
+data/external/pmram/extracted/Raw/512Glioma/glioma (252).jpg,glioma,1.0,True,Training/glioma/Tr-gl_54.jpg,pmram_170
+data/external/pmram/extracted/Raw/512Glioma/glioma (253).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_6.jpg,pmram_171
+data/external/pmram/extracted/Raw/512Glioma/glioma (254).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_371.jpg,pmram_172
+data/external/pmram/extracted/Raw/512Glioma/glioma (255).jpg,glioma,1.0,True,Training/glioma/Tr-gl_643.jpg,pmram_173
+data/external/pmram/extracted/Raw/512Glioma/glioma (256).jpg,glioma,0.9999894,True,Training/glioma/Tr-gl_318.jpg,pmram_174
+data/external/pmram/extracted/Raw/512Glioma/glioma (257).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_88.jpg,pmram_175
+data/external/pmram/extracted/Raw/512Glioma/glioma (258).jpg,glioma,0.9999995,True,Training/glioma/Tr-gl_1232.jpg,pmram_176
+data/external/pmram/extracted/Raw/512Glioma/glioma (259).jpg,glioma,1.0,True,Training/glioma/Tr-gl_436.jpg,pmram_177
+data/external/pmram/extracted/Raw/512Glioma/glioma (26).jpg,glioma,0.9999695,True,Training/glioma/Tr-gl_1168.jpg,pmram_178
+data/external/pmram/extracted/Raw/512Glioma/glioma (260).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_903.jpg,pmram_179
+data/external/pmram/extracted/Raw/512Glioma/glioma (261).jpg,glioma,0.9999995,True,Training/glioma/Tr-gl_709.jpg,pmram_180
+data/external/pmram/extracted/Raw/512Glioma/glioma (262).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_997.jpg,pmram_181
+data/external/pmram/extracted/Raw/512Glioma/glioma (263).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_757.jpg,pmram_182
+data/external/pmram/extracted/Raw/512Glioma/glioma (264).jpg,glioma,0.99999857,True,Training/glioma/Tr-gl_468.jpg,pmram_183
+data/external/pmram/extracted/Raw/512Glioma/glioma (265).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1262.jpg,pmram_184
+data/external/pmram/extracted/Raw/512Glioma/glioma (266).jpg,glioma,0.99997556,True,Training/glioma/Tr-gl_423.jpg,pmram_185
+data/external/pmram/extracted/Raw/512Glioma/glioma (267).jpg,glioma,0.99999934,True,Training/glioma/Tr-gl_301.jpg,pmram_186
+data/external/pmram/extracted/Raw/512Glioma/glioma (268).jpg,glioma,0.9999851,True,Training/glioma/Tr-gl_396.jpg,pmram_187
+data/external/pmram/extracted/Raw/512Glioma/glioma (269).jpg,glioma,0.9999995,True,Training/glioma/Tr-gl_1064.jpg,pmram_188
+data/external/pmram/extracted/Raw/512Glioma/glioma (27).jpg,glioma,0.99997365,True,Training/glioma/Tr-gl_388.jpg,pmram_189
+data/external/pmram/extracted/Raw/512Glioma/glioma (270).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1354.jpg,pmram_190
+data/external/pmram/extracted/Raw/512Glioma/glioma (271).jpg,glioma,0.99998236,True,Training/glioma/Tr-gl_839.jpg,pmram_191
+data/external/pmram/extracted/Raw/512Glioma/glioma (272).jpg,glioma,1.0,True,Training/glioma/Tr-gl_886.jpg,pmram_192
+data/external/pmram/extracted/Raw/512Glioma/glioma (273).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1316.jpg,pmram_193
+data/external/pmram/extracted/Raw/512Glioma/glioma (274).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_480.jpg,pmram_194
+data/external/pmram/extracted/Raw/512Glioma/glioma (275).jpg,glioma,0.99999917,True,Training/glioma/Tr-gl_291.jpg,pmram_195
+data/external/pmram/extracted/Raw/512Glioma/glioma (276).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_629.jpg,pmram_196
+data/external/pmram/extracted/Raw/512Glioma/glioma (277).jpg,glioma,0.9999813,True,Training/glioma/Tr-gl_931.jpg,pmram_197
+data/external/pmram/extracted/Raw/512Glioma/glioma (278).jpg,glioma,0.999999,True,Training/glioma/Tr-gl_561.jpg,pmram_198
+data/external/pmram/extracted/Raw/512Glioma/glioma (279).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_829.jpg,pmram_199
+data/external/pmram/extracted/Raw/512Glioma/glioma (28).jpg,glioma,0.99999934,True,Training/glioma/Tr-gl_224.jpg,pmram_200
+data/external/pmram/extracted/Raw/512Glioma/glioma (280).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_1298.jpg,pmram_201
+data/external/pmram/extracted/Raw/512Glioma/glioma (281).jpg,glioma,0.99998915,True,Training/glioma/Tr-gl_181.jpg,pmram_202
+data/external/pmram/extracted/Raw/512Glioma/glioma (282).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_331.jpg,pmram_203
+data/external/pmram/extracted/Raw/512Glioma/glioma (283).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_1024.jpg,pmram_152
+data/external/pmram/extracted/Raw/512Glioma/glioma (284).jpg,glioma,0.9999987,True,Training/glioma/Tr-gl_617.jpg,pmram_205
+data/external/pmram/extracted/Raw/512Glioma/glioma (285).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_514.jpg,pmram_206
+data/external/pmram/extracted/Raw/512Glioma/glioma (286).jpg,glioma,0.9999988,True,Training/glioma/Tr-gl_1228.jpg,pmram_207
+data/external/pmram/extracted/Raw/512Glioma/glioma (287).jpg,glioma,0.99999917,True,Training/glioma/Tr-gl_744.jpg,pmram_208
+data/external/pmram/extracted/Raw/512Glioma/glioma (288).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_389.jpg,pmram_209
+data/external/pmram/extracted/Raw/512Glioma/glioma (289).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_496.jpg,pmram_210
+data/external/pmram/extracted/Raw/512Glioma/glioma (29).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_581.jpg,pmram_211
+data/external/pmram/extracted/Raw/512Glioma/glioma (290).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1050.jpg,pmram_212
+data/external/pmram/extracted/Raw/512Glioma/glioma (291).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_271.jpg,pmram_213
+data/external/pmram/extracted/Raw/512Glioma/glioma (292).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_624.jpg,pmram_214
+data/external/pmram/extracted/Raw/512Glioma/glioma (293).jpg,glioma,0.999998,True,Training/glioma/Tr-gl_1373.jpg,pmram_215
+data/external/pmram/extracted/Raw/512Glioma/glioma (294).jpg,glioma,0.9999979,True,Training/glioma/Tr-gl_218.jpg,pmram_216
+data/external/pmram/extracted/Raw/512Glioma/glioma (295).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_828.jpg,pmram_217
+data/external/pmram/extracted/Raw/512Glioma/glioma (296).jpg,glioma,1.0,True,Training/glioma/Tr-gl_717.jpg,pmram_218
+data/external/pmram/extracted/Raw/512Glioma/glioma (297).jpg,glioma,0.99999857,True,Training/glioma/Tr-gl_528.jpg,pmram_219
+data/external/pmram/extracted/Raw/512Glioma/glioma (298).jpg,glioma,0.9999991,True,Training/glioma/Tr-gl_351.jpg,pmram_220
+data/external/pmram/extracted/Raw/512Glioma/glioma (299).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_536.jpg,pmram_221
+data/external/pmram/extracted/Raw/512Glioma/glioma (3).jpg,glioma,0.9999833,True,Training/glioma/Tr-gl_1174.jpg,pmram_222
+data/external/pmram/extracted/Raw/512Glioma/glioma (30).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_1356.jpg,pmram_223
+data/external/pmram/extracted/Raw/512Glioma/glioma (300).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_602.jpg,pmram_224
+data/external/pmram/extracted/Raw/512Glioma/glioma (301).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_541.jpg,pmram_225
+data/external/pmram/extracted/Raw/512Glioma/glioma (302).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_349.jpg,pmram_226
+data/external/pmram/extracted/Raw/512Glioma/glioma (303).jpg,glioma,0.99999905,True,Training/glioma/Tr-gl_1247.jpg,pmram_227
+data/external/pmram/extracted/Raw/512Glioma/glioma (304).jpg,glioma,0.9999985,True,Training/glioma/Tr-gl_64.jpg,pmram_228
+data/external/pmram/extracted/Raw/512Glioma/glioma (305).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_316.jpg,pmram_229
+data/external/pmram/extracted/Raw/512Glioma/glioma (306).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_1376.jpg,pmram_230
+data/external/pmram/extracted/Raw/512Glioma/glioma (307).jpg,glioma,1.0,True,Training/glioma/Tr-gl_680.jpg,pmram_231
+data/external/pmram/extracted/Raw/512Glioma/glioma (308).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_569.jpg,pmram_232
+data/external/pmram/extracted/Raw/512Glioma/glioma (309).jpg,glioma,0.9999762,True,Training/glioma/Tr-gl_742.jpg,pmram_233
+data/external/pmram/extracted/Raw/512Glioma/glioma (31).jpg,glioma,1.0,True,Training/glioma/Tr-gl_950.jpg,pmram_234
+data/external/pmram/extracted/Raw/512Glioma/glioma (310).jpg,glioma,0.99999905,True,Training/glioma/Tr-gl_9.jpg,pmram_235
+data/external/pmram/extracted/Raw/512Glioma/glioma (311).jpg,glioma,1.0,True,Training/glioma/Tr-gl_640.jpg,pmram_236
+data/external/pmram/extracted/Raw/512Glioma/glioma (312).jpg,glioma,0.9999992,True,Training/glioma/Tr-gl_507.jpg,pmram_237
+data/external/pmram/extracted/Raw/512Glioma/glioma (313).jpg,glioma,0.9999985,True,Training/glioma/Tr-gl_841.jpg,pmram_238
+data/external/pmram/extracted/Raw/512Glioma/glioma (314).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_836.jpg,pmram_239
+data/external/pmram/extracted/Raw/512Glioma/glioma (315).jpg,glioma,0.99997747,True,Training/glioma/Tr-gl_563.jpg,pmram_240
+data/external/pmram/extracted/Raw/512Glioma/glioma (316).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1166.jpg,pmram_241
+data/external/pmram/extracted/Raw/512Glioma/glioma (317).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_322.jpg,pmram_242
+data/external/pmram/extracted/Raw/512Glioma/glioma (318).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1335.jpg,pmram_243
+data/external/pmram/extracted/Raw/512Glioma/glioma (319).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_1121.jpg,pmram_244
+data/external/pmram/extracted/Raw/512Glioma/glioma (32).jpg,glioma,1.0,True,Training/glioma/Tr-gl_164.jpg,pmram_245
+data/external/pmram/extracted/Raw/512Glioma/glioma (320).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_142.jpg,pmram_246
+data/external/pmram/extracted/Raw/512Glioma/glioma (321).jpg,glioma,0.99999917,True,Training/glioma/Tr-gl_750.jpg,pmram_247
+data/external/pmram/extracted/Raw/512Glioma/glioma (322).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_539.jpg,pmram_248
+data/external/pmram/extracted/Raw/512Glioma/glioma (323).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_595.jpg,pmram_249
+data/external/pmram/extracted/Raw/512Glioma/glioma (324).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1092.jpg,pmram_250
+data/external/pmram/extracted/Raw/512Glioma/glioma (325).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_697.jpg,pmram_251
+data/external/pmram/extracted/Raw/512Glioma/glioma (326).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_733.jpg,pmram_252
+data/external/pmram/extracted/Raw/512Glioma/glioma (327).jpg,glioma,0.9999832,True,Training/glioma/Tr-gl_706.jpg,pmram_253
+data/external/pmram/extracted/Raw/512Glioma/glioma (328).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_1242.jpg,pmram_254
+data/external/pmram/extracted/Raw/512Glioma/glioma (329).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_672.jpg,pmram_255
+data/external/pmram/extracted/Raw/512Glioma/glioma (33).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_44.jpg,pmram_256
+data/external/pmram/extracted/Raw/512Glioma/glioma (330).jpg,glioma,0.99999934,True,Training/glioma/Tr-gl_859.jpg,pmram_257
+data/external/pmram/extracted/Raw/512Glioma/glioma (331).jpg,glioma,0.9999981,True,Training/glioma/Tr-gl_500.jpg,pmram_258
+data/external/pmram/extracted/Raw/512Glioma/glioma (332).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_52.jpg,pmram_259
+data/external/pmram/extracted/Raw/512Glioma/glioma (333).jpg,glioma,1.0,True,Training/glioma/Tr-gl_960.jpg,pmram_260
+data/external/pmram/extracted/Raw/512Glioma/glioma (334).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_788.jpg,pmram_261
+data/external/pmram/extracted/Raw/512Glioma/glioma (335).jpg,glioma,1.0,True,Training/glioma/Tr-gl_730.jpg,pmram_262
+data/external/pmram/extracted/Raw/512Glioma/glioma (336).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_769.jpg,pmram_263
+data/external/pmram/extracted/Raw/512Glioma/glioma (337).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_474.jpg,pmram_147
+data/external/pmram/extracted/Raw/512Glioma/glioma (338).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_727.jpg,pmram_265
+data/external/pmram/extracted/Raw/512Glioma/glioma (339).jpg,glioma,0.9999781,True,Training/glioma/Tr-gl_48.jpg,pmram_266
+data/external/pmram/extracted/Raw/512Glioma/glioma (34).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1067.jpg,pmram_267
+data/external/pmram/extracted/Raw/512Glioma/glioma (340).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_813.jpg,pmram_268
+data/external/pmram/extracted/Raw/512Glioma/glioma (341).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_564.jpg,pmram_269
+data/external/pmram/extracted/Raw/512Glioma/glioma (342).jpg,glioma,0.99996495,True,Training/glioma/Tr-gl_498.jpg,pmram_270
+data/external/pmram/extracted/Raw/512Glioma/glioma (343).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_881.jpg,pmram_271
+data/external/pmram/extracted/Raw/512Glioma/glioma (344).jpg,glioma,0.99999946,True,Training/glioma/Tr-gl_411.jpg,pmram_272
+data/external/pmram/extracted/Raw/512Glioma/glioma (345).jpg,glioma,0.99999946,True,Training/glioma/Tr-gl_145.jpg,pmram_273
+data/external/pmram/extracted/Raw/512Glioma/glioma (346).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_438.jpg,pmram_274
+data/external/pmram/extracted/Raw/512Glioma/glioma (347).jpg,glioma,0.999998,True,Training/glioma/Tr-gl_911.jpg,pmram_275
+data/external/pmram/extracted/Raw/512Glioma/glioma (348).jpg,glioma,0.9999977,True,Training/glioma/Tr-gl_1035.jpg,pmram_276
+data/external/pmram/extracted/Raw/512Glioma/glioma (349).jpg,glioma,1.0,True,Training/glioma/Tr-gl_352.jpg,pmram_277
+data/external/pmram/extracted/Raw/512Glioma/glioma (35).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_60.jpg,pmram_278
+data/external/pmram/extracted/Raw/512Glioma/glioma (350).jpg,glioma,0.9999998,True,Training/glioma/Tr-gl_1296.jpg,pmram_279
+data/external/pmram/extracted/Raw/512Glioma/glioma (351).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_222.jpg,pmram_280
+data/external/pmram/extracted/Raw/512Glioma/glioma (352).jpg,glioma,1.0,True,Training/glioma/Tr-gl_776.jpg,pmram_281
+data/external/pmram/extracted/Raw/512Glioma/glioma (353).jpg,glioma,1.0,True,Training/glioma/Tr-gl_440.jpg,pmram_282
+data/external/pmram/extracted/Raw/512Glioma/glioma (354).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_111.jpg,pmram_283
+data/external/pmram/extracted/Raw/512Glioma/glioma (355).jpg,glioma,0.99999946,True,Training/glioma/Tr-gl_878.jpg,pmram_284
+data/external/pmram/extracted/Raw/512Glioma/glioma (356).jpg,glioma,0.99999845,True,Training/glioma/Tr-gl_900.jpg,pmram_285
+data/external/pmram/extracted/Raw/512Glioma/glioma (357).jpg,glioma,0.99998856,True,Training/glioma/Tr-gl_87.jpg,pmram_286
+data/external/pmram/extracted/Raw/512Glioma/glioma (358).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1290.jpg,pmram_287
+data/external/pmram/extracted/Raw/512Glioma/glioma (359).jpg,glioma,0.99998325,True,Training/glioma/Tr-gl_1305.jpg,pmram_288
+data/external/pmram/extracted/Raw/512Glioma/glioma (36).jpg,glioma,0.9999999,True,Training/glioma/Tr-gl_196.jpg,pmram_289
+data/external/pmram/extracted/Raw/512Glioma/glioma (360).jpg,glioma,0.9999993,True,Training/glioma/Tr-gl_434.jpg,pmram_290
+data/external/pmram/extracted/Raw/512Glioma/glioma (361).jpg,glioma,1.0,True,Training/glioma/Tr-gl_524.jpg,pmram_291
+data/external/pmram/extracted/Raw/512Glioma/glioma (362).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_1043.jpg,pmram_292
+data/external/pmram/extracted/Raw/512Glioma/glioma (363).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_1106.jpg,pmram_293
+data/external/pmram/extracted/Raw/512Glioma/glioma (364).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_1391.jpg,pmram_294
+data/external/pmram/extracted/Raw/512Glioma/glioma (365).jpg,glioma,0.99999905,True,Training/glioma/Tr-gl_633.jpg,pmram_295
+data/external/pmram/extracted/Raw/512Glioma/glioma (366).jpg,glioma,0.99999976,True,Training/glioma/Tr-gl_1023.jpg,pmram_296
+data/external/pmram/extracted/Raw/512Glioma/glioma (367).jpg,glioma,0.99999964,True,Training/glioma/Tr-gl_1056.jpg,pmram_297
+data/external/pmram/extracted/Raw/512Glioma/glioma (368).jpg,glioma,1.0,True,Training/glioma/Tr-gl_214.jpg,pmram_260
+data/external/pmram/extracted/Raw/512Glioma/glioma (369).jpg,glioma,1.0,True,Training/glioma/Tr-gl_202.jpg,pmram_299
+data/external/pmram/extracted/Raw/512Glioma/glioma (37).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_442.jpg,pmram_300
+data/external/pmram/extracted/Raw/512Glioma/glioma (370).jpg,glioma,1.0,True,Training/glioma/Tr-gl_737.jpg,pmram_301
+data/external/pmram/extracted/Raw/512Glioma/glioma (371).jpg,glioma,0.9999805,True,Training/glioma/Tr-gl_1018.jpg,pmram_183
+data/external/pmram/extracted/Raw/512Glioma/glioma (372).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_407.jpg,pmram_303
+data/external/pmram/extracted/Raw/512Glioma/glioma (373).jpg,glioma,0.99999917,True,Training/glioma/Tr-gl_872.jpg,pmram_304
+data/external/pmram/extracted/Raw/512Glioma/glioma (38).jpg,glioma,0.9999988,True,Training/glioma/Tr-gl_777.jpg,pmram_305
+data/external/pmram/extracted/Raw/512Glioma/glioma (39).jpg,glioma,0.99999994,True,Training/glioma/Tr-gl_896.jpg,pmram_306
+data/external/pmram/extracted/Raw/512Glioma/glioma (4).jpg,glioma,0.0,False,,pmram_307
+data/external/pmram/extracted/Raw/512Glioma/glioma (40).jpg,glioma,0.0,False,,pmram_308
+data/external/pmram/extracted/Raw/512Glioma/glioma (41).jpg,glioma,0.0,False,,pmram_309
+data/external/pmram/extracted/Raw/512Glioma/glioma (42).jpg,glioma,0.0,False,,pmram_310
+data/external/pmram/extracted/Raw/512Glioma/glioma (43).jpg,glioma,0.0,False,,pmram_311
+data/external/pmram/extracted/Raw/512Glioma/glioma (44).jpg,glioma,0.0,False,,pmram_312
+data/external/pmram/extracted/Raw/512Glioma/glioma (45).jpg,glioma,0.0,False,,pmram_313
+data/external/pmram/extracted/Raw/512Glioma/glioma (46).jpg,glioma,0.55373156,False,,pmram_314
+data/external/pmram/extracted/Raw/512Glioma/glioma (47).jpg,glioma,0.0,False,,pmram_315
+data/external/pmram/extracted/Raw/512Glioma/glioma (48).jpg,glioma,0.0,False,,pmram_316
+data/external/pmram/extracted/Raw/512Glioma/glioma (49).jpg,glioma,0.0,False,,pmram_317
+data/external/pmram/extracted/Raw/512Glioma/glioma (5).jpg,glioma,1.0,True,Training/glioma/Tr-gl_439.jpg,pmram_318
+data/external/pmram/extracted/Raw/512Glioma/glioma (50).jpg,glioma,0.0,False,,pmram_319
+data/external/pmram/extracted/Raw/512Glioma/glioma (51).jpg,glioma,0.0,False,,pmram_320
+data/external/pmram/extracted/Raw/512Glioma/glioma (52).jpg,glioma,0.0,False,,pmram_321
+data/external/pmram/extracted/Raw/512Glioma/glioma (53).jpg,glioma,0.9963609,True,Testing/glioma/Te-gl_310.jpg,pmram_322
+data/external/pmram/extracted/Raw/512Glioma/glioma (54).jpg,glioma,0.0,False,,pmram_323
+data/external/pmram/extracted/Raw/512Glioma/glioma (55).jpg,glioma,0.0,False,,pmram_324
+data/external/pmram/extracted/Raw/512Glioma/glioma (56).jpg,glioma,0.0,False,,pmram_325
+data/external/pmram/extracted/Raw/512Glioma/glioma (57).jpg,glioma,0.0,False,,pmram_326
+data/external/pmram/extracted/Raw/512Glioma/glioma (58).jpg,glioma,0.0,False,,pmram_327
+data/external/pmram/extracted/Raw/512Glioma/glioma (59).jpg,glioma,0.0,False,,pmram_328
+data/external/pmram/extracted/Raw/512Glioma/glioma (6).jpg,glioma,0.9999994,True,Training/glioma/Tr-gl_402.jpg,pmram_329
+data/external/pmram/extracted/Raw/512Glioma/glioma (60).jpg,glioma,0.0,False,,pmram_330
+data/external/pmram/extracted/Raw/512Glioma/glioma (61).jpg,glioma,0.79009295,False,,pmram_331
+data/external/pmram/extracted/Raw/512Glioma/glioma (62).jpg,glioma,0.0,False,,pmram_326
+data/external/pmram/extracted/Raw/512Glioma/glioma (63).jpg,glioma,0.0,False,,pmram_333
+data/external/pmram/extracted/Raw/512Glioma/glioma (64).jpg,glioma,0.0,False,,pmram_334
+data/external/pmram/extracted/Raw/512Glioma/glioma (65).jpg,glioma,0.0,False,,pmram_335
+data/external/pmram/extracted/Raw/512Glioma/glioma (66).jpg,glioma,0.0,False,,pmram_336
+data/external/pmram/extracted/Raw/512Glioma/glioma (67).jpg,glioma,0.0,False,,pmram_337
+data/external/pmram/extracted/Raw/512Glioma/glioma (68).jpg,glioma,0.0,False,,pmram_338
+data/external/pmram/extracted/Raw/512Glioma/glioma (69).jpg,glioma,0.67475283,False,,pmram_339
+data/external/pmram/extracted/Raw/512Glioma/glioma (7).jpg,glioma,0.9999997,True,Training/glioma/Tr-gl_232.jpg,pmram_340
+data/external/pmram/extracted/Raw/512Glioma/glioma (70).jpg,glioma,0.0,False,,pmram_341
+data/external/pmram/extracted/Raw/512Glioma/glioma (71).jpg,glioma,0.85113543,False,,pmram_342
+data/external/pmram/extracted/Raw/512Glioma/glioma (72).jpg,glioma,0.8785214,False,,pmram_343
+data/external/pmram/extracted/Raw/512Glioma/glioma (73).jpg,glioma,0.69469225,False,,pmram_344
+data/external/pmram/extracted/Raw/512Glioma/glioma (74).jpg,glioma,0.95859134,False,,pmram_345
+data/external/pmram/extracted/Raw/512Glioma/glioma (75).jpg,glioma,0.0,False,,pmram_346
+data/external/pmram/extracted/Raw/512Glioma/glioma (76).jpg,glioma,0.0,False,,pmram_347
+data/external/pmram/extracted/Raw/512Glioma/glioma (77).jpg,glioma,0.0,False,,pmram_348
+data/external/pmram/extracted/Raw/512Glioma/glioma (78).jpg,glioma,0.0,False,,pmram_349
+data/external/pmram/extracted/Raw/512Glioma/glioma (79).jpg,glioma,0.0,False,,pmram_350
+data/external/pmram/extracted/Raw/512Glioma/glioma (8).jpg,glioma,1.0,True,Training/glioma/Tr-gl_1304.jpg,pmram_351
+data/external/pmram/extracted/Raw/512Glioma/glioma (80).jpg,glioma,0.0,False,,pmram_352
+data/external/pmram/extracted/Raw/512Glioma/glioma (81).jpg,glioma,0.0,False,,pmram_353
+data/external/pmram/extracted/Raw/512Glioma/glioma (82).jpg,glioma,0.0,False,,pmram_330
+data/external/pmram/extracted/Raw/512Glioma/glioma (83).jpg,glioma,0.0,False,,pmram_355
+data/external/pmram/extracted/Raw/512Glioma/glioma (84).jpg,glioma,0.0,False,,pmram_356
+data/external/pmram/extracted/Raw/512Glioma/glioma (85).jpg,glioma,0.0,False,,pmram_357
+data/external/pmram/extracted/Raw/512Glioma/glioma (86).jpg,glioma,0.0,False,,pmram_358
+data/external/pmram/extracted/Raw/512Glioma/glioma (87).jpg,glioma,0.0,False,,pmram_359
+data/external/pmram/extracted/Raw/512Glioma/glioma (88).jpg,glioma,0.0,False,,pmram_360
+data/external/pmram/extracted/Raw/512Glioma/glioma (89).jpg,glioma,0.0,False,,pmram_361
+data/external/pmram/extracted/Raw/512Glioma/glioma (9).jpg,glioma,0.99999875,True,Training/glioma/Tr-gl_82.jpg,pmram_362
+data/external/pmram/extracted/Raw/512Glioma/glioma (90).jpg,glioma,0.0,False,,pmram_363
+data/external/pmram/extracted/Raw/512Glioma/glioma (91).jpg,glioma,0.0,False,,pmram_364
+data/external/pmram/extracted/Raw/512Glioma/glioma (92).jpg,glioma,0.0,False,,pmram_365
+data/external/pmram/extracted/Raw/512Glioma/glioma (93).jpg,glioma,0.0,False,,pmram_366
+data/external/pmram/extracted/Raw/512Glioma/glioma (94).jpg,glioma,0.0,False,,pmram_367
+data/external/pmram/extracted/Raw/512Glioma/glioma (95).jpg,glioma,0.0,False,,pmram_368
+data/external/pmram/extracted/Raw/512Glioma/glioma (96).jpg,glioma,0.0,False,,pmram_369
+data/external/pmram/extracted/Raw/512Glioma/glioma (97).jpg,glioma,0.0,False,,pmram_370
+data/external/pmram/extracted/Raw/512Glioma/glioma (98).jpg,glioma,0.0,False,,pmram_371
+data/external/pmram/extracted/Raw/512Glioma/glioma (99).jpg,glioma,0.0,False,,pmram_372
+data/external/pmram/extracted/Raw/512Meningioma/M_10.jpg,meningioma,0.0,False,,pmram_373
+data/external/pmram/extracted/Raw/512Meningioma/M_100.jpg,meningioma,0.0,False,,pmram_374
+data/external/pmram/extracted/Raw/512Meningioma/M_101.jpg,meningioma,0.52341056,False,,pmram_375
+data/external/pmram/extracted/Raw/512Meningioma/M_102.jpg,meningioma,0.0,False,,pmram_376
+data/external/pmram/extracted/Raw/512Meningioma/M_103.jpg,meningioma,0.0,False,,pmram_377
+data/external/pmram/extracted/Raw/512Meningioma/M_104.jpg,meningioma,0.0,False,,pmram_378
+data/external/pmram/extracted/Raw/512Meningioma/M_105.jpg,meningioma,0.6952723,False,,pmram_379
+data/external/pmram/extracted/Raw/512Meningioma/M_106.jpg,meningioma,0.0,False,,pmram_380
+data/external/pmram/extracted/Raw/512Meningioma/M_107.jpg,meningioma,0.0,False,,pmram_381
+data/external/pmram/extracted/Raw/512Meningioma/M_108.jpg,meningioma,0.0,False,,pmram_382
+data/external/pmram/extracted/Raw/512Meningioma/M_109.jpg,meningioma,0.6813338,False,,pmram_383
+data/external/pmram/extracted/Raw/512Meningioma/M_11.jpg,meningioma,0.0,False,,pmram_384
+data/external/pmram/extracted/Raw/512Meningioma/M_110.jpg,meningioma,0.0,False,,pmram_385
+data/external/pmram/extracted/Raw/512Meningioma/M_111.jpg,meningioma,0.0,False,,pmram_386
+data/external/pmram/extracted/Raw/512Meningioma/M_112.jpg,meningioma,0.0,False,,pmram_387
+data/external/pmram/extracted/Raw/512Meningioma/M_113.jpg,meningioma,0.6067467,False,,pmram_388
+data/external/pmram/extracted/Raw/512Meningioma/M_114.jpg,meningioma,0.7600356,False,,pmram_389
+data/external/pmram/extracted/Raw/512Meningioma/M_115.jpg,meningioma,0.51989806,False,,pmram_390
+data/external/pmram/extracted/Raw/512Meningioma/M_116.jpg,meningioma,0.0,False,,pmram_391
+data/external/pmram/extracted/Raw/512Meningioma/M_117.jpg,meningioma,0.0,False,,pmram_392
+data/external/pmram/extracted/Raw/512Meningioma/M_118.jpg,meningioma,0.0,False,,pmram_393
+data/external/pmram/extracted/Raw/512Meningioma/M_119.jpg,meningioma,0.0,False,,pmram_394
+data/external/pmram/extracted/Raw/512Meningioma/M_12.jpg,meningioma,0.0,False,,pmram_395
+data/external/pmram/extracted/Raw/512Meningioma/M_120.jpg,meningioma,0.0,False,,pmram_396
+data/external/pmram/extracted/Raw/512Meningioma/M_121.jpg,meningioma,0.0,False,,pmram_397
+data/external/pmram/extracted/Raw/512Meningioma/M_122.jpg,meningioma,0.0,False,,pmram_398
+data/external/pmram/extracted/Raw/512Meningioma/M_123.jpg,meningioma,0.0,False,,pmram_399
+data/external/pmram/extracted/Raw/512Meningioma/M_124.jpg,meningioma,0.0,False,,pmram_400
+data/external/pmram/extracted/Raw/512Meningioma/M_125.jpg,meningioma,0.0,False,,pmram_401
+data/external/pmram/extracted/Raw/512Meningioma/M_126.jpg,meningioma,0.0,False,,pmram_402
+data/external/pmram/extracted/Raw/512Meningioma/M_127.jpg,meningioma,0.0,False,,pmram_403
+data/external/pmram/extracted/Raw/512Meningioma/M_128.jpg,meningioma,0.0,False,,pmram_404
+data/external/pmram/extracted/Raw/512Meningioma/M_129.jpg,meningioma,0.0,False,,pmram_405
+data/external/pmram/extracted/Raw/512Meningioma/M_13.jpg,meningioma,0.0,False,,pmram_406
+data/external/pmram/extracted/Raw/512Meningioma/M_130.jpg,meningioma,0.0,False,,pmram_407
+data/external/pmram/extracted/Raw/512Meningioma/M_131.jpg,meningioma,0.0,False,,pmram_408
+data/external/pmram/extracted/Raw/512Meningioma/M_132.jpg,meningioma,0.0,False,,pmram_409
+data/external/pmram/extracted/Raw/512Meningioma/M_133.jpg,meningioma,0.0,False,,pmram_410
+data/external/pmram/extracted/Raw/512Meningioma/M_134.jpg,meningioma,0.0,False,,pmram_411
+data/external/pmram/extracted/Raw/512Meningioma/M_135.jpg,meningioma,0.0,False,,pmram_412
+data/external/pmram/extracted/Raw/512Meningioma/M_136.jpg,meningioma,0.0,False,,pmram_413
+data/external/pmram/extracted/Raw/512Meningioma/M_137.jpg,meningioma,0.0,False,,pmram_414
+data/external/pmram/extracted/Raw/512Meningioma/M_138.jpg,meningioma,0.0,False,,pmram_415
+data/external/pmram/extracted/Raw/512Meningioma/M_139.jpg,meningioma,0.6245467,False,,pmram_416
+data/external/pmram/extracted/Raw/512Meningioma/M_14.jpg,meningioma,0.0,False,,pmram_417
+data/external/pmram/extracted/Raw/512Meningioma/M_140.jpg,meningioma,0.9101513,False,,pmram_418
+data/external/pmram/extracted/Raw/512Meningioma/M_141.jpg,meningioma,0.83421427,False,,pmram_419
+data/external/pmram/extracted/Raw/512Meningioma/M_142.jpg,meningioma,0.0,False,,pmram_420
+data/external/pmram/extracted/Raw/512Meningioma/M_143.jpg,meningioma,0.6067467,False,,pmram_388
+data/external/pmram/extracted/Raw/512Meningioma/M_144.jpg,meningioma,0.0,False,,pmram_400
+data/external/pmram/extracted/Raw/512Meningioma/M_145.jpg,meningioma,0.0,False,,pmram_423
+data/external/pmram/extracted/Raw/512Meningioma/M_146.jpg,meningioma,0.7942679,False,,pmram_331
+data/external/pmram/extracted/Raw/512Meningioma/M_147.jpg,meningioma,0.0,False,,pmram_425
+data/external/pmram/extracted/Raw/512Meningioma/M_148.jpg,meningioma,0.8447136,False,,pmram_426
+data/external/pmram/extracted/Raw/512Meningioma/M_149.jpg,meningioma,0.0,False,,pmram_427
+data/external/pmram/extracted/Raw/512Meningioma/M_15.jpg,meningioma,0.0,False,,pmram_428
+data/external/pmram/extracted/Raw/512Meningioma/M_150.jpg,meningioma,0.0,False,,pmram_429
+data/external/pmram/extracted/Raw/512Meningioma/M_151.jpg,meningioma,0.0,False,,pmram_430
+data/external/pmram/extracted/Raw/512Meningioma/M_152.jpg,meningioma,0.42120826,False,,pmram_431
+data/external/pmram/extracted/Raw/512Meningioma/M_153.jpg,meningioma,0.0,False,,pmram_432
+data/external/pmram/extracted/Raw/512Meningioma/M_154.jpg,meningioma,0.0,False,,pmram_433
+data/external/pmram/extracted/Raw/512Meningioma/M_155.jpg,meningioma,0.0,False,,pmram_434
+data/external/pmram/extracted/Raw/512Meningioma/M_156.jpg,meningioma,0.7382934,False,,pmram_435
+data/external/pmram/extracted/Raw/512Meningioma/M_157.jpg,meningioma,0.0,False,,pmram_414
+data/external/pmram/extracted/Raw/512Meningioma/M_158.jpg,meningioma,0.0,False,,pmram_437
+data/external/pmram/extracted/Raw/512Meningioma/M_159.jpg,meningioma,0.0,False,,pmram_387
+data/external/pmram/extracted/Raw/512Meningioma/M_16.jpg,meningioma,0.62468207,False,,pmram_439
+data/external/pmram/extracted/Raw/512Meningioma/M_160.jpg,meningioma,0.0,False,,pmram_440
+data/external/pmram/extracted/Raw/512Meningioma/M_161.jpg,meningioma,0.0,False,,pmram_406
+data/external/pmram/extracted/Raw/512Meningioma/M_162.jpg,meningioma,0.7942679,False,,pmram_331
+data/external/pmram/extracted/Raw/512Meningioma/M_163.jpg,meningioma,0.8481738,False,,pmram_443
+data/external/pmram/extracted/Raw/512Meningioma/M_164.jpg,meningioma,0.0,False,,pmram_444
+data/external/pmram/extracted/Raw/512Meningioma/M_165.jpg,meningioma,0.8312695,False,,pmram_445
+data/external/pmram/extracted/Raw/512Meningioma/M_166.jpg,meningioma,0.0,False,,pmram_446
+data/external/pmram/extracted/Raw/512Meningioma/M_167.jpg,meningioma,0.0,False,,pmram_447
+data/external/pmram/extracted/Raw/512Meningioma/M_168.jpg,meningioma,0.8481738,False,,pmram_443
+data/external/pmram/extracted/Raw/512Meningioma/M_169.jpg,meningioma,0.0,False,,pmram_449
+data/external/pmram/extracted/Raw/512Meningioma/M_17.jpg,meningioma,0.0,False,,pmram_450
+data/external/pmram/extracted/Raw/512Meningioma/M_170.jpg,meningioma,0.0,False,,pmram_451
+data/external/pmram/extracted/Raw/512Meningioma/M_171.jpg,meningioma,0.8587491,False,,pmram_452
+data/external/pmram/extracted/Raw/512Meningioma/M_172.jpg,meningioma,0.0,False,,pmram_453
+data/external/pmram/extracted/Raw/512Meningioma/M_173.jpg,meningioma,0.0,False,,pmram_454
+data/external/pmram/extracted/Raw/512Meningioma/M_174.jpg,meningioma,0.0,False,,pmram_455
+data/external/pmram/extracted/Raw/512Meningioma/M_175.jpg,meningioma,0.0,False,,pmram_456
+data/external/pmram/extracted/Raw/512Meningioma/M_176.jpg,meningioma,0.0,False,,pmram_457
+data/external/pmram/extracted/Raw/512Meningioma/M_177.jpg,meningioma,0.0,False,,pmram_458
+data/external/pmram/extracted/Raw/512Meningioma/M_178.jpg,meningioma,0.0,False,,pmram_459
+data/external/pmram/extracted/Raw/512Meningioma/M_179.jpg,meningioma,0.0,False,,pmram_444
+data/external/pmram/extracted/Raw/512Meningioma/M_18.jpg,meningioma,0.0,False,,pmram_461
+data/external/pmram/extracted/Raw/512Meningioma/M_180.jpg,meningioma,0.82564616,False,,pmram_462
+data/external/pmram/extracted/Raw/512Meningioma/M_183.jpg,meningioma,0.7380432,False,,pmram_463
+data/external/pmram/extracted/Raw/512Meningioma/M_184.jpg,meningioma,0.0,False,,pmram_425
+data/external/pmram/extracted/Raw/512Meningioma/M_185.jpg,meningioma,0.0,False,,pmram_400
+data/external/pmram/extracted/Raw/512Meningioma/M_186.jpg,meningioma,0.8211924,False,,pmram_466
+data/external/pmram/extracted/Raw/512Meningioma/M_187.jpg,meningioma,0.0,False,,pmram_467
+data/external/pmram/extracted/Raw/512Meningioma/M_189.jpg,meningioma,0.744342,False,,pmram_468
+data/external/pmram/extracted/Raw/512Meningioma/M_19.jpg,meningioma,0.0,False,,pmram_469
+data/external/pmram/extracted/Raw/512Meningioma/M_190.jpg,meningioma,0.8312695,False,,pmram_445
+data/external/pmram/extracted/Raw/512Meningioma/M_191.jpg,meningioma,0.0,False,,pmram_471
+data/external/pmram/extracted/Raw/512Meningioma/M_193.jpg,meningioma,0.0,False,,pmram_472
+data/external/pmram/extracted/Raw/512Meningioma/M_194.jpg,meningioma,0.0,False,,pmram_473
+data/external/pmram/extracted/Raw/512Meningioma/M_195.jpg,meningioma,0.7156638,False,,pmram_474
+data/external/pmram/extracted/Raw/512Meningioma/M_196.jpg,meningioma,0.0,False,,pmram_475
+data/external/pmram/extracted/Raw/512Meningioma/M_197.jpg,meningioma,0.0,False,,pmram_476
+data/external/pmram/extracted/Raw/512Meningioma/M_198.jpg,meningioma,0.0,False,,pmram_477
+data/external/pmram/extracted/Raw/512Meningioma/M_199.jpg,meningioma,0.7894572,False,,pmram_478
+data/external/pmram/extracted/Raw/512Meningioma/M_2.jpg,meningioma,0.0,False,,pmram_479
+data/external/pmram/extracted/Raw/512Meningioma/M_20.jpg,meningioma,0.0,False,,pmram_480
+data/external/pmram/extracted/Raw/512Meningioma/M_200.jpg,meningioma,0.81841147,False,,pmram_466
+data/external/pmram/extracted/Raw/512Meningioma/M_201.jpg,meningioma,0.0,False,,pmram_446
+data/external/pmram/extracted/Raw/512Meningioma/M_203.jpg,meningioma,0.0,False,,pmram_483
+data/external/pmram/extracted/Raw/512Meningioma/M_204.jpg,meningioma,0.0,False,,pmram_484
+data/external/pmram/extracted/Raw/512Meningioma/M_205.jpg,meningioma,0.0,False,,pmram_485
+data/external/pmram/extracted/Raw/512Meningioma/M_207.jpg,meningioma,0.0,False,,pmram_486
+data/external/pmram/extracted/Raw/512Meningioma/M_208.jpg,meningioma,0.85313046,False,,pmram_487
+data/external/pmram/extracted/Raw/512Meningioma/M_209.jpg,meningioma,0.0,False,,pmram_488
+data/external/pmram/extracted/Raw/512Meningioma/M_21.jpg,meningioma,0.0,False,,pmram_489
+data/external/pmram/extracted/Raw/512Meningioma/M_210.jpg,meningioma,0.0,False,,pmram_490
+data/external/pmram/extracted/Raw/512Meningioma/M_211.jpg,meningioma,0.7110191,False,,pmram_491
+data/external/pmram/extracted/Raw/512Meningioma/M_212.jpg,meningioma,0.0,False,,pmram_449
+data/external/pmram/extracted/Raw/512Meningioma/M_213.jpg,meningioma,0.0,False,,pmram_493
+data/external/pmram/extracted/Raw/512Meningioma/M_214.jpg,meningioma,0.840908,False,,pmram_494
+data/external/pmram/extracted/Raw/512Meningioma/M_215.jpg,meningioma,0.9974627,True,Training/meningioma/Tr-me_145.jpg,pmram_495
+data/external/pmram/extracted/Raw/512Meningioma/M_216.jpg,meningioma,0.0,False,,pmram_496
+data/external/pmram/extracted/Raw/512Meningioma/M_217.jpg,meningioma,0.0,False,,pmram_497
+data/external/pmram/extracted/Raw/512Meningioma/M_218.jpg,meningioma,0.6534557,False,,pmram_498
+data/external/pmram/extracted/Raw/512Meningioma/M_22.jpg,meningioma,0.6289507,False,,pmram_499
+data/external/pmram/extracted/Raw/512Meningioma/M_220.jpg,meningioma,0.0,False,,pmram_500
+data/external/pmram/extracted/Raw/512Meningioma/M_221.jpg,meningioma,0.0,False,,pmram_501
+data/external/pmram/extracted/Raw/512Meningioma/M_222.jpg,meningioma,0.0,False,,pmram_453
+data/external/pmram/extracted/Raw/512Meningioma/M_223.jpg,meningioma,0.0,False,,pmram_503
+data/external/pmram/extracted/Raw/512Meningioma/M_225.jpg,meningioma,0.85525805,False,,pmram_452
+data/external/pmram/extracted/Raw/512Meningioma/M_226.jpg,meningioma,0.0,False,,pmram_459
+data/external/pmram/extracted/Raw/512Meningioma/M_227.jpg,meningioma,0.7139363,False,,pmram_506
+data/external/pmram/extracted/Raw/512Meningioma/M_228.jpg,meningioma,0.5986134,False,,pmram_507
+data/external/pmram/extracted/Raw/512Meningioma/M_229.jpg,meningioma,0.0,False,,pmram_508
+data/external/pmram/extracted/Raw/512Meningioma/M_23.jpg,meningioma,0.0,False,,pmram_509
+data/external/pmram/extracted/Raw/512Meningioma/M_230.jpg,meningioma,0.0,False,,pmram_510
+data/external/pmram/extracted/Raw/512Meningioma/M_231.jpg,meningioma,0.5769065,False,,pmram_511
+data/external/pmram/extracted/Raw/512Meningioma/M_232.jpg,meningioma,0.35092372,False,,pmram_512
+data/external/pmram/extracted/Raw/512Meningioma/M_233.jpg,meningioma,0.0,False,,pmram_513
+data/external/pmram/extracted/Raw/512Meningioma/M_234.jpg,meningioma,0.0,False,,pmram_514
+data/external/pmram/extracted/Raw/512Meningioma/M_235.jpg,meningioma,0.8587491,False,,pmram_452
+data/external/pmram/extracted/Raw/512Meningioma/M_24.jpg,meningioma,0.0,False,,pmram_516
+data/external/pmram/extracted/Raw/512Meningioma/M_240.jpg,meningioma,0.0,False,,pmram_517
+data/external/pmram/extracted/Raw/512Meningioma/M_241.jpg,meningioma,0.64296234,False,,pmram_518
+data/external/pmram/extracted/Raw/512Meningioma/M_244.jpg,meningioma,0.0,False,,pmram_519
+data/external/pmram/extracted/Raw/512Meningioma/M_246.jpg,meningioma,0.0,False,,pmram_453
+data/external/pmram/extracted/Raw/512Meningioma/M_247.jpg,meningioma,0.0,False,,pmram_521
+data/external/pmram/extracted/Raw/512Meningioma/M_248.jpg,meningioma,0.0,False,,pmram_522
+data/external/pmram/extracted/Raw/512Meningioma/M_249.jpg,meningioma,0.9516111,False,,pmram_418
+data/external/pmram/extracted/Raw/512Meningioma/M_25.jpg,meningioma,0.0,False,,pmram_524
+data/external/pmram/extracted/Raw/512Meningioma/M_250.jpg,meningioma,0.5503395,False,,pmram_525
+data/external/pmram/extracted/Raw/512Meningioma/M_251.jpg,meningioma,0.0,False,,pmram_526
+data/external/pmram/extracted/Raw/512Meningioma/M_252.jpg,meningioma,0.8515382,False,,pmram_527
+data/external/pmram/extracted/Raw/512Meningioma/M_253.jpg,meningioma,0.0,False,,pmram_503
+data/external/pmram/extracted/Raw/512Meningioma/M_254.jpg,meningioma,0.0,False,,pmram_529
+data/external/pmram/extracted/Raw/512Meningioma/M_256.jpg,meningioma,0.0,False,,pmram_530
+data/external/pmram/extracted/Raw/512Meningioma/M_257.jpg,meningioma,0.0,False,,pmram_454
+data/external/pmram/extracted/Raw/512Meningioma/M_258.jpg,meningioma,0.599373,False,,pmram_532
+data/external/pmram/extracted/Raw/512Meningioma/M_26.jpg,meningioma,0.0,False,,pmram_533
+data/external/pmram/extracted/Raw/512Meningioma/M_261.jpg,meningioma,0.0,False,,pmram_534
+data/external/pmram/extracted/Raw/512Meningioma/M_263.jpg,meningioma,0.6867746,False,,pmram_535
+data/external/pmram/extracted/Raw/512Meningioma/M_264.jpg,meningioma,0.0,False,,pmram_536
+data/external/pmram/extracted/Raw/512Meningioma/M_265.jpg,meningioma,0.0,False,,pmram_537
+data/external/pmram/extracted/Raw/512Meningioma/M_266.jpg,meningioma,0.0,False,,pmram_538
+data/external/pmram/extracted/Raw/512Meningioma/M_267.jpg,meningioma,0.0,False,,pmram_539
+data/external/pmram/extracted/Raw/512Meningioma/M_268.jpg,meningioma,0.0,False,,pmram_437
+data/external/pmram/extracted/Raw/512Meningioma/M_269.jpg,meningioma,0.0,False,,pmram_541
+data/external/pmram/extracted/Raw/512Meningioma/M_27.jpg,meningioma,0.0,False,,pmram_542
+data/external/pmram/extracted/Raw/512Meningioma/M_270.jpg,meningioma,0.0,False,,pmram_543
+data/external/pmram/extracted/Raw/512Meningioma/M_271.jpg,meningioma,0.0,False,,pmram_544
+data/external/pmram/extracted/Raw/512Meningioma/M_272.jpg,meningioma,0.0,False,,pmram_545
+data/external/pmram/extracted/Raw/512Meningioma/M_273.jpg,meningioma,0.0,False,,pmram_546
+data/external/pmram/extracted/Raw/512Meningioma/M_274.jpg,meningioma,0.0,False,,pmram_547
+data/external/pmram/extracted/Raw/512Meningioma/M_275.jpg,meningioma,0.0,False,,pmram_548
+data/external/pmram/extracted/Raw/512Meningioma/M_276.jpg,meningioma,0.0,False,,pmram_549
+data/external/pmram/extracted/Raw/512Meningioma/M_277.jpg,meningioma,0.0,False,,pmram_550
+data/external/pmram/extracted/Raw/512Meningioma/M_278.jpg,meningioma,0.0,False,,pmram_551
+data/external/pmram/extracted/Raw/512Meningioma/M_28.jpg,meningioma,0.0,False,,pmram_552
+data/external/pmram/extracted/Raw/512Meningioma/M_280.jpg,meningioma,0.5821481,False,,pmram_553
+data/external/pmram/extracted/Raw/512Meningioma/M_281.jpg,meningioma,0.0,False,,pmram_554
+data/external/pmram/extracted/Raw/512Meningioma/M_282.jpg,meningioma,0.0,False,,pmram_555
+data/external/pmram/extracted/Raw/512Meningioma/M_283.jpg,meningioma,0.55975896,False,,pmram_556
+data/external/pmram/extracted/Raw/512Meningioma/M_284.jpg,meningioma,0.0,False,,pmram_557
+data/external/pmram/extracted/Raw/512Meningioma/M_285.jpg,meningioma,0.6082123,False,,pmram_558
+data/external/pmram/extracted/Raw/512Meningioma/M_286.jpg,meningioma,0.0,False,,pmram_559
+data/external/pmram/extracted/Raw/512Meningioma/M_287.jpg,meningioma,0.0,False,,pmram_560
+data/external/pmram/extracted/Raw/512Meningioma/M_29.jpg,meningioma,0.0,False,,pmram_561
+data/external/pmram/extracted/Raw/512Meningioma/M_290.jpg,meningioma,0.83754873,False,,pmram_562
+data/external/pmram/extracted/Raw/512Meningioma/M_291.jpg,meningioma,0.7464372,False,,pmram_563
+data/external/pmram/extracted/Raw/512Meningioma/M_292.jpg,meningioma,0.0,False,,pmram_564
+data/external/pmram/extracted/Raw/512Meningioma/M_293.jpg,meningioma,0.0,False,,pmram_565
+data/external/pmram/extracted/Raw/512Meningioma/M_294.jpg,meningioma,0.5531391,False,,pmram_566
+data/external/pmram/extracted/Raw/512Meningioma/M_295.jpg,meningioma,0.0,False,,pmram_567
+data/external/pmram/extracted/Raw/512Meningioma/M_296.jpg,meningioma,0.0,False,,pmram_568
+data/external/pmram/extracted/Raw/512Meningioma/M_297.jpg,meningioma,0.0,False,,pmram_569
+data/external/pmram/extracted/Raw/512Meningioma/M_298.jpg,meningioma,0.0,False,,pmram_479
+data/external/pmram/extracted/Raw/512Meningioma/M_299.jpg,meningioma,0.0,False,,pmram_571
+data/external/pmram/extracted/Raw/512Meningioma/M_3.jpg,meningioma,0.0,False,,pmram_572
+data/external/pmram/extracted/Raw/512Meningioma/M_30.jpg,meningioma,0.0,False,,pmram_573
+data/external/pmram/extracted/Raw/512Meningioma/M_300.jpg,meningioma,0.0,False,,pmram_574
+data/external/pmram/extracted/Raw/512Meningioma/M_301.jpg,meningioma,0.9985865,True,Testing/meningioma/Te-me_129.jpg,pmram_575
+data/external/pmram/extracted/Raw/512Meningioma/M_302.jpg,meningioma,0.0,False,,pmram_576
+data/external/pmram/extracted/Raw/512Meningioma/M_303.jpg,meningioma,0.0,False,,pmram_577
+data/external/pmram/extracted/Raw/512Meningioma/M_304.jpg,meningioma,0.0,False,,pmram_578
+data/external/pmram/extracted/Raw/512Meningioma/M_305.jpg,meningioma,0.0,False,,pmram_579
+data/external/pmram/extracted/Raw/512Meningioma/M_306.jpg,meningioma,0.0,False,,pmram_580
+data/external/pmram/extracted/Raw/512Meningioma/M_307.jpg,meningioma,0.0,False,,pmram_581
+data/external/pmram/extracted/Raw/512Meningioma/M_308.jpg,meningioma,0.0,False,,pmram_582
+data/external/pmram/extracted/Raw/512Meningioma/M_309.jpg,meningioma,0.0,False,,pmram_583
+data/external/pmram/extracted/Raw/512Meningioma/M_31.jpg,meningioma,0.0,False,,pmram_584
+data/external/pmram/extracted/Raw/512Meningioma/M_310.jpg,meningioma,0.0,False,,pmram_585
+data/external/pmram/extracted/Raw/512Meningioma/M_311.jpg,meningioma,0.0,False,,pmram_516
+data/external/pmram/extracted/Raw/512Meningioma/M_313.jpg,meningioma,0.0,False,,pmram_587
+data/external/pmram/extracted/Raw/512Meningioma/M_314.jpg,meningioma,0.0,False,,pmram_588
+data/external/pmram/extracted/Raw/512Meningioma/M_315.jpg,meningioma,0.0,False,,pmram_589
+data/external/pmram/extracted/Raw/512Meningioma/M_316.jpg,meningioma,0.0,False,,pmram_590
+data/external/pmram/extracted/Raw/512Meningioma/M_32.jpg,meningioma,0.0,False,,pmram_591
+data/external/pmram/extracted/Raw/512Meningioma/M_321.jpg,meningioma,0.0,False,,pmram_592
+data/external/pmram/extracted/Raw/512Meningioma/M_322.jpg,meningioma,0.0,False,,pmram_593
+data/external/pmram/extracted/Raw/512Meningioma/M_324.jpg,meningioma,0.0,False,,pmram_594
+data/external/pmram/extracted/Raw/512Meningioma/M_325.jpg,meningioma,0.0,False,,pmram_595
+data/external/pmram/extracted/Raw/512Meningioma/M_326.jpg,meningioma,0.0,False,,pmram_596
+data/external/pmram/extracted/Raw/512Meningioma/M_327.jpg,meningioma,0.49953666,False,,pmram_597
+data/external/pmram/extracted/Raw/512Meningioma/M_328.jpg,meningioma,0.0,False,,pmram_598
+data/external/pmram/extracted/Raw/512Meningioma/M_329.jpg,meningioma,0.0,False,,pmram_599
+data/external/pmram/extracted/Raw/512Meningioma/M_33.jpg,meningioma,0.0,False,,pmram_600
+data/external/pmram/extracted/Raw/512Meningioma/M_330.jpg,meningioma,0.68954206,False,,pmram_601
+data/external/pmram/extracted/Raw/512Meningioma/M_331.jpg,meningioma,0.0,False,,pmram_602
+data/external/pmram/extracted/Raw/512Meningioma/M_332.jpg,meningioma,0.0,False,,pmram_603
+data/external/pmram/extracted/Raw/512Meningioma/M_333.jpg,meningioma,0.0,False,,pmram_604
+data/external/pmram/extracted/Raw/512Meningioma/M_334.jpg,meningioma,0.0,False,,pmram_529
+data/external/pmram/extracted/Raw/512Meningioma/M_335.jpg,meningioma,0.82564616,False,,pmram_462
+data/external/pmram/extracted/Raw/512Meningioma/M_337.jpg,meningioma,0.0,False,,pmram_607
+data/external/pmram/extracted/Raw/512Meningioma/M_338.jpg,meningioma,0.0,False,,pmram_608
+data/external/pmram/extracted/Raw/512Meningioma/M_339.jpg,meningioma,0.0,False,,pmram_609
+data/external/pmram/extracted/Raw/512Meningioma/M_34.jpg,meningioma,0.0,False,,pmram_610
+data/external/pmram/extracted/Raw/512Meningioma/M_340.jpg,meningioma,0.0,False,,pmram_611
+data/external/pmram/extracted/Raw/512Meningioma/M_341.jpg,meningioma,0.0,False,,pmram_612
+data/external/pmram/extracted/Raw/512Meningioma/M_342.jpg,meningioma,0.0,False,,pmram_613
+data/external/pmram/extracted/Raw/512Meningioma/M_343.jpg,meningioma,0.0,False,,pmram_614
+data/external/pmram/extracted/Raw/512Meningioma/M_344.jpg,meningioma,0.64067894,False,,pmram_615
+data/external/pmram/extracted/Raw/512Meningioma/M_345.jpg,meningioma,0.65767866,False,,pmram_616
+data/external/pmram/extracted/Raw/512Meningioma/M_346.jpg,meningioma,0.0,False,,pmram_429
+data/external/pmram/extracted/Raw/512Meningioma/M_347.jpg,meningioma,0.0,False,,pmram_618
+data/external/pmram/extracted/Raw/512Meningioma/M_348.jpg,meningioma,0.0,False,,pmram_619
+data/external/pmram/extracted/Raw/512Meningioma/M_349.jpg,meningioma,0.0,False,,pmram_620
+data/external/pmram/extracted/Raw/512Meningioma/M_35.jpg,meningioma,0.0,False,,pmram_595
+data/external/pmram/extracted/Raw/512Meningioma/M_350.jpg,meningioma,0.0,False,,pmram_622
+data/external/pmram/extracted/Raw/512Meningioma/M_351.jpg,meningioma,0.0,False,,pmram_623
+data/external/pmram/extracted/Raw/512Meningioma/M_352.jpg,meningioma,0.0,False,,pmram_456
+data/external/pmram/extracted/Raw/512Meningioma/M_353.jpg,meningioma,0.0,False,,pmram_458
+data/external/pmram/extracted/Raw/512Meningioma/M_354.jpg,meningioma,0.0,False,,pmram_626
+data/external/pmram/extracted/Raw/512Meningioma/M_356.jpg,meningioma,0.7898559,False,,pmram_627
+data/external/pmram/extracted/Raw/512Meningioma/M_358.jpg,meningioma,0.9088668,False,,pmram_628
+data/external/pmram/extracted/Raw/512Meningioma/M_359.jpg,meningioma,0.7696015,False,,pmram_629
+data/external/pmram/extracted/Raw/512Meningioma/M_36.jpg,meningioma,0.0,False,,pmram_630
+data/external/pmram/extracted/Raw/512Meningioma/M_362.jpg,meningioma,0.0,False,,pmram_456
+data/external/pmram/extracted/Raw/512Meningioma/M_363.jpg,meningioma,0.83754873,False,,pmram_562
+data/external/pmram/extracted/Raw/512Meningioma/M_367.jpg,meningioma,0.0,False,,pmram_633
+data/external/pmram/extracted/Raw/512Meningioma/M_368.jpg,meningioma,0.7380432,False,,pmram_463
+data/external/pmram/extracted/Raw/512Meningioma/M_369.jpg,meningioma,0.0,False,,pmram_635
+data/external/pmram/extracted/Raw/512Meningioma/M_37.jpg,meningioma,0.0,False,,pmram_636
+data/external/pmram/extracted/Raw/512Meningioma/M_370.jpg,meningioma,0.0,False,,pmram_637
+data/external/pmram/extracted/Raw/512Meningioma/M_371.jpg,meningioma,0.0,False,,pmram_638
+data/external/pmram/extracted/Raw/512Meningioma/M_372.jpg,meningioma,0.0,False,,pmram_639
+data/external/pmram/extracted/Raw/512Meningioma/M_373.jpg,meningioma,0.0,False,,pmram_640
+data/external/pmram/extracted/Raw/512Meningioma/M_374.jpg,meningioma,0.0,False,,pmram_641
+data/external/pmram/extracted/Raw/512Meningioma/M_375.jpg,meningioma,0.0,False,,pmram_642
+data/external/pmram/extracted/Raw/512Meningioma/M_376.jpg,meningioma,0.0,False,,pmram_643
+data/external/pmram/extracted/Raw/512Meningioma/M_377.jpg,meningioma,0.0,False,,pmram_644
+data/external/pmram/extracted/Raw/512Meningioma/M_378.jpg,meningioma,0.0,False,,pmram_645
+data/external/pmram/extracted/Raw/512Meningioma/M_379.jpg,meningioma,0.8325015,False,,pmram_646
+data/external/pmram/extracted/Raw/512Meningioma/M_38.jpg,meningioma,0.8600936,False,,pmram_647
+data/external/pmram/extracted/Raw/512Meningioma/M_380.jpg,meningioma,0.0,False,,pmram_648
+data/external/pmram/extracted/Raw/512Meningioma/M_381.jpg,meningioma,0.0,False,,pmram_649
+data/external/pmram/extracted/Raw/512Meningioma/M_382.jpg,meningioma,0.0,False,,pmram_650
+data/external/pmram/extracted/Raw/512Meningioma/M_383.jpg,meningioma,0.0,False,,pmram_651
+data/external/pmram/extracted/Raw/512Meningioma/M_384.jpg,meningioma,0.0,False,,pmram_652
+data/external/pmram/extracted/Raw/512Meningioma/M_385.jpg,meningioma,0.0,False,,pmram_653
+data/external/pmram/extracted/Raw/512Meningioma/M_386.jpg,meningioma,0.0,False,,pmram_654
+data/external/pmram/extracted/Raw/512Meningioma/M_387.jpg,meningioma,0.0,False,,pmram_655
+data/external/pmram/extracted/Raw/512Meningioma/M_388.jpg,meningioma,0.0,False,,pmram_656
+data/external/pmram/extracted/Raw/512Meningioma/M_389.jpg,meningioma,0.0,False,,pmram_657
+data/external/pmram/extracted/Raw/512Meningioma/M_39.jpg,meningioma,0.0,False,,pmram_658
+data/external/pmram/extracted/Raw/512Meningioma/M_390.jpg,meningioma,0.0,False,,pmram_425
+data/external/pmram/extracted/Raw/512Meningioma/M_391.jpg,meningioma,0.0,False,,pmram_660
+data/external/pmram/extracted/Raw/512Meningioma/M_392.jpg,meningioma,0.0,False,,pmram_661
+data/external/pmram/extracted/Raw/512Meningioma/M_393.jpg,meningioma,0.0,False,,pmram_662
+data/external/pmram/extracted/Raw/512Meningioma/M_394.jpg,meningioma,0.0,False,,pmram_663
+data/external/pmram/extracted/Raw/512Meningioma/M_395.jpg,meningioma,0.0,False,,pmram_664
+data/external/pmram/extracted/Raw/512Meningioma/M_396.jpg,meningioma,0.0,False,,pmram_665
+data/external/pmram/extracted/Raw/512Meningioma/M_397.jpg,meningioma,0.0,False,,pmram_666
+data/external/pmram/extracted/Raw/512Meningioma/M_398.jpg,meningioma,0.0,False,,pmram_667
+data/external/pmram/extracted/Raw/512Meningioma/M_399.jpg,meningioma,0.0,False,,pmram_668
+data/external/pmram/extracted/Raw/512Meningioma/M_4.jpg,meningioma,0.0,False,,pmram_519
+data/external/pmram/extracted/Raw/512Meningioma/M_40.jpg,meningioma,0.814409,False,,pmram_670
+data/external/pmram/extracted/Raw/512Meningioma/M_400.jpg,meningioma,0.0,False,,pmram_671
+data/external/pmram/extracted/Raw/512Meningioma/M_41.jpg,meningioma,0.0,False,,pmram_672
+data/external/pmram/extracted/Raw/512Meningioma/M_42.jpg,meningioma,0.0,False,,pmram_673
+data/external/pmram/extracted/Raw/512Meningioma/M_43.jpg,meningioma,0.0,False,,pmram_674
+data/external/pmram/extracted/Raw/512Meningioma/M_44.jpg,meningioma,0.0,False,,pmram_675
+data/external/pmram/extracted/Raw/512Meningioma/M_45.jpg,meningioma,0.0,False,,pmram_676
+data/external/pmram/extracted/Raw/512Meningioma/M_46.jpg,meningioma,0.0,False,,pmram_609
+data/external/pmram/extracted/Raw/512Meningioma/M_47.jpg,meningioma,0.0,False,,pmram_678
+data/external/pmram/extracted/Raw/512Meningioma/M_48.jpg,meningioma,0.0,False,,pmram_679
+data/external/pmram/extracted/Raw/512Meningioma/M_49.jpg,meningioma,0.0,False,,pmram_680
+data/external/pmram/extracted/Raw/512Meningioma/M_5.jpg,meningioma,0.0,False,,pmram_522
+data/external/pmram/extracted/Raw/512Meningioma/M_50.jpg,meningioma,0.0,False,,pmram_682
+data/external/pmram/extracted/Raw/512Meningioma/M_51.jpg,meningioma,0.0,False,,pmram_683
+data/external/pmram/extracted/Raw/512Meningioma/M_52.jpg,meningioma,0.0,False,,pmram_684
+data/external/pmram/extracted/Raw/512Meningioma/M_53.jpg,meningioma,0.0,False,,pmram_685
+data/external/pmram/extracted/Raw/512Meningioma/M_54.jpg,meningioma,0.0,False,,pmram_686
+data/external/pmram/extracted/Raw/512Meningioma/M_55.jpg,meningioma,0.0,False,,pmram_687
+data/external/pmram/extracted/Raw/512Meningioma/M_56.jpg,meningioma,0.0,False,,pmram_688
+data/external/pmram/extracted/Raw/512Meningioma/M_57.jpg,meningioma,0.0,False,,pmram_456
+data/external/pmram/extracted/Raw/512Meningioma/M_58.jpg,meningioma,0.0,False,,pmram_690
+data/external/pmram/extracted/Raw/512Meningioma/M_59.jpg,meningioma,0.0,False,,pmram_691
+data/external/pmram/extracted/Raw/512Meningioma/M_6.jpg,meningioma,0.9516111,False,,pmram_418
+data/external/pmram/extracted/Raw/512Meningioma/M_60.jpg,meningioma,0.0,False,,pmram_693
+data/external/pmram/extracted/Raw/512Meningioma/M_61.jpg,meningioma,0.7316469,False,,pmram_694
+data/external/pmram/extracted/Raw/512Meningioma/M_62.jpg,meningioma,0.732375,False,,pmram_695
+data/external/pmram/extracted/Raw/512Meningioma/M_63.jpg,meningioma,0.73108405,False,,pmram_696
+data/external/pmram/extracted/Raw/512Meningioma/M_64.jpg,meningioma,0.0,False,,pmram_697
+data/external/pmram/extracted/Raw/512Meningioma/M_65.jpg,meningioma,0.0,False,,pmram_698
+data/external/pmram/extracted/Raw/512Meningioma/M_66.jpg,meningioma,0.9268826,False,,pmram_699
+data/external/pmram/extracted/Raw/512Meningioma/M_67.jpg,meningioma,0.0,False,,pmram_700
+data/external/pmram/extracted/Raw/512Meningioma/M_68.jpg,meningioma,0.0,False,,pmram_425
+data/external/pmram/extracted/Raw/512Meningioma/M_69.jpg,meningioma,0.96453506,False,,pmram_702
+data/external/pmram/extracted/Raw/512Meningioma/M_7.jpg,meningioma,0.5503395,False,,pmram_525
+data/external/pmram/extracted/Raw/512Meningioma/M_70.jpg,meningioma,0.9805803,True,Training/meningioma/Tr-me_83.jpg,pmram_704
+data/external/pmram/extracted/Raw/512Meningioma/M_71.jpg,meningioma,0.9901427,True,Training/meningioma/Tr-me_347.jpg,pmram_705
+data/external/pmram/extracted/Raw/512Meningioma/M_72.jpg,meningioma,0.9929851,True,Training/meningioma/Tr-me_1269.jpg,pmram_706
+data/external/pmram/extracted/Raw/512Meningioma/M_73.jpg,meningioma,0.0,False,,pmram_707
+data/external/pmram/extracted/Raw/512Meningioma/M_74.jpg,meningioma,0.98852843,True,Training/meningioma/Tr-me_1088.jpg,pmram_708
+data/external/pmram/extracted/Raw/512Meningioma/M_75.jpg,meningioma,0.9909526,True,Training/meningioma/Tr-aug-me_92.jpg,pmram_709
+data/external/pmram/extracted/Raw/512Meningioma/M_76.jpg,meningioma,0.0,False,,pmram_710
+data/external/pmram/extracted/Raw/512Meningioma/M_77.jpg,meningioma,0.0,False,,pmram_711
+data/external/pmram/extracted/Raw/512Meningioma/M_78.jpg,meningioma,0.0,False,,pmram_712
+data/external/pmram/extracted/Raw/512Meningioma/M_79.jpg,meningioma,0.6245467,False,,pmram_416
+data/external/pmram/extracted/Raw/512Meningioma/M_8.jpg,meningioma,0.0,False,,pmram_526
+data/external/pmram/extracted/Raw/512Meningioma/M_80.jpg,meningioma,0.0,False,,pmram_715
+data/external/pmram/extracted/Raw/512Meningioma/M_81.jpg,meningioma,0.0,False,,pmram_716
+data/external/pmram/extracted/Raw/512Meningioma/M_82.jpg,meningioma,0.0,False,,pmram_717
+data/external/pmram/extracted/Raw/512Meningioma/M_83.jpg,meningioma,0.0,False,,pmram_718
+data/external/pmram/extracted/Raw/512Meningioma/M_84.jpg,meningioma,0.0,False,,pmram_719
+data/external/pmram/extracted/Raw/512Meningioma/M_85.jpg,meningioma,0.0,False,,pmram_720
+data/external/pmram/extracted/Raw/512Meningioma/M_86.jpg,meningioma,0.0,False,,pmram_721
+data/external/pmram/extracted/Raw/512Meningioma/M_87.jpg,meningioma,0.0,False,,pmram_722
+data/external/pmram/extracted/Raw/512Meningioma/M_88.jpg,meningioma,0.0,False,,pmram_723
+data/external/pmram/extracted/Raw/512Meningioma/M_89.jpg,meningioma,0.0,False,,pmram_724
+data/external/pmram/extracted/Raw/512Meningioma/M_9.jpg,meningioma,0.8515382,False,,pmram_527
+data/external/pmram/extracted/Raw/512Meningioma/M_90.jpg,meningioma,0.9101513,False,,pmram_418
+data/external/pmram/extracted/Raw/512Meningioma/M_91.jpg,meningioma,0.0,False,,pmram_727
+data/external/pmram/extracted/Raw/512Meningioma/M_92.jpg,meningioma,0.0,False,,pmram_728
+data/external/pmram/extracted/Raw/512Meningioma/M_93.jpg,meningioma,0.0,False,,pmram_729
+data/external/pmram/extracted/Raw/512Meningioma/M_94.jpg,meningioma,0.0,False,,pmram_730
+data/external/pmram/extracted/Raw/512Meningioma/M_95.jpg,meningioma,0.0,False,,pmram_731
+data/external/pmram/extracted/Raw/512Meningioma/M_96.jpg,meningioma,0.63587713,False,,pmram_732
+data/external/pmram/extracted/Raw/512Meningioma/M_97.jpg,meningioma,0.0,False,,pmram_733
+data/external/pmram/extracted/Raw/512Meningioma/M_98.jpg,meningioma,0.0,False,,pmram_734
+data/external/pmram/extracted/Raw/512Meningioma/M_99.jpg,meningioma,0.0,False,,pmram_735
+data/external/pmram/extracted/Raw/512Normal/normal (1).jpg,notumor,0.9999727,True,Training/notumor/Tr-no_1140.jpg,pmram_736
+data/external/pmram/extracted/Raw/512Normal/normal (10).jpg,notumor,0.9999784,True,Training/notumor/Tr-no_276.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (100).jpg,notumor,0.9999477,True,Training/notumor/Tr-no_647.jpg,pmram_738
+data/external/pmram/extracted/Raw/512Normal/normal (101).jpg,notumor,0.9998425,True,Training/notumor/Tr-no_283.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (102).jpg,notumor,0.9997268,True,Training/notumor/Tr-no_776.jpg,pmram_740
+data/external/pmram/extracted/Raw/512Normal/normal (103).jpg,notumor,0.99993753,True,Training/notumor/Tr-no_1349.jpg,pmram_741
+data/external/pmram/extracted/Raw/512Normal/normal (104).jpg,notumor,0.9999833,True,Training/notumor/Tr-no_967.jpg,pmram_742
+data/external/pmram/extracted/Raw/512Normal/normal (105).jpg,notumor,0.9999519,True,Training/notumor/Tr-no_505.jpg,pmram_743
+data/external/pmram/extracted/Raw/512Normal/normal (106).jpg,notumor,0.99996114,True,Training/notumor/Tr-no_374.jpg,pmram_744
+data/external/pmram/extracted/Raw/512Normal/normal (107).jpg,notumor,0.9999291,True,Training/notumor/Tr-no_500.jpg,pmram_745
+data/external/pmram/extracted/Raw/512Normal/normal (108).jpg,notumor,0.9999728,True,Training/notumor/Tr-no_325.jpg,pmram_746
+data/external/pmram/extracted/Raw/512Normal/normal (109).jpg,notumor,0.9999977,True,Training/notumor/Tr-no_859.jpg,pmram_747
+data/external/pmram/extracted/Raw/512Normal/normal (11).jpg,notumor,0.9999479,True,Training/notumor/Tr-no_50.jpg,pmram_748
+data/external/pmram/extracted/Raw/512Normal/normal (110).jpg,notumor,0.99997944,True,Training/notumor/Tr-no_764.jpg,pmram_749
+data/external/pmram/extracted/Raw/512Normal/normal (111).jpg,notumor,0.9999752,True,Training/notumor/Tr-no_80.jpg,pmram_741
+data/external/pmram/extracted/Raw/512Normal/normal (112).jpg,notumor,0.9999534,True,Training/notumor/Tr-no_148.jpg,pmram_751
+data/external/pmram/extracted/Raw/512Normal/normal (113).jpg,notumor,0.99984026,True,Training/notumor/Tr-no_1189.jpg,pmram_752
+data/external/pmram/extracted/Raw/512Normal/normal (114).jpg,notumor,0.9997496,True,Training/notumor/Tr-no_1104.jpg,pmram_753
+data/external/pmram/extracted/Raw/512Normal/normal (115).jpg,notumor,0.9995947,True,Training/notumor/Tr-no_1270.jpg,pmram_754
+data/external/pmram/extracted/Raw/512Normal/normal (116).jpg,notumor,0.999956,True,Training/notumor/Tr-no_185.jpg,pmram_755
+data/external/pmram/extracted/Raw/512Normal/normal (117).jpg,notumor,0.99997056,True,Training/notumor/Tr-no_648.jpg,pmram_756
+data/external/pmram/extracted/Raw/512Normal/normal (118).jpg,notumor,0.9996797,True,Training/notumor/Tr-no_33.jpg,pmram_757
+data/external/pmram/extracted/Raw/512Normal/normal (119).jpg,notumor,0.9999453,True,Training/notumor/Tr-no_1211.jpg,pmram_748
+data/external/pmram/extracted/Raw/512Normal/normal (12).jpg,notumor,0.9999658,True,Training/notumor/Tr-no_292.jpg,pmram_759
+data/external/pmram/extracted/Raw/512Normal/normal (120).jpg,notumor,0.9998672,True,Training/notumor/Tr-no_95.jpg,pmram_760
+data/external/pmram/extracted/Raw/512Normal/normal (121).jpg,notumor,0.9999403,True,Training/notumor/Tr-no_414.jpg,pmram_761
+data/external/pmram/extracted/Raw/512Normal/normal (122).jpg,notumor,0.9999834,True,Training/notumor/Tr-no_1283.jpg,pmram_738
+data/external/pmram/extracted/Raw/512Normal/normal (123).jpg,notumor,0.9999784,True,Training/notumor/Tr-no_857.jpg,pmram_763
+data/external/pmram/extracted/Raw/512Normal/normal (124).jpg,notumor,0.9999567,True,Testing/notumor/Te-no_49.jpg,pmram_764
+data/external/pmram/extracted/Raw/512Normal/normal (125).jpg,notumor,0.999969,True,Training/notumor/Tr-no_1350.jpg,pmram_765
+data/external/pmram/extracted/Raw/512Normal/normal (126).jpg,notumor,0.99992955,True,Training/notumor/Tr-no_544.jpg,pmram_745
+data/external/pmram/extracted/Raw/512Normal/normal (127).jpg,notumor,0.99969256,True,Training/notumor/Tr-no_238.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (128).jpg,notumor,0.99992585,True,Training/notumor/Tr-no_250.jpg,pmram_768
+data/external/pmram/extracted/Raw/512Normal/normal (129).jpg,notumor,0.9999453,True,Training/notumor/Tr-no_1285.jpg,pmram_769
+data/external/pmram/extracted/Raw/512Normal/normal (13).jpg,notumor,0.99995935,True,Training/notumor/Tr-no_817.jpg,pmram_770
+data/external/pmram/extracted/Raw/512Normal/normal (130).jpg,notumor,0.9996955,True,Training/notumor/Tr-no_580.jpg,pmram_771
+data/external/pmram/extracted/Raw/512Normal/normal (131).jpg,notumor,0.9999318,True,Training/notumor/Tr-no_763.jpg,pmram_772
+data/external/pmram/extracted/Raw/512Normal/normal (132).jpg,notumor,0.999952,True,Training/notumor/Tr-no_423.jpg,pmram_773
+data/external/pmram/extracted/Raw/512Normal/normal (133).jpg,notumor,0.9999457,True,Training/notumor/Tr-no_44.jpg,pmram_774
+data/external/pmram/extracted/Raw/512Normal/normal (134).jpg,notumor,0.9999585,True,Training/notumor/Tr-no_1000.jpg,pmram_775
+data/external/pmram/extracted/Raw/512Normal/normal (135).jpg,notumor,0.9999377,True,Testing/notumor/Te-no_349.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (136).jpg,notumor,0.99994665,True,Training/notumor/Tr-no_124.jpg,pmram_777
+data/external/pmram/extracted/Raw/512Normal/normal (137).jpg,notumor,0.0,False,,pmram_778
+data/external/pmram/extracted/Raw/512Normal/normal (138).jpg,notumor,0.9998977,True,Training/notumor/Tr-no_822.jpg,pmram_779
+data/external/pmram/extracted/Raw/512Normal/normal (139).jpg,notumor,0.999978,True,Training/notumor/Tr-no_1277.jpg,pmram_780
+data/external/pmram/extracted/Raw/512Normal/normal (14).jpg,notumor,0.9998603,True,Training/notumor/Tr-no_913.jpg,pmram_781
+data/external/pmram/extracted/Raw/512Normal/normal (140).jpg,notumor,0.9999925,True,Training/notumor/Tr-no_239.jpg,pmram_747
+data/external/pmram/extracted/Raw/512Normal/normal (141).jpg,notumor,0.9999572,True,Training/notumor/Tr-no_1334.jpg,pmram_783
+data/external/pmram/extracted/Raw/512Normal/normal (142).jpg,notumor,0.9999523,True,Testing/notumor/Te-no_295.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (143).jpg,notumor,0.99997246,True,Testing/notumor/Te-no_132.jpg,pmram_785
+data/external/pmram/extracted/Raw/512Normal/normal (144).jpg,notumor,0.99988645,True,Training/notumor/Tr-no_827.jpg,pmram_786
+data/external/pmram/extracted/Raw/512Normal/normal (145).jpg,notumor,0.99993736,True,Training/notumor/Tr-no_1349.jpg,pmram_741
+data/external/pmram/extracted/Raw/512Normal/normal (146).jpg,notumor,0.99998075,True,Training/notumor/Tr-no_1187.jpg,pmram_788
+data/external/pmram/extracted/Raw/512Normal/normal (147).jpg,notumor,0.99995846,True,Training/notumor/Tr-no_300.jpg,pmram_789
+data/external/pmram/extracted/Raw/512Normal/normal (148).jpg,notumor,0.99963564,True,Training/notumor/Tr-no_938.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (149).jpg,notumor,0.99991983,True,Training/notumor/Tr-no_1059.jpg,pmram_791
+data/external/pmram/extracted/Raw/512Normal/normal (15).jpg,notumor,0.9999791,True,Training/notumor/Tr-no_1227.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (150).jpg,notumor,0.9999759,True,Training/notumor/Tr-no_244.jpg,pmram_793
+data/external/pmram/extracted/Raw/512Normal/normal (151).jpg,notumor,0.9999702,True,Training/notumor/Tr-no_882.jpg,pmram_752
+data/external/pmram/extracted/Raw/512Normal/normal (152).jpg,notumor,0.9999422,True,Training/notumor/Tr-no_470.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (153).jpg,notumor,0.999976,True,Training/notumor/Tr-no_1390.jpg,pmram_796
+data/external/pmram/extracted/Raw/512Normal/normal (154).jpg,notumor,0.99990296,True,Training/notumor/Tr-no_852.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (155).jpg,notumor,0.9999387,True,Training/notumor/Tr-no_779.jpg,pmram_798
+data/external/pmram/extracted/Raw/512Normal/normal (156).jpg,notumor,0.99997044,True,Training/notumor/Tr-no_69.jpg,pmram_752
+data/external/pmram/extracted/Raw/512Normal/normal (157).jpg,notumor,0.99998033,True,Training/notumor/Tr-no_982.jpg,pmram_800
+data/external/pmram/extracted/Raw/512Normal/normal (158).jpg,notumor,0.99997807,True,Training/notumor/Tr-no_194.jpg,pmram_780
+data/external/pmram/extracted/Raw/512Normal/normal (159).jpg,notumor,0.9999682,True,Training/notumor/Tr-no_316.jpg,pmram_802
+data/external/pmram/extracted/Raw/512Normal/normal (16).jpg,notumor,0.9998828,True,Testing/notumor/Te-no_136.jpg,pmram_786
+data/external/pmram/extracted/Raw/512Normal/normal (160).jpg,notumor,0.99995446,True,Training/notumor/Tr-no_1007.jpg,pmram_804
+data/external/pmram/extracted/Raw/512Normal/normal (161).jpg,notumor,0.9992716,True,Training/notumor/Tr-no_452.jpg,pmram_805
+data/external/pmram/extracted/Raw/512Normal/normal (162).jpg,notumor,0.99969536,True,Training/notumor/Tr-no_489.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (163).jpg,notumor,0.9999556,True,Training/notumor/Tr-no_267.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (164).jpg,notumor,0.99999034,True,Training/notumor/Tr-no_806.jpg,pmram_808
+data/external/pmram/extracted/Raw/512Normal/normal (165).jpg,notumor,0.9999045,True,Training/notumor/Tr-no_659.jpg,pmram_809
+data/external/pmram/extracted/Raw/512Normal/normal (166).jpg,notumor,0.9998952,True,Training/notumor/Tr-no_1236.jpg,pmram_810
+data/external/pmram/extracted/Raw/512Normal/normal (167).jpg,notumor,0.9999695,True,Training/notumor/Tr-no_1180.jpg,pmram_811
+data/external/pmram/extracted/Raw/512Normal/normal (168).jpg,notumor,0.9996028,True,Training/notumor/Tr-no_13.jpg,pmram_812
+data/external/pmram/extracted/Raw/512Normal/normal (169).jpg,notumor,0.9999439,True,Training/notumor/Tr-no_261.jpg,pmram_813
+data/external/pmram/extracted/Raw/512Normal/normal (17).jpg,notumor,0.99970555,True,Testing/notumor/Te-no_313.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (170).jpg,notumor,0.9999651,True,Training/notumor/Tr-no_627.jpg,pmram_815
+data/external/pmram/extracted/Raw/512Normal/normal (171).jpg,notumor,0.9987868,True,Testing/notumor/Te-no_146.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (172).jpg,notumor,0.99997103,True,Training/notumor/Tr-no_40.jpg,pmram_817
+data/external/pmram/extracted/Raw/512Normal/normal (173).jpg,notumor,0.99961305,True,Testing/notumor/Te-no_3.jpg,pmram_812
+data/external/pmram/extracted/Raw/512Normal/normal (174).jpg,notumor,0.99896437,True,Training/notumor/Tr-no_601.jpg,pmram_819
+data/external/pmram/extracted/Raw/512Normal/normal (175).jpg,notumor,0.9999596,True,Training/notumor/Tr-no_190.jpg,pmram_820
+data/external/pmram/extracted/Raw/512Normal/normal (176).jpg,notumor,0.99995136,True,Training/notumor/Tr-no_511.jpg,pmram_774
+data/external/pmram/extracted/Raw/512Normal/normal (177).jpg,notumor,0.99993974,True,Training/notumor/Tr-no_554.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (178).jpg,notumor,0.9999664,True,Training/notumor/Tr-no_1292.jpg,pmram_823
+data/external/pmram/extracted/Raw/512Normal/normal (179).jpg,notumor,0.9999445,True,Training/notumor/Tr-no_1337.jpg,pmram_753
+data/external/pmram/extracted/Raw/512Normal/normal (18).jpg,notumor,0.9999661,True,Training/notumor/Tr-no_995.jpg,pmram_756
+data/external/pmram/extracted/Raw/512Normal/normal (180).jpg,notumor,0.99994963,True,Training/notumor/Tr-no_850.jpg,pmram_826
+data/external/pmram/extracted/Raw/512Normal/normal (181).jpg,notumor,0.9998553,True,Training/notumor/Tr-no_181.jpg,pmram_827
+data/external/pmram/extracted/Raw/512Normal/normal (182).jpg,notumor,0.9999976,True,Training/notumor/Tr-no_326.jpg,pmram_774
+data/external/pmram/extracted/Raw/512Normal/normal (183).jpg,notumor,0.9999516,True,Training/notumor/Tr-no_1279.jpg,pmram_751
+data/external/pmram/extracted/Raw/512Normal/normal (184).jpg,notumor,0.9999432,True,Training/notumor/Tr-no_1009.jpg,pmram_771
+data/external/pmram/extracted/Raw/512Normal/normal (185).jpg,notumor,0.9999779,True,Training/notumor/Tr-no_947.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (186).jpg,notumor,0.9996033,True,Training/notumor/Tr-no_1057.jpg,pmram_812
+data/external/pmram/extracted/Raw/512Normal/normal (187).jpg,notumor,0.99984586,True,Training/notumor/Tr-no_1377.jpg,pmram_827
+data/external/pmram/extracted/Raw/512Normal/normal (188).jpg,notumor,0.9899255,True,Testing/notumor/Te-no_146.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (189).jpg,notumor,0.99997985,True,Training/notumor/Tr-no_1374.jpg,pmram_835
+data/external/pmram/extracted/Raw/512Normal/normal (19).jpg,notumor,0.9999397,True,Training/notumor/Tr-no_640.jpg,pmram_836
+data/external/pmram/extracted/Raw/512Normal/normal (190).jpg,notumor,0.9999406,True,Training/notumor/Tr-no_778.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (191).jpg,notumor,0.9999775,True,Training/notumor/Tr-no_870.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (192).jpg,notumor,0.9999731,True,Training/notumor/Tr-no_1307.jpg,pmram_839
+data/external/pmram/extracted/Raw/512Normal/normal (193).jpg,notumor,0.0,False,,pmram_778
+data/external/pmram/extracted/Raw/512Normal/normal (194).jpg,notumor,0.9999597,True,Training/notumor/Tr-no_478.jpg,pmram_841
+data/external/pmram/extracted/Raw/512Normal/normal (195).jpg,notumor,0.99996156,True,Training/notumor/Tr-no_159.jpg,pmram_738
+data/external/pmram/extracted/Raw/512Normal/normal (196).jpg,notumor,0.0,False,,pmram_843
+data/external/pmram/extracted/Raw/512Normal/normal (197).jpg,notumor,0.9999727,True,Training/notumor/Tr-no_1140.jpg,pmram_736
+data/external/pmram/extracted/Raw/512Normal/normal (198).jpg,notumor,0.9999765,True,Training/notumor/Tr-no_872.jpg,pmram_845
+data/external/pmram/extracted/Raw/512Normal/normal (199).jpg,notumor,0.99990857,True,Training/notumor/Tr-no_534.jpg,pmram_779
+data/external/pmram/extracted/Raw/512Normal/normal (2).jpg,notumor,0.999976,True,Training/notumor/Tr-no_1390.jpg,pmram_796
+data/external/pmram/extracted/Raw/512Normal/normal (20).jpg,notumor,0.9999049,True,Testing/notumor/Te-no_370.jpg,pmram_848
+data/external/pmram/extracted/Raw/512Normal/normal (200).jpg,notumor,0.9999784,True,Training/notumor/Tr-no_276.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (201).jpg,notumor,0.9999479,True,Training/notumor/Tr-no_50.jpg,pmram_748
+data/external/pmram/extracted/Raw/512Normal/normal (202).jpg,notumor,0.9999658,True,Training/notumor/Tr-no_292.jpg,pmram_759
+data/external/pmram/extracted/Raw/512Normal/normal (203).jpg,notumor,0.99996865,True,Training/notumor/Tr-no_830.jpg,pmram_765
+data/external/pmram/extracted/Raw/512Normal/normal (204).jpg,notumor,0.99965,True,Training/notumor/Tr-no_889.jpg,pmram_809
+data/external/pmram/extracted/Raw/512Normal/normal (205).jpg,notumor,0.9999454,True,Training/notumor/Tr-no_278.jpg,pmram_854
+data/external/pmram/extracted/Raw/512Normal/normal (206).jpg,notumor,0.9999057,True,Training/notumor/Tr-no_994.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (207).jpg,notumor,0.9999633,True,Training/notumor/Tr-no_635.jpg,pmram_747
+data/external/pmram/extracted/Raw/512Normal/normal (208).jpg,notumor,0.99873114,True,Training/notumor/Tr-no_548.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (209).jpg,notumor,0.99972296,True,Training/notumor/Tr-no_950.jpg,pmram_810
+data/external/pmram/extracted/Raw/512Normal/normal (21).jpg,notumor,0.99995506,True,Training/notumor/Tr-no_753.jpg,pmram_859
+data/external/pmram/extracted/Raw/512Normal/normal (210).jpg,notumor,0.9997302,True,Training/notumor/Tr-no_670.jpg,pmram_860
+data/external/pmram/extracted/Raw/512Normal/normal (211).jpg,notumor,0.999947,True,Training/notumor/Tr-no_838.jpg,pmram_861
+data/external/pmram/extracted/Raw/512Normal/normal (212).jpg,notumor,0.9999021,True,Training/notumor/Tr-no_1244.jpg,pmram_862
+data/external/pmram/extracted/Raw/512Normal/normal (213).jpg,notumor,0.9999604,True,Training/notumor/Tr-no_52.jpg,pmram_863
+data/external/pmram/extracted/Raw/512Normal/normal (214).jpg,notumor,0.9999533,True,Training/notumor/Tr-no_282.jpg,pmram_864
+data/external/pmram/extracted/Raw/512Normal/normal (215).jpg,notumor,0.99995416,True,Training/notumor/Tr-no_1388.jpg,pmram_771
+data/external/pmram/extracted/Raw/512Normal/normal (216).jpg,notumor,0.99995935,True,Training/notumor/Tr-no_817.jpg,pmram_770
+data/external/pmram/extracted/Raw/512Normal/normal (217).jpg,notumor,0.9998603,True,Training/notumor/Tr-no_913.jpg,pmram_781
+data/external/pmram/extracted/Raw/512Normal/normal (218).jpg,notumor,0.9999791,True,Training/notumor/Tr-no_1227.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (219).jpg,notumor,0.9999701,True,Training/notumor/Tr-no_702.jpg,pmram_869
+data/external/pmram/extracted/Raw/512Normal/normal (22).jpg,notumor,0.9999727,True,Training/notumor/Tr-no_1140.jpg,pmram_736
+data/external/pmram/extracted/Raw/512Normal/normal (220).jpg,notumor,0.99993515,True,Training/notumor/Tr-no_1233.jpg,pmram_871
+data/external/pmram/extracted/Raw/512Normal/normal (221).jpg,notumor,0.9998209,True,Training/notumor/Tr-no_495.jpg,pmram_760
+data/external/pmram/extracted/Raw/512Normal/normal (222).jpg,notumor,0.9999722,True,Training/notumor/Tr-no_911.jpg,pmram_873
+data/external/pmram/extracted/Raw/512Normal/normal (223).jpg,notumor,0.99996537,True,Training/notumor/Tr-no_713.jpg,pmram_747
+data/external/pmram/extracted/Raw/512Normal/normal (224).jpg,notumor,0.99997014,True,Training/notumor/Tr-no_469.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (225).jpg,notumor,0.9999814,True,Training/notumor/Tr-no_15.jpg,pmram_876
+data/external/pmram/extracted/Raw/512Normal/normal (226).jpg,notumor,0.9999549,True,Training/notumor/Tr-no_894.jpg,pmram_877
+data/external/pmram/extracted/Raw/512Normal/normal (227).jpg,notumor,0.9999757,True,Training/notumor/Tr-no_791.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (228).jpg,notumor,0.99993986,True,Training/notumor/Tr-no_359.jpg,pmram_854
+data/external/pmram/extracted/Raw/512Normal/normal (229).jpg,notumor,0.9999516,True,Testing/notumor/Te-no_155.jpg,pmram_861
+data/external/pmram/extracted/Raw/512Normal/normal (23).jpg,notumor,0.9999612,True,Training/notumor/Tr-no_468.jpg,pmram_881
+data/external/pmram/extracted/Raw/512Normal/normal (230).jpg,notumor,0.9999769,True,Training/notumor/Tr-no_358.jpg,pmram_882
+data/external/pmram/extracted/Raw/512Normal/normal (231).jpg,notumor,0.99994045,True,Training/notumor/Tr-no_645.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (232).jpg,notumor,0.9998828,True,Testing/notumor/Te-no_136.jpg,pmram_786
+data/external/pmram/extracted/Raw/512Normal/normal (233).jpg,notumor,0.99970555,True,Testing/notumor/Te-no_313.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (234).jpg,notumor,0.9999661,True,Training/notumor/Tr-no_995.jpg,pmram_756
+data/external/pmram/extracted/Raw/512Normal/normal (235).jpg,notumor,0.99995375,True,Training/notumor/Tr-no_486.jpg,pmram_887
+data/external/pmram/extracted/Raw/512Normal/normal (236).jpg,notumor,0.9998818,True,Training/notumor/Tr-no_1066.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (237).jpg,notumor,0.9999748,True,Training/notumor/Tr-no_919.jpg,pmram_889
+data/external/pmram/extracted/Raw/512Normal/normal (238).jpg,notumor,0.99997056,True,Training/notumor/Tr-no_1338.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (239).jpg,notumor,0.9999086,True,Testing/notumor/Te-no_53.jpg,pmram_809
+data/external/pmram/extracted/Raw/512Normal/normal (24).jpg,notumor,0.99995387,True,Training/notumor/Tr-no_1226.jpg,pmram_892
+data/external/pmram/extracted/Raw/512Normal/normal (240).jpg,notumor,0.99957246,True,Training/notumor/Tr-no_419.jpg,pmram_738
+data/external/pmram/extracted/Raw/512Normal/normal (241).jpg,notumor,0.99995375,True,Training/notumor/Tr-no_486.jpg,pmram_887
+data/external/pmram/extracted/Raw/512Normal/normal (242).jpg,notumor,0.9999492,True,Training/notumor/Tr-no_1048.jpg,pmram_895
+data/external/pmram/extracted/Raw/512Normal/normal (243).jpg,notumor,0.99998456,True,Training/notumor/Tr-no_582.jpg,pmram_896
+data/external/pmram/extracted/Raw/512Normal/normal (244).jpg,notumor,0.9999607,True,Training/notumor/Tr-no_650.jpg,pmram_897
+data/external/pmram/extracted/Raw/512Normal/normal (245).jpg,notumor,0.99988824,True,Testing/notumor/Te-no_282.jpg,pmram_810
+data/external/pmram/extracted/Raw/512Normal/normal (246).jpg,notumor,0.9994862,True,Training/notumor/Tr-no_210.jpg,pmram_899
+data/external/pmram/extracted/Raw/512Normal/normal (247).jpg,notumor,0.99994814,True,Testing/notumor/Te-no_335.jpg,pmram_892
+data/external/pmram/extracted/Raw/512Normal/normal (248).jpg,notumor,0.9999397,True,Training/notumor/Tr-no_640.jpg,pmram_836
+data/external/pmram/extracted/Raw/512Normal/normal (249).jpg,notumor,0.9999049,True,Testing/notumor/Te-no_370.jpg,pmram_848
+data/external/pmram/extracted/Raw/512Normal/normal (25).jpg,notumor,0.99958855,True,Training/notumor/Tr-no_1324.jpg,pmram_903
+data/external/pmram/extracted/Raw/512Normal/normal (250).jpg,notumor,0.99995506,True,Training/notumor/Tr-no_753.jpg,pmram_859
+data/external/pmram/extracted/Raw/512Normal/normal (251).jpg,notumor,0.9982763,True,Training/notumor/Tr-no_418.jpg,pmram_905
+data/external/pmram/extracted/Raw/512Normal/normal (252).jpg,notumor,0.999982,True,Training/notumor/Tr-no_303.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (253).jpg,notumor,0.9999488,True,Training/notumor/Tr-no_451.jpg,pmram_907
+data/external/pmram/extracted/Raw/512Normal/normal (254).jpg,notumor,0.9999734,True,Training/notumor/Tr-no_373.jpg,pmram_908
+data/external/pmram/extracted/Raw/512Normal/normal (255).jpg,notumor,0.9999474,True,Training/notumor/Tr-no_397.jpg,pmram_751
+data/external/pmram/extracted/Raw/512Normal/normal (256).jpg,notumor,0.99157155,True,Testing/notumor/Te-no_146.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (257).jpg,notumor,0.9999553,True,Training/notumor/Tr-no_1127.jpg,pmram_911
+data/external/pmram/extracted/Raw/512Normal/normal (258).jpg,notumor,0.99996954,True,Training/notumor/Tr-no_518.jpg,pmram_912
+data/external/pmram/extracted/Raw/512Normal/normal (259).jpg,notumor,0.99992275,True,Training/notumor/Tr-no_324.jpg,pmram_786
+data/external/pmram/extracted/Raw/512Normal/normal (26).jpg,notumor,0.99995506,True,Training/notumor/Tr-no_867.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (260).jpg,notumor,0.9997105,True,Training/notumor/Tr-no_868.jpg,pmram_810
+data/external/pmram/extracted/Raw/512Normal/normal (261).jpg,notumor,0.99993265,True,Training/notumor/Tr-no_717.jpg,pmram_911
+data/external/pmram/extracted/Raw/512Normal/normal (262).jpg,notumor,0.0,False,,pmram_917
+data/external/pmram/extracted/Raw/512Normal/normal (263).jpg,notumor,0.0,False,,pmram_917
+data/external/pmram/extracted/Raw/512Normal/normal (264).jpg,notumor,0.0,False,,pmram_919
+data/external/pmram/extracted/Raw/512Normal/normal (265).jpg,notumor,0.0,False,,pmram_919
+data/external/pmram/extracted/Raw/512Normal/normal (266).jpg,notumor,0.0,False,,pmram_921
+data/external/pmram/extracted/Raw/512Normal/normal (267).jpg,notumor,0.7026748,False,,pmram_922
+data/external/pmram/extracted/Raw/512Normal/normal (268).jpg,notumor,0.5872315,False,,pmram_923
+data/external/pmram/extracted/Raw/512Normal/normal (269).jpg,notumor,0.7523693,False,,pmram_924
+data/external/pmram/extracted/Raw/512Normal/normal (27).jpg,notumor,0.99994266,True,Training/notumor/Tr-no_892.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (270).jpg,notumor,0.0,False,,pmram_926
+data/external/pmram/extracted/Raw/512Normal/normal (271).jpg,notumor,0.5847432,False,,pmram_927
+data/external/pmram/extracted/Raw/512Normal/normal (272).jpg,notumor,0.68003005,False,,pmram_928
+data/external/pmram/extracted/Raw/512Normal/normal (273).jpg,notumor,0.6512258,False,,pmram_929
+data/external/pmram/extracted/Raw/512Normal/normal (274).jpg,notumor,0.0,False,,pmram_930
+data/external/pmram/extracted/Raw/512Normal/normal (275).jpg,notumor,0.9637388,False,,pmram_931
+data/external/pmram/extracted/Raw/512Normal/normal (276).jpg,notumor,0.0,False,,pmram_932
+data/external/pmram/extracted/Raw/512Normal/normal (277).jpg,notumor,0.5759839,False,,pmram_933
+data/external/pmram/extracted/Raw/512Normal/normal (278).jpg,notumor,0.0,False,,pmram_934
+data/external/pmram/extracted/Raw/512Normal/normal (279).jpg,notumor,0.9828169,True,Training/notumor/Tr-no_30.jpg,pmram_935
+data/external/pmram/extracted/Raw/512Normal/normal (28).jpg,notumor,0.99995685,True,Training/notumor/Tr-no_357.jpg,pmram_936
+data/external/pmram/extracted/Raw/512Normal/normal (280).jpg,notumor,0.5759839,False,,pmram_933
+data/external/pmram/extracted/Raw/512Normal/normal (281).jpg,notumor,0.0,False,,pmram_932
+data/external/pmram/extracted/Raw/512Normal/normal (282).jpg,notumor,0.99871355,True,Training/notumor/Tr-no_196.jpg,pmram_939
+data/external/pmram/extracted/Raw/512Normal/normal (283).jpg,notumor,0.0,False,,pmram_934
+data/external/pmram/extracted/Raw/512Normal/normal (284).jpg,notumor,0.5689713,False,,pmram_941
+data/external/pmram/extracted/Raw/512Normal/normal (285).jpg,notumor,0.64659536,False,,pmram_942
+data/external/pmram/extracted/Raw/512Normal/normal (286).jpg,notumor,0.7155199,False,,pmram_943
+data/external/pmram/extracted/Raw/512Normal/normal (287).jpg,notumor,0.5775083,False,,pmram_933
+data/external/pmram/extracted/Raw/512Normal/normal (288).jpg,notumor,0.0,False,,pmram_930
+data/external/pmram/extracted/Raw/512Normal/normal (289).jpg,notumor,0.9637388,False,,pmram_931
+data/external/pmram/extracted/Raw/512Normal/normal (29).jpg,notumor,0.9999323,True,Training/notumor/Tr-no_109.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (290).jpg,notumor,0.0,False,,pmram_930
+data/external/pmram/extracted/Raw/512Normal/normal (291).jpg,notumor,0.9668062,False,,pmram_949
+data/external/pmram/extracted/Raw/512Normal/normal (292).jpg,notumor,0.50400835,False,,pmram_950
+data/external/pmram/extracted/Raw/512Normal/normal (293).jpg,notumor,0.0,False,,pmram_951
+data/external/pmram/extracted/Raw/512Normal/normal (294).jpg,notumor,0.0,False,,pmram_932
+data/external/pmram/extracted/Raw/512Normal/normal (295).jpg,notumor,0.7155199,False,,pmram_943
+data/external/pmram/extracted/Raw/512Normal/normal (296).jpg,notumor,0.0,False,,pmram_954
+data/external/pmram/extracted/Raw/512Normal/normal (297).jpg,notumor,0.90982556,False,,pmram_955
+data/external/pmram/extracted/Raw/512Normal/normal (298).jpg,notumor,0.0,False,,pmram_956
+data/external/pmram/extracted/Raw/512Normal/normal (299).jpg,notumor,0.0,False,,pmram_957
+data/external/pmram/extracted/Raw/512Normal/normal (3).jpg,notumor,0.99990296,True,Training/notumor/Tr-no_852.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (30).jpg,notumor,0.999968,True,Training/notumor/Tr-no_208.jpg,pmram_959
+data/external/pmram/extracted/Raw/512Normal/normal (300).jpg,notumor,0.9331493,False,,pmram_960
+data/external/pmram/extracted/Raw/512Normal/normal (301).jpg,notumor,0.9331493,False,,pmram_960
+data/external/pmram/extracted/Raw/512Normal/normal (302).jpg,notumor,0.93787754,False,,pmram_962
+data/external/pmram/extracted/Raw/512Normal/normal (303).jpg,notumor,0.0,False,,pmram_963
+data/external/pmram/extracted/Raw/512Normal/normal (304).jpg,notumor,0.0,False,,pmram_964
+data/external/pmram/extracted/Raw/512Normal/normal (305).jpg,notumor,0.0,False,,pmram_965
+data/external/pmram/extracted/Raw/512Normal/normal (306).jpg,notumor,0.0,False,,pmram_966
+data/external/pmram/extracted/Raw/512Normal/normal (307).jpg,notumor,0.9331493,False,,pmram_960
+data/external/pmram/extracted/Raw/512Normal/normal (308).jpg,notumor,0.0,False,,pmram_968
+data/external/pmram/extracted/Raw/512Normal/normal (309).jpg,notumor,0.0,False,,pmram_969
+data/external/pmram/extracted/Raw/512Normal/normal (31).jpg,notumor,0.9999695,True,Training/notumor/Tr-no_1180.jpg,pmram_811
+data/external/pmram/extracted/Raw/512Normal/normal (310).jpg,notumor,0.0,False,,pmram_971
+data/external/pmram/extracted/Raw/512Normal/normal (311).jpg,notumor,0.0,False,,pmram_972
+data/external/pmram/extracted/Raw/512Normal/normal (312).jpg,notumor,0.93832654,False,,pmram_973
+data/external/pmram/extracted/Raw/512Normal/normal (313).jpg,notumor,0.0,False,,pmram_974
+data/external/pmram/extracted/Raw/512Normal/normal (314).jpg,notumor,0.72236514,False,,pmram_975
+data/external/pmram/extracted/Raw/512Normal/normal (315).jpg,notumor,0.0,False,,pmram_976
+data/external/pmram/extracted/Raw/512Normal/normal (316).jpg,notumor,0.8155695,False,,pmram_977
+data/external/pmram/extracted/Raw/512Normal/normal (317).jpg,notumor,0.0,False,,pmram_978
+data/external/pmram/extracted/Raw/512Normal/normal (318).jpg,notumor,0.0,False,,pmram_979
+data/external/pmram/extracted/Raw/512Normal/normal (319).jpg,notumor,0.0,False,,pmram_980
+data/external/pmram/extracted/Raw/512Normal/normal (32).jpg,notumor,0.9999481,True,Training/notumor/Tr-no_545.jpg,pmram_981
+data/external/pmram/extracted/Raw/512Normal/normal (320).jpg,notumor,0.99120766,True,Training/notumor/Tr-no_937.jpg,pmram_982
+data/external/pmram/extracted/Raw/512Normal/normal (321).jpg,notumor,0.0,False,,pmram_983
+data/external/pmram/extracted/Raw/512Normal/normal (322).jpg,notumor,0.0,False,,pmram_968
+data/external/pmram/extracted/Raw/512Normal/normal (323).jpg,notumor,0.0,False,,pmram_985
+data/external/pmram/extracted/Raw/512Normal/normal (324).jpg,notumor,0.9955119,True,Testing/notumor/Te-no_332.jpg,pmram_745
+data/external/pmram/extracted/Raw/512Normal/normal (325).jpg,notumor,0.9365369,False,,pmram_987
+data/external/pmram/extracted/Raw/512Normal/normal (326).jpg,notumor,0.0,False,,pmram_988
+data/external/pmram/extracted/Raw/512Normal/normal (327).jpg,notumor,0.6605464,False,,pmram_989
+data/external/pmram/extracted/Raw/512Normal/normal (328).jpg,notumor,0.55203986,False,,pmram_990
+data/external/pmram/extracted/Raw/512Normal/normal (329).jpg,notumor,0.37454426,False,,pmram_991
+data/external/pmram/extracted/Raw/512Normal/normal (33).jpg,notumor,0.9999384,True,Testing/notumor/Te-no_376.jpg,pmram_992
+data/external/pmram/extracted/Raw/512Normal/normal (330).jpg,notumor,0.97620076,False,,pmram_993
+data/external/pmram/extracted/Raw/512Normal/normal (331).jpg,notumor,0.9537869,False,,pmram_994
+data/external/pmram/extracted/Raw/512Normal/normal (332).jpg,notumor,0.68433154,False,,pmram_995
+data/external/pmram/extracted/Raw/512Normal/normal (333).jpg,notumor,0.0,False,,pmram_996
+data/external/pmram/extracted/Raw/512Normal/normal (334).jpg,notumor,0.0,False,,pmram_997
+data/external/pmram/extracted/Raw/512Normal/normal (335).jpg,notumor,0.63494694,False,,pmram_998
+data/external/pmram/extracted/Raw/512Normal/normal (336).jpg,notumor,0.0,False,,pmram_969
+data/external/pmram/extracted/Raw/512Normal/normal (337).jpg,notumor,0.0,False,,pmram_1000
+data/external/pmram/extracted/Raw/512Normal/normal (338).jpg,notumor,0.0,False,,pmram_1001
+data/external/pmram/extracted/Raw/512Normal/normal (339).jpg,notumor,0.9215125,False,,pmram_1002
+data/external/pmram/extracted/Raw/512Normal/normal (34).jpg,notumor,0.9995986,True,Training/notumor/Tr-no_418.jpg,pmram_905
+data/external/pmram/extracted/Raw/512Normal/normal (340).jpg,notumor,0.0,False,,pmram_963
+data/external/pmram/extracted/Raw/512Normal/normal (341).jpg,notumor,0.0,False,,pmram_1005
+data/external/pmram/extracted/Raw/512Normal/normal (342).jpg,notumor,0.0,False,,pmram_1006
+data/external/pmram/extracted/Raw/512Normal/normal (343).jpg,notumor,0.0,False,,pmram_1007
+data/external/pmram/extracted/Raw/512Normal/normal (344).jpg,notumor,0.0,False,,pmram_1008
+data/external/pmram/extracted/Raw/512Normal/normal (345).jpg,notumor,0.0,False,,pmram_1007
+data/external/pmram/extracted/Raw/512Normal/normal (346).jpg,notumor,0.90514874,False,,pmram_1010
+data/external/pmram/extracted/Raw/512Normal/normal (347).jpg,notumor,0.68433154,False,,pmram_995
+data/external/pmram/extracted/Raw/512Normal/normal (348).jpg,notumor,0.0,False,,pmram_1012
+data/external/pmram/extracted/Raw/512Normal/normal (349).jpg,notumor,0.0,False,,pmram_1013
+data/external/pmram/extracted/Raw/512Normal/normal (35).jpg,notumor,0.99981344,True,Training/notumor/Tr-no_72.jpg,pmram_760
+data/external/pmram/extracted/Raw/512Normal/normal (350).jpg,notumor,0.0,False,,pmram_1015
+data/external/pmram/extracted/Raw/512Normal/normal (351).jpg,notumor,0.0,False,,pmram_1016
+data/external/pmram/extracted/Raw/512Normal/normal (352).jpg,notumor,0.0,False,,pmram_1017
+data/external/pmram/extracted/Raw/512Normal/normal (353).jpg,notumor,0.0,False,,pmram_919
+data/external/pmram/extracted/Raw/512Normal/normal (354).jpg,notumor,0.0,False,,pmram_1019
+data/external/pmram/extracted/Raw/512Normal/normal (355).jpg,notumor,0.0,False,,pmram_917
+data/external/pmram/extracted/Raw/512Normal/normal (356).jpg,notumor,0.0,False,,pmram_1021
+data/external/pmram/extracted/Raw/512Normal/normal (357).jpg,notumor,0.93297756,False,,pmram_960
+data/external/pmram/extracted/Raw/512Normal/normal (358).jpg,notumor,0.0,False,,pmram_1017
+data/external/pmram/extracted/Raw/512Normal/normal (359).jpg,notumor,0.0,False,,pmram_1024
+data/external/pmram/extracted/Raw/512Normal/normal (36).jpg,notumor,0.9999665,True,Training/notumor/Tr-no_434.jpg,pmram_1025
+data/external/pmram/extracted/Raw/512Normal/normal (360).jpg,notumor,0.0,False,,pmram_1026
+data/external/pmram/extracted/Raw/512Normal/normal (361).jpg,notumor,0.6066716,False,,pmram_1027
+data/external/pmram/extracted/Raw/512Normal/normal (362).jpg,notumor,0.0,False,,pmram_1028
+data/external/pmram/extracted/Raw/512Normal/normal (363).jpg,notumor,0.0,False,,pmram_1029
+data/external/pmram/extracted/Raw/512Normal/normal (364).jpg,notumor,0.7985044,False,,pmram_1030
+data/external/pmram/extracted/Raw/512Normal/normal (365).jpg,notumor,0.0,False,,pmram_1031
+data/external/pmram/extracted/Raw/512Normal/normal (366).jpg,notumor,0.48904148,False,,pmram_1032
+data/external/pmram/extracted/Raw/512Normal/normal (367).jpg,notumor,0.0,False,,pmram_1033
+data/external/pmram/extracted/Raw/512Normal/normal (368).jpg,notumor,0.0,False,,pmram_1034
+data/external/pmram/extracted/Raw/512Normal/normal (369).jpg,notumor,0.0,False,,pmram_1035
+data/external/pmram/extracted/Raw/512Normal/normal (37).jpg,notumor,0.9999168,True,Testing/notumor/Te-no_72.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (370).jpg,notumor,0.6383482,False,,pmram_1037
+data/external/pmram/extracted/Raw/512Normal/normal (371).jpg,notumor,0.0,False,,pmram_964
+data/external/pmram/extracted/Raw/512Normal/normal (372).jpg,notumor,0.0,False,,pmram_1039
+data/external/pmram/extracted/Raw/512Normal/normal (373).jpg,notumor,0.90902674,False,,pmram_1040
+data/external/pmram/extracted/Raw/512Normal/normal (374).jpg,notumor,0.9493487,False,,pmram_1041
+data/external/pmram/extracted/Raw/512Normal/normal (375).jpg,notumor,0.67346144,False,,pmram_1042
+data/external/pmram/extracted/Raw/512Normal/normal (376).jpg,notumor,0.99936795,True,Training/notumor/Tr-no_40.jpg,pmram_817
+data/external/pmram/extracted/Raw/512Normal/normal (377).jpg,notumor,0.0,False,,pmram_1016
+data/external/pmram/extracted/Raw/512Normal/normal (378).jpg,notumor,0.8592124,False,,pmram_1045
+data/external/pmram/extracted/Raw/512Normal/normal (379).jpg,notumor,0.7964647,False,,pmram_1046
+data/external/pmram/extracted/Raw/512Normal/normal (38).jpg,notumor,0.99992216,True,Training/notumor/Tr-no_1295.jpg,pmram_1047
+data/external/pmram/extracted/Raw/512Normal/normal (380).jpg,notumor,0.0,False,,pmram_966
+data/external/pmram/extracted/Raw/512Normal/normal (381).jpg,notumor,0.0,False,,pmram_956
+data/external/pmram/extracted/Raw/512Normal/normal (382).jpg,notumor,0.0,False,,pmram_1050
+data/external/pmram/extracted/Raw/512Normal/normal (383).jpg,notumor,0.0,False,,pmram_1051
+data/external/pmram/extracted/Raw/512Normal/normal (384).jpg,notumor,0.0,False,,pmram_1052
+data/external/pmram/extracted/Raw/512Normal/normal (385).jpg,notumor,0.9969705,True,Training/notumor/Tr-no_1000.jpg,pmram_775
+data/external/pmram/extracted/Raw/512Normal/normal (386).jpg,notumor,0.0,False,,pmram_968
+data/external/pmram/extracted/Raw/512Normal/normal (387).jpg,notumor,0.0,False,,pmram_1055
+data/external/pmram/extracted/Raw/512Normal/normal (388).jpg,notumor,0.0,False,,pmram_1056
+data/external/pmram/extracted/Raw/512Normal/normal (389).jpg,notumor,0.7599004,False,,pmram_1057
+data/external/pmram/extracted/Raw/512Normal/normal (39).jpg,notumor,0.99960774,True,Training/notumor/Tr-no_1221.jpg,pmram_903
+data/external/pmram/extracted/Raw/512Normal/normal (390).jpg,notumor,0.9970468,True,Training/notumor/Tr-no_1007.jpg,pmram_804
+data/external/pmram/extracted/Raw/512Normal/normal (391).jpg,notumor,0.0,False,,pmram_1060
+data/external/pmram/extracted/Raw/512Normal/normal (392).jpg,notumor,0.5131935,False,,pmram_1061
+data/external/pmram/extracted/Raw/512Normal/normal (393).jpg,notumor,0.0,False,,pmram_1062
+data/external/pmram/extracted/Raw/512Normal/normal (394).jpg,notumor,0.999943,True,Training/notumor/Tr-no_1112.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (395).jpg,notumor,0.99990046,True,Training/notumor/Tr-no_586.jpg,pmram_862
+data/external/pmram/extracted/Raw/512Normal/normal (396).jpg,notumor,0.9998232,True,Testing/notumor/Te-no_367.jpg,pmram_780
+data/external/pmram/extracted/Raw/512Normal/normal (4).jpg,notumor,0.9996028,True,Training/notumor/Tr-no_13.jpg,pmram_812
+data/external/pmram/extracted/Raw/512Normal/normal (40).jpg,notumor,0.9999723,True,Training/notumor/Tr-no_114.jpg,pmram_861
+data/external/pmram/extracted/Raw/512Normal/normal (41).jpg,notumor,0.9999807,True,Training/notumor/Tr-no_719.jpg,pmram_1068
+data/external/pmram/extracted/Raw/512Normal/normal (42).jpg,notumor,0.99942446,True,Training/notumor/Tr-no_1069.jpg,pmram_748
+data/external/pmram/extracted/Raw/512Normal/normal (43).jpg,notumor,0.9998135,True,Training/notumor/Tr-no_195.jpg,pmram_1070
+data/external/pmram/extracted/Raw/512Normal/normal (44).jpg,notumor,0.9999802,True,Training/notumor/Tr-no_606.jpg,pmram_1071
+data/external/pmram/extracted/Raw/512Normal/normal (45).jpg,notumor,0.99997056,True,Training/notumor/Tr-no_987.jpg,pmram_777
+data/external/pmram/extracted/Raw/512Normal/normal (46).jpg,notumor,0.9997721,True,Training/notumor/Tr-no_529.jpg,pmram_740
+data/external/pmram/extracted/Raw/512Normal/normal (47).jpg,notumor,0.9999564,True,Training/notumor/Tr-no_376.jpg,pmram_1074
+data/external/pmram/extracted/Raw/512Normal/normal (48).jpg,notumor,0.9998796,True,Training/notumor/Tr-no_833.jpg,pmram_862
+data/external/pmram/extracted/Raw/512Normal/normal (49).jpg,notumor,0.9999519,True,Testing/notumor/Te-no_364.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (5).jpg,notumor,0.9999439,True,Training/notumor/Tr-no_261.jpg,pmram_813
+data/external/pmram/extracted/Raw/512Normal/normal (50).jpg,notumor,0.9999365,True,Training/notumor/Tr-no_793.jpg,pmram_871
+data/external/pmram/extracted/Raw/512Normal/normal (51).jpg,notumor,0.9999081,True,Training/notumor/Tr-no_232.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (52).jpg,notumor,0.99991155,True,Training/notumor/Tr-no_1399.jpg,pmram_848
+data/external/pmram/extracted/Raw/512Normal/normal (53).jpg,notumor,0.9999549,True,Training/notumor/Tr-no_835.jpg,pmram_776
+data/external/pmram/extracted/Raw/512Normal/normal (54).jpg,notumor,0.999895,True,Training/notumor/Tr-no_579.jpg,pmram_779
+data/external/pmram/extracted/Raw/512Normal/normal (55).jpg,notumor,0.9999439,True,Training/notumor/Tr-no_261.jpg,pmram_813
+data/external/pmram/extracted/Raw/512Normal/normal (56).jpg,notumor,0.9999408,True,Testing/notumor/Te-no_198.jpg,pmram_739
+data/external/pmram/extracted/Raw/512Normal/normal (57).jpg,notumor,0.9999317,True,Training/notumor/Tr-no_937.jpg,pmram_982
+data/external/pmram/extracted/Raw/512Normal/normal (58).jpg,notumor,0.99965,True,Training/notumor/Tr-no_889.jpg,pmram_809
+data/external/pmram/extracted/Raw/512Normal/normal (59).jpg,notumor,0.9999108,True,Training/notumor/Tr-no_784.jpg,pmram_1087
+data/external/pmram/extracted/Raw/512Normal/normal (6).jpg,notumor,0.9999651,True,Training/notumor/Tr-no_627.jpg,pmram_815
+data/external/pmram/extracted/Raw/512Normal/normal (60).jpg,notumor,0.9999579,True,Training/notumor/Tr-no_692.jpg,pmram_1089
+data/external/pmram/extracted/Raw/512Normal/normal (61).jpg,notumor,0.999823,True,Training/notumor/Tr-no_1088.jpg,pmram_1070
+data/external/pmram/extracted/Raw/512Normal/normal (62).jpg,notumor,0.9999474,True,Training/notumor/Tr-no_980.jpg,pmram_826
+data/external/pmram/extracted/Raw/512Normal/normal (63).jpg,notumor,0.99993694,True,Training/notumor/Tr-no_637.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (64).jpg,notumor,0.9999404,True,Training/notumor/Tr-no_896.jpg,pmram_871
+data/external/pmram/extracted/Raw/512Normal/normal (65).jpg,notumor,0.99997985,True,Training/notumor/Tr-no_1374.jpg,pmram_835
+data/external/pmram/extracted/Raw/512Normal/normal (66).jpg,notumor,0.9999442,True,Training/notumor/Tr-no_1284.jpg,pmram_1087
+data/external/pmram/extracted/Raw/512Normal/normal (67).jpg,notumor,0.99951,True,Training/notumor/Tr-no_94.jpg,pmram_899
+data/external/pmram/extracted/Raw/512Normal/normal (68).jpg,notumor,0.99997103,True,Training/notumor/Tr-no_40.jpg,pmram_817
+data/external/pmram/extracted/Raw/512Normal/normal (69).jpg,notumor,0.9997421,True,Training/notumor/Tr-no_153.jpg,pmram_1098
+data/external/pmram/extracted/Raw/512Normal/normal (7).jpg,notumor,0.9999432,True,Training/notumor/Tr-no_1009.jpg,pmram_771
+data/external/pmram/extracted/Raw/512Normal/normal (70).jpg,notumor,0.99995327,True,Training/notumor/Tr-no_1316.jpg,pmram_767
+data/external/pmram/extracted/Raw/512Normal/normal (71).jpg,notumor,0.9999457,True,Training/notumor/Tr-no_1050.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (72).jpg,notumor,0.99974155,True,Training/notumor/Tr-no_983.jpg,pmram_1102
+data/external/pmram/extracted/Raw/512Normal/normal (73).jpg,notumor,0.999943,True,Training/notumor/Tr-no_1112.jpg,pmram_822
+data/external/pmram/extracted/Raw/512Normal/normal (74).jpg,notumor,0.99990046,True,Training/notumor/Tr-no_586.jpg,pmram_862
+data/external/pmram/extracted/Raw/512Normal/normal (75).jpg,notumor,0.999954,True,Training/notumor/Tr-no_87.jpg,pmram_836
+data/external/pmram/extracted/Raw/512Normal/normal (76).jpg,notumor,0.9999323,True,Training/notumor/Tr-no_109.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (77).jpg,notumor,0.999907,True,Training/notumor/Tr-no_620.jpg,pmram_862
+data/external/pmram/extracted/Raw/512Normal/normal (78).jpg,notumor,0.9999833,True,Training/notumor/Tr-no_967.jpg,pmram_742
+data/external/pmram/extracted/Raw/512Normal/normal (79).jpg,notumor,0.99998724,True,Training/notumor/Tr-no_308.jpg,pmram_1109
+data/external/pmram/extracted/Raw/512Normal/normal (8).jpg,notumor,0.9999779,True,Training/notumor/Tr-no_947.jpg,pmram_737
+data/external/pmram/extracted/Raw/512Normal/normal (80).jpg,notumor,0.9997531,True,Training/notumor/Tr-no_801.jpg,pmram_747
+data/external/pmram/extracted/Raw/512Normal/normal (81).jpg,notumor,0.9999614,True,Training/notumor/Tr-no_380.jpg,pmram_1112
+data/external/pmram/extracted/Raw/512Normal/normal (82).jpg,notumor,0.9999509,True,Training/notumor/Tr-no_450.jpg,pmram_981
+data/external/pmram/extracted/Raw/512Normal/normal (83).jpg,notumor,0.99988186,True,Training/notumor/Tr-no_1303.jpg,pmram_810
+data/external/pmram/extracted/Raw/512Normal/normal (84).jpg,notumor,0.99928635,True,Training/notumor/Tr-no_84.jpg,pmram_1115
+data/external/pmram/extracted/Raw/512Normal/normal (85).jpg,notumor,0.9999314,True,Training/notumor/Tr-no_322.jpg,pmram_790
+data/external/pmram/extracted/Raw/512Normal/normal (86).jpg,notumor,0.99995464,True,Training/notumor/Tr-no_1090.jpg,pmram_1117
+data/external/pmram/extracted/Raw/512Normal/normal (87).jpg,notumor,0.9999747,True,Training/notumor/Tr-no_215.jpg,pmram_1118
+data/external/pmram/extracted/Raw/512Normal/normal (88).jpg,notumor,0.9998232,True,Testing/notumor/Te-no_367.jpg,pmram_780
+data/external/pmram/extracted/Raw/512Normal/normal (89).jpg,notumor,0.99993616,True,Training/notumor/Tr-no_1275.jpg,pmram_1120
+data/external/pmram/extracted/Raw/512Normal/normal (9).jpg,notumor,0.9996033,True,Training/notumor/Tr-no_1057.jpg,pmram_812
+data/external/pmram/extracted/Raw/512Normal/normal (90).jpg,notumor,0.99989176,True,Training/notumor/Tr-no_1266.jpg,pmram_1122
+data/external/pmram/extracted/Raw/512Normal/normal (91).jpg,notumor,0.99998254,True,Training/notumor/Tr-no_921.jpg,pmram_761
+data/external/pmram/extracted/Raw/512Normal/normal (92).jpg,notumor,0.9999553,True,Testing/notumor/Te-no_237.jpg,pmram_859
+data/external/pmram/extracted/Raw/512Normal/normal (93).jpg,notumor,0.9997185,True,Training/notumor/Tr-no_883.jpg,pmram_740
+data/external/pmram/extracted/Raw/512Normal/normal (94).jpg,notumor,0.99989885,True,Training/notumor/Tr-no_330.jpg,pmram_888
+data/external/pmram/extracted/Raw/512Normal/normal (95).jpg,notumor,0.99994564,True,Training/notumor/Tr-no_176.jpg,pmram_748
+data/external/pmram/extracted/Raw/512Normal/normal (96).jpg,notumor,0.99946994,True,Training/notumor/Tr-no_398.jpg,pmram_1128
+data/external/pmram/extracted/Raw/512Normal/normal (97).jpg,notumor,0.99996924,True,Testing/notumor/Te-no_261.jpg,pmram_1098
+data/external/pmram/extracted/Raw/512Normal/normal (98).jpg,notumor,0.99994326,True,Training/notumor/Tr-no_205.jpg,pmram_1087
+data/external/pmram/extracted/Raw/512Normal/normal (99).jpg,notumor,0.99927413,True,Training/notumor/Tr-no_949.jpg,pmram_1131
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (1).jpg,pituitary,0.9999838,True,Training/pituitary/Tr-pi_380.jpg,pmram_1132
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (10).jpg,pituitary,0.99997646,True,Training/pituitary/Tr-pi_923.jpg,pmram_1133
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (100).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_1353.jpg,pmram_1134
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (101).jpg,pituitary,0.99998724,True,Training/pituitary/Tr-pi_536.jpg,pmram_1135
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (102).jpg,pituitary,0.99997276,True,Training/pituitary/Tr-pi_205.jpg,pmram_1136
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (103).jpg,pituitary,0.99996185,True,Training/pituitary/Tr-pi_352.jpg,pmram_1137
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (104).jpg,pituitary,0.999972,True,Training/pituitary/Tr-pi_617.jpg,pmram_1138
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (105).jpg,pituitary,0.9999988,True,Testing/pituitary/Te-pi_19.jpg,pmram_1139
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (106).jpg,pituitary,0.9999853,True,Training/pituitary/Tr-pi_689.jpg,pmram_1140
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (107).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_828.jpg,pmram_1141
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (108).jpg,pituitary,0.99998045,True,Training/pituitary/Tr-pi_619.jpg,pmram_1142
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (109).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_577.jpg,pmram_1143
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (11).jpg,pituitary,0.99996,True,Training/pituitary/Tr-pi_629.jpg,pmram_1144
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (110).jpg,pituitary,0.99998486,True,Training/pituitary/Tr-pi_413.jpg,pmram_1145
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (111).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1164.jpg,pmram_1146
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (112).jpg,pituitary,0.99997663,True,Training/pituitary/Tr-pi_623.jpg,pmram_1147
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (113).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_580.jpg,pmram_1148
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (114).jpg,pituitary,0.9999529,True,Training/pituitary/Tr-pi_119.jpg,pmram_1149
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (115).jpg,pituitary,0.99999833,True,Training/pituitary/Tr-pi_710.jpg,pmram_1150
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (116).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_1108.jpg,pmram_1151
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (117).jpg,pituitary,0.9999757,True,Training/pituitary/Tr-pi_1355.jpg,pmram_1152
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (118).jpg,pituitary,0.9999849,True,Training/pituitary/Tr-pi_677.jpg,pmram_1153
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (119).jpg,pituitary,0.9999994,True,Training/pituitary/Tr-pi_680.jpg,pmram_1154
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (12).jpg,pituitary,0.99999845,True,Training/pituitary/Tr-pi_1293.jpg,pmram_1155
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (120).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_1021.jpg,pmram_1156
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (121).jpg,pituitary,0.9999799,True,Training/pituitary/Tr-pi_298.jpg,pmram_1157
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (122).jpg,pituitary,0.9999993,True,Testing/pituitary/Te-pi_128.jpg,pmram_1158
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (123).jpg,pituitary,0.99999917,True,Training/pituitary/Tr-pi_912.jpg,pmram_1159
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (124).jpg,pituitary,0.99997437,True,Training/pituitary/Tr-pi_35.jpg,pmram_1160
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (125).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_892.jpg,pmram_1161
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (126).jpg,pituitary,0.9999727,True,Training/pituitary/Tr-pi_1231.jpg,pmram_1162
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (127).jpg,pituitary,0.99996966,True,Training/pituitary/Tr-pi_336.jpg,pmram_1163
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (128).jpg,pituitary,0.9999994,True,Testing/pituitary/Te-pi_109.jpg,pmram_1164
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (129).jpg,pituitary,0.9999771,True,Training/pituitary/Tr-pi_733.jpg,pmram_1165
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (13).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_1266.jpg,pmram_1166
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (130).jpg,pituitary,0.9999818,True,Training/pituitary/Tr-pi_22.jpg,pmram_1167
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (131).jpg,pituitary,0.9999993,True,Testing/pituitary/Te-pi_129.jpg,pmram_1168
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (132).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_793.jpg,pmram_1169
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (133).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_381.jpg,pmram_1170
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (134).jpg,pituitary,0.99999905,True,Training/pituitary/Tr-pi_48.jpg,pmram_1171
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (135).jpg,pituitary,0.9999668,True,Training/pituitary/Tr-pi_811.jpg,pmram_1172
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (136).jpg,pituitary,0.99996567,True,Training/pituitary/Tr-pi_1149.jpg,pmram_1173
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (137).jpg,pituitary,0.99996805,True,Training/pituitary/Tr-pi_19.jpg,pmram_1174
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (138).jpg,pituitary,0.99998,True,Testing/pituitary/Te-pi_233.jpg,pmram_1175
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (139).jpg,pituitary,0.99999905,True,Training/pituitary/Tr-pi_804.jpg,pmram_1176
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (14).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1273.jpg,pmram_1177
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (140).jpg,pituitary,0.9999852,True,Training/pituitary/Tr-pi_918.jpg,pmram_1178
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (141).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1336.jpg,pmram_1179
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (142).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_198.jpg,pmram_1180
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (143).jpg,pituitary,0.9999989,True,Training/pituitary/Tr-pi_597.jpg,pmram_1181
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (144).jpg,pituitary,0.99998534,True,Training/pituitary/Tr-pi_891.jpg,pmram_1182
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (145).jpg,pituitary,0.99996936,True,Training/pituitary/Tr-pi_303.jpg,pmram_1183
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (146).jpg,pituitary,0.9999675,True,Training/pituitary/Tr-pi_200.jpg,pmram_1184
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (147).jpg,pituitary,0.99997795,True,Training/pituitary/Tr-pi_965.jpg,pmram_1185
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (148).jpg,pituitary,0.9999861,True,Training/pituitary/Tr-pi_730.jpg,pmram_1186
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (149).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_251.jpg,pmram_1187
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (15).jpg,pituitary,0.9999994,True,Training/pituitary/Tr-pi_122.jpg,pmram_1188
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (150).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_803.jpg,pmram_1189
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (151).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_1200.jpg,pmram_1190
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (152).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_280.jpg,pmram_1191
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (153).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_761.jpg,pmram_1192
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (154).jpg,pituitary,0.9999661,True,Training/pituitary/Tr-pi_10.jpg,pmram_1193
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (155).jpg,pituitary,0.9999608,True,Training/pituitary/Tr-pi_833.jpg,pmram_1194
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (156).jpg,pituitary,0.99998355,True,Training/pituitary/Tr-pi_1188.jpg,pmram_1195
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (157).jpg,pituitary,0.99997723,True,Training/pituitary/Tr-pi_711.jpg,pmram_1171
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (158).jpg,pituitary,0.9999989,True,Training/pituitary/Tr-pi_1123.jpg,pmram_1197
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (159).jpg,pituitary,0.9999638,True,Training/pituitary/Tr-pi_720.jpg,pmram_1198
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (16).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_770.jpg,pmram_1199
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (160).jpg,pituitary,0.99998665,True,Training/pituitary/Tr-pi_313.jpg,pmram_1200
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (161).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_359.jpg,pmram_1201
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (162).jpg,pituitary,0.9999759,True,Training/pituitary/Tr-pi_938.jpg,pmram_1202
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (163).jpg,pituitary,0.99997973,True,Training/pituitary/Tr-pi_658.jpg,pmram_1203
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (164).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1393.jpg,pmram_1204
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (165).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_387.jpg,pmram_1205
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (166).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_1180.jpg,pmram_1153
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (167).jpg,pituitary,0.9999822,True,Training/pituitary/Tr-pi_1038.jpg,pmram_1207
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (168).jpg,pituitary,0.9999744,True,Training/pituitary/Tr-pi_410.jpg,pmram_1208
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (169).jpg,pituitary,0.9999797,True,Training/pituitary/Tr-pi_505.jpg,pmram_1209
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (17).jpg,pituitary,0.9999594,True,Training/pituitary/Tr-pi_1276.jpg,pmram_1158
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (170).jpg,pituitary,0.9999718,True,Training/pituitary/Tr-pi_425.jpg,pmram_1197
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (171).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1106.jpg,pmram_1212
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (172).jpg,pituitary,0.9999844,True,Testing/pituitary/Te-pi_364.jpg,pmram_1213
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (173).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_961.jpg,pmram_1214
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (174).jpg,pituitary,0.9999876,True,Testing/pituitary/Te-pi_99.jpg,pmram_1215
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (175).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_135.jpg,pmram_1216
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (176).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_1308.jpg,pmram_1217
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (177).jpg,pituitary,0.9999839,True,Training/pituitary/Tr-pi_26.jpg,pmram_1218
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (178).jpg,pituitary,0.999982,True,Training/pituitary/Tr-pi_161.jpg,pmram_1219
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (179).jpg,pituitary,0.999969,True,Training/pituitary/Tr-pi_556.jpg,pmram_1220
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (18).jpg,pituitary,0.99998575,True,Training/pituitary/Tr-pi_652.jpg,pmram_1221
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (180).jpg,pituitary,0.9999741,True,Training/pituitary/Tr-pi_812.jpg,pmram_1222
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (181).jpg,pituitary,0.99997294,True,Training/pituitary/Tr-pi_1343.jpg,pmram_1223
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (182).jpg,pituitary,0.99997956,True,Training/pituitary/Tr-pi_883.jpg,pmram_1224
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (183).jpg,pituitary,0.99998313,True,Testing/pituitary/Te-pi_248.jpg,pmram_1225
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (184).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_104.jpg,pmram_1226
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (185).jpg,pituitary,0.99998575,True,Training/pituitary/Tr-pi_223.jpg,pmram_1227
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (186).jpg,pituitary,0.99999875,True,Training/pituitary/Tr-pi_400.jpg,pmram_1228
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (187).jpg,pituitary,0.99997973,True,Training/pituitary/Tr-pi_1138.jpg,pmram_1229
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (188).jpg,pituitary,0.9999989,True,Training/pituitary/Tr-pi_371.jpg,pmram_1230
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (189).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_197.jpg,pmram_1231
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (19).jpg,pituitary,0.99999934,True,Testing/pituitary/Te-pi_45.jpg,pmram_1232
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (190).jpg,pituitary,0.99996907,True,Training/pituitary/Tr-pi_755.jpg,pmram_1233
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (191).jpg,pituitary,0.9999864,True,Training/pituitary/Tr-pi_129.jpg,pmram_1234
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (192).jpg,pituitary,0.9999833,True,Training/pituitary/Tr-pi_1104.jpg,pmram_1235
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (193).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_930.jpg,pmram_1236
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (194).jpg,pituitary,0.9999985,True,Training/pituitary/Tr-pi_484.jpg,pmram_1237
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (195).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_369.jpg,pmram_1238
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (196).jpg,pituitary,0.9999989,True,Training/pituitary/Tr-pi_1379.jpg,pmram_1239
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (197).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_257.jpg,pmram_1240
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (198).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_670.jpg,pmram_1241
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (199).jpg,pituitary,0.999978,True,Training/pituitary/Tr-pi_488.jpg,pmram_1242
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (2).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_402.jpg,pmram_1243
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (20).jpg,pituitary,0.99995553,True,Training/pituitary/Tr-pi_1086.jpg,pmram_1244
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (200).jpg,pituitary,0.9999794,True,Training/pituitary/Tr-pi_571.jpg,pmram_1245
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (201).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1103.jpg,pmram_1246
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (202).jpg,pituitary,0.999962,True,Training/pituitary/Tr-pi_471.jpg,pmram_1247
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (203).jpg,pituitary,0.9999661,True,Training/pituitary/Tr-pi_888.jpg,pmram_1248
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (204).jpg,pituitary,0.9999814,True,Training/pituitary/Tr-pi_1250.jpg,pmram_1249
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (205).jpg,pituitary,0.99997956,True,Training/pituitary/Tr-pi_285.jpg,pmram_1250
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (206).jpg,pituitary,0.99998057,True,Training/pituitary/Tr-pi_1324.jpg,pmram_1251
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (207).jpg,pituitary,0.99997455,True,Training/pituitary/Tr-pi_1268.jpg,pmram_1252
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (208).jpg,pituitary,0.99999803,True,Training/pituitary/Tr-pi_1286.jpg,pmram_1253
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (209).jpg,pituitary,0.99998015,True,Training/pituitary/Tr-pi_703.jpg,pmram_1254
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (21).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_149.jpg,pmram_1255
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (210).jpg,pituitary,0.99996233,True,Training/pituitary/Tr-pi_1126.jpg,pmram_1256
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (211).jpg,pituitary,0.9999385,True,Training/pituitary/Tr-pi_203.jpg,pmram_1257
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (212).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_700.jpg,pmram_1258
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (213).jpg,pituitary,0.99996066,True,Training/pituitary/Tr-pi_224.jpg,pmram_1259
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (214).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_616.jpg,pmram_1260
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (215).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_531.jpg,pmram_1144
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (216).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_595.jpg,pmram_1262
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (217).jpg,pituitary,0.99997735,True,Training/pituitary/Tr-pi_564.jpg,pmram_1263
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (218).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_468.jpg,pmram_1264
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (219).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_968.jpg,pmram_1265
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (22).jpg,pituitary,0.999981,True,Training/pituitary/Tr-pi_926.jpg,pmram_1266
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (220).jpg,pituitary,0.99997276,True,Training/pituitary/Tr-pi_925.jpg,pmram_1267
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (221).jpg,pituitary,0.99997306,True,Training/pituitary/Tr-pi_840.jpg,pmram_1268
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (222).jpg,pituitary,0.99999917,True,Training/pituitary/Tr-pi_20.jpg,pmram_1269
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (223).jpg,pituitary,0.99997926,True,Training/pituitary/Tr-pi_609.jpg,pmram_1270
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (224).jpg,pituitary,0.9999782,True,Training/pituitary/Tr-pi_618.jpg,pmram_1271
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (225).jpg,pituitary,0.9999999,True,Testing/pituitary/Te-pi_368.jpg,pmram_1272
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (226).jpg,pituitary,0.99994874,True,Training/pituitary/Tr-pi_1223.jpg,pmram_1273
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (227).jpg,pituitary,0.9999791,True,Training/pituitary/Tr-pi_343.jpg,pmram_1274
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (228).jpg,pituitary,0.9999869,True,Training/pituitary/Tr-pi_971.jpg,pmram_1236
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (229).jpg,pituitary,0.9999776,True,Training/pituitary/Tr-pi_168.jpg,pmram_1276
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (23).jpg,pituitary,0.99997824,True,Training/pituitary/Tr-pi_1080.jpg,pmram_1277
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (230).jpg,pituitary,0.9999987,True,Training/pituitary/Tr-pi_297.jpg,pmram_1136
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (231).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_690.jpg,pmram_1279
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (232).jpg,pituitary,0.9999985,True,Training/pituitary/Tr-pi_1057.jpg,pmram_1280
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (233).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1172.jpg,pmram_1281
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (234).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_681.jpg,pmram_1282
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (235).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_211.jpg,pmram_1283
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (236).jpg,pituitary,0.99999905,True,Training/pituitary/Tr-pi_813.jpg,pmram_1284
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (237).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1060.jpg,pmram_1285
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (238).jpg,pituitary,0.9999994,True,Testing/pituitary/Te-pi_60.jpg,pmram_1286
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (239).jpg,pituitary,0.99997914,True,Training/pituitary/Tr-pi_1056.jpg,pmram_1287
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (24).jpg,pituitary,0.99999946,True,Training/pituitary/Tr-pi_604.jpg,pmram_1288
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (240).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_775.jpg,pmram_1289
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (241).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_859.jpg,pmram_1290
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (242).jpg,pituitary,0.99996674,True,Training/pituitary/Tr-pi_1150.jpg,pmram_1291
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (243).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_1278.jpg,pmram_1292
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (244).jpg,pituitary,0.99996924,True,Training/pituitary/Tr-pi_993.jpg,pmram_1293
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (245).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_1142.jpg,pmram_1294
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (246).jpg,pituitary,0.9999705,True,Training/pituitary/Tr-pi_984.jpg,pmram_1295
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (247).jpg,pituitary,0.9999988,True,Training/pituitary/Tr-pi_909.jpg,pmram_1296
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (248).jpg,pituitary,0.9999623,True,Training/pituitary/Tr-pi_305.jpg,pmram_1297
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (249).jpg,pituitary,0.99999976,True,Testing/pituitary/Te-pi_32.jpg,pmram_1298
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (25).jpg,pituitary,0.9999621,True,Training/pituitary/Tr-pi_1064.jpg,pmram_1299
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (250).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_776.jpg,pmram_1300
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (251).jpg,pituitary,0.99997246,True,Training/pituitary/Tr-pi_407.jpg,pmram_1301
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (252).jpg,pituitary,0.99997973,True,Training/pituitary/Tr-pi_315.jpg,pmram_1302
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (253).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_977.jpg,pmram_1303
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (254).jpg,pituitary,0.99996364,True,Training/pituitary/Tr-pi_58.jpg,pmram_1304
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (255).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_456.jpg,pmram_1305
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (256).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_217.jpg,pmram_1306
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (257).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_869.jpg,pmram_1307
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (258).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_182.jpg,pmram_1308
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (259).jpg,pituitary,0.9999401,True,Training/pituitary/Tr-pi_493.jpg,pmram_1309
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (26).jpg,pituitary,0.99996865,True,Training/pituitary/Tr-pi_260.jpg,pmram_1310
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (260).jpg,pituitary,0.999919,True,Training/pituitary/Tr-pi_39.jpg,pmram_1311
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (261).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_745.jpg,pmram_1172
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (262).jpg,pituitary,0.9999733,True,Training/pituitary/Tr-pi_551.jpg,pmram_1313
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (263).jpg,pituitary,0.99999905,True,Training/pituitary/Tr-pi_835.jpg,pmram_1314
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (264).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_762.jpg,pmram_1315
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (265).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_621.jpg,pmram_1316
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (266).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_153.jpg,pmram_1317
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (267).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_752.jpg,pmram_1318
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (268).jpg,pituitary,0.9999728,True,Training/pituitary/Tr-pi_103.jpg,pmram_1180
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (269).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_202.jpg,pmram_1320
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (27).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_1383.jpg,pmram_1160
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (270).jpg,pituitary,0.9999982,True,Training/pituitary/Tr-pi_283.jpg,pmram_1322
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (271).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_709.jpg,pmram_1323
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (272).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_1135.jpg,pmram_1324
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (273).jpg,pituitary,0.9999825,True,Training/pituitary/Tr-pi_460.jpg,pmram_1325
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (274).jpg,pituitary,0.99997914,True,Training/pituitary/Tr-pi_922.jpg,pmram_1326
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (275).jpg,pituitary,0.9999722,True,Training/pituitary/Tr-pi_831.jpg,pmram_1327
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (276).jpg,pituitary,0.9999534,True,Training/pituitary/Tr-pi_288.jpg,pmram_1328
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (277).jpg,pituitary,0.9999711,True,Training/pituitary/Tr-pi_1039.jpg,pmram_1329
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (278).jpg,pituitary,0.99997586,True,Training/pituitary/Tr-pi_722.jpg,pmram_1330
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (279).jpg,pituitary,0.99997973,True,Training/pituitary/Tr-pi_817.jpg,pmram_1331
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (28).jpg,pituitary,0.9999821,True,Training/pituitary/Tr-pi_1377.jpg,pmram_1332
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (280).jpg,pituitary,0.9999633,True,Training/pituitary/Tr-pi_960.jpg,pmram_1333
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (281).jpg,pituitary,0.99997205,True,Training/pituitary/Tr-pi_626.jpg,pmram_1334
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (282).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_596.jpg,pmram_1335
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (283).jpg,pituitary,0.9999713,True,Training/pituitary/Tr-pi_1159.jpg,pmram_1336
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (284).jpg,pituitary,0.9999992,True,Training/pituitary/Tr-pi_705.jpg,pmram_1330
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (285).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_485.jpg,pmram_1338
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (286).jpg,pituitary,0.9999762,True,Training/pituitary/Tr-pi_605.jpg,pmram_1339
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (287).jpg,pituitary,0.99997526,True,Training/pituitary/Tr-pi_947.jpg,pmram_1292
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (288).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_170.jpg,pmram_1341
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (289).jpg,pituitary,0.9999828,True,Training/pituitary/Tr-pi_1394.jpg,pmram_1342
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (29).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1015.jpg,pmram_1343
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (290).jpg,pituitary,0.9999994,True,Testing/pituitary/Te-pi_53.jpg,pmram_1331
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (291).jpg,pituitary,0.9999577,True,Training/pituitary/Tr-pi_1301.jpg,pmram_1345
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (292).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_659.jpg,pmram_1346
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (293).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_1165.jpg,pmram_1267
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (294).jpg,pituitary,0.999973,True,Training/pituitary/Tr-pi_1162.jpg,pmram_1348
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (295).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_848.jpg,pmram_1186
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (296).jpg,pituitary,0.9999987,True,Training/pituitary/Tr-pi_890.jpg,pmram_1350
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (297).jpg,pituitary,0.9999992,True,Training/pituitary/Tr-pi_73.jpg,pmram_1351
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (298).jpg,pituitary,0.99997663,True,Training/pituitary/Tr-pi_116.jpg,pmram_1352
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (299).jpg,pituitary,0.99999946,True,Testing/pituitary/Te-pi_61.jpg,pmram_1353
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (3).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_101.jpg,pmram_1354
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (30).jpg,pituitary,0.9999514,True,Training/pituitary/Tr-pi_486.jpg,pmram_1181
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (300).jpg,pituitary,0.9999891,True,Training/pituitary/Tr-pi_731.jpg,pmram_1356
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (301).jpg,pituitary,0.99998224,True,Training/pituitary/Tr-pi_13.jpg,pmram_1357
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (302).jpg,pituitary,0.99997795,True,Training/pituitary/Tr-pi_159.jpg,pmram_1358
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (303).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_1014.jpg,pmram_1359
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (304).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_472.jpg,pmram_1360
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (305).jpg,pituitary,0.99996185,True,Training/pituitary/Tr-pi_1283.jpg,pmram_1361
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (306).jpg,pituitary,0.9999788,True,Training/pituitary/Tr-pi_36.jpg,pmram_1362
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (307).jpg,pituitary,0.99995697,True,Training/pituitary/Tr-pi_1366.jpg,pmram_1363
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (308).jpg,pituitary,0.99998,True,Training/pituitary/Tr-pi_1391.jpg,pmram_1364
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (309).jpg,pituitary,0.9999746,True,Training/pituitary/Tr-pi_656.jpg,pmram_1365
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (31).jpg,pituitary,0.9999776,True,Training/pituitary/Tr-pi_561.jpg,pmram_1366
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (310).jpg,pituitary,0.99997604,True,Training/pituitary/Tr-pi_1079.jpg,pmram_1367
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (311).jpg,pituitary,0.99998015,True,Training/pituitary/Tr-pi_470.jpg,pmram_1368
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (312).jpg,pituitary,0.9999535,True,Training/pituitary/Tr-pi_1018.jpg,pmram_1369
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (313).jpg,pituitary,0.99995905,True,Training/pituitary/Tr-pi_1102.jpg,pmram_1370
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (314).jpg,pituitary,0.999928,True,Training/pituitary/Tr-pi_1054.jpg,pmram_1371
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (315).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_466.jpg,pmram_1247
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (316).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1175.jpg,pmram_1373
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (317).jpg,pituitary,0.9999995,True,Training/pituitary/Tr-pi_753.jpg,pmram_1209
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (318).jpg,pituitary,0.9999819,True,Training/pituitary/Tr-pi_44.jpg,pmram_1375
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (319).jpg,pituitary,0.9999999,True,Testing/pituitary/Te-pi_154.jpg,pmram_1375
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (32).jpg,pituitary,0.99996144,True,Training/pituitary/Tr-pi_1120.jpg,pmram_1377
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (320).jpg,pituitary,0.9999753,True,Training/pituitary/Tr-pi_237.jpg,pmram_1378
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (321).jpg,pituitary,0.999974,True,Training/pituitary/Tr-pi_842.jpg,pmram_1379
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (322).jpg,pituitary,0.99997926,True,Training/pituitary/Tr-pi_215.jpg,pmram_1380
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (323).jpg,pituitary,0.9999657,True,Training/pituitary/Tr-pi_1281.jpg,pmram_1381
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (324).jpg,pituitary,0.99998236,True,Training/pituitary/Tr-pi_1140.jpg,pmram_1382
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (325).jpg,pituitary,0.99998236,True,Training/pituitary/Tr-pi_846.jpg,pmram_1383
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (326).jpg,pituitary,0.9999713,True,Training/pituitary/Tr-pi_1384.jpg,pmram_1279
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (327).jpg,pituitary,0.99999946,True,Training/pituitary/Tr-pi_1333.jpg,pmram_1385
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (328).jpg,pituitary,0.9999779,True,Training/pituitary/Tr-pi_1263.jpg,pmram_1386
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (329).jpg,pituitary,0.9999732,True,Training/pituitary/Tr-pi_854.jpg,pmram_1387
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (33).jpg,pituitary,0.9999992,True,Training/pituitary/Tr-pi_183.jpg,pmram_1152
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (330).jpg,pituitary,0.9999714,True,Training/pituitary/Tr-pi_494.jpg,pmram_1389
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (331).jpg,pituitary,0.99999994,True,Testing/pituitary/Te-pi_385.jpg,pmram_1390
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (332).jpg,pituitary,0.9999998,True,Training/pituitary/Tr-pi_706.jpg,pmram_1391
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (333).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_719.jpg,pmram_1392
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (334).jpg,pituitary,0.9999831,True,Training/pituitary/Tr-pi_669.jpg,pmram_1393
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (335).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_151.jpg,pmram_1394
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (336).jpg,pituitary,0.9999988,True,Training/pituitary/Tr-pi_976.jpg,pmram_1147
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (337).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_574.jpg,pmram_1396
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (338).jpg,pituitary,0.99996114,True,Training/pituitary/Tr-pi_914.jpg,pmram_1397
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (339).jpg,pituitary,0.9999785,True,Training/pituitary/Tr-pi_1248.jpg,pmram_1398
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (34).jpg,pituitary,0.9999831,True,Training/pituitary/Tr-pi_1326.jpg,pmram_1399
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (340).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_1225.jpg,pmram_1400
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (341).jpg,pituitary,0.9999672,True,Training/pituitary/Tr-pi_974.jpg,pmram_1303
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (342).jpg,pituitary,0.99998426,True,Training/pituitary/Tr-pi_370.jpg,pmram_1402
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (343).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_296.jpg,pmram_1403
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (344).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1307.jpg,pmram_1404
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (345).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_324.jpg,pmram_1405
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (346).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_1351.jpg,pmram_1406
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (347).jpg,pituitary,0.9999676,True,Training/pituitary/Tr-pi_718.jpg,pmram_1407
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (348).jpg,pituitary,0.9999767,True,Training/pituitary/Tr-pi_590.jpg,pmram_1231
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (349).jpg,pituitary,0.99976337,True,Training/pituitary/Tr-pi_936.jpg,pmram_1409
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (35).jpg,pituitary,0.9999708,True,Training/pituitary/Tr-pi_444.jpg,pmram_1410
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (350).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_18.jpg,pmram_1411
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (351).jpg,pituitary,0.9999984,True,Testing/pituitary/Te-pi_198.jpg,pmram_1412
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (352).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1081.jpg,pmram_1185
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (353).jpg,pituitary,0.99997425,True,Training/pituitary/Tr-pi_569.jpg,pmram_1414
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (354).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_704.jpg,pmram_1415
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (355).jpg,pituitary,0.9999783,True,Training/pituitary/Tr-pi_723.jpg,pmram_1416
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (356).jpg,pituitary,0.99997544,True,Training/pituitary/Tr-pi_137.jpg,pmram_1359
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (357).jpg,pituitary,0.9999995,True,Training/pituitary/Tr-pi_479.jpg,pmram_1418
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (358).jpg,pituitary,0.99998564,True,Training/pituitary/Tr-pi_1245.jpg,pmram_1419
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (359).jpg,pituitary,0.9999758,True,Training/pituitary/Tr-pi_1331.jpg,pmram_1420
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (36).jpg,pituitary,0.99999964,True,Training/pituitary/Tr-pi_839.jpg,pmram_1421
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (360).jpg,pituitary,0.99996734,True,Training/pituitary/Tr-pi_447.jpg,pmram_1422
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (361).jpg,pituitary,0.9999728,True,Training/pituitary/Tr-pi_118.jpg,pmram_1239
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (362).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_319.jpg,pmram_1424
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (363).jpg,pituitary,0.99997807,True,Training/pituitary/Tr-pi_81.jpg,pmram_1425
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (364).jpg,pituitary,0.99999946,True,Training/pituitary/Tr-pi_390.jpg,pmram_1426
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (365).jpg,pituitary,0.9999763,True,Training/pituitary/Tr-pi_1262.jpg,pmram_1427
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (366).jpg,pituitary,0.99995327,True,Training/pituitary/Tr-pi_671.jpg,pmram_1428
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (367).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_693.jpg,pmram_1429
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (368).jpg,pituitary,0.99997336,True,Training/pituitary/Tr-pi_1369.jpg,pmram_1430
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (369).jpg,pituitary,0.9999994,True,Training/pituitary/Tr-pi_887.jpg,pmram_1425
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (37).jpg,pituitary,0.99998033,True,Training/pituitary/Tr-pi_1348.jpg,pmram_1432
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (370).jpg,pituitary,0.99999917,True,Testing/pituitary/Te-pi_241.jpg,pmram_1433
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (371).jpg,pituitary,0.99997324,True,Training/pituitary/Tr-pi_459.jpg,pmram_1434
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (372).jpg,pituitary,0.9999998,True,Training/pituitary/Tr-pi_655.jpg,pmram_1435
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (373).jpg,pituitary,0.9999713,True,Training/pituitary/Tr-pi_856.jpg,pmram_1314
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (38).jpg,pituitary,0.9999824,True,Training/pituitary/Tr-pi_140.jpg,pmram_1437
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (39).jpg,pituitary,0.9999724,True,Training/pituitary/Tr-pi_1139.jpg,pmram_1438
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (4).jpg,pituitary,0.9999802,True,Training/pituitary/Tr-pi_458.jpg,pmram_1439
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (40).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1076.jpg,pmram_1440
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (41).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_61.jpg,pmram_1441
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (42).jpg,pituitary,0.99996877,True,Training/pituitary/Tr-pi_446.jpg,pmram_1442
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (43).jpg,pituitary,0.9999995,True,Training/pituitary/Tr-pi_329.jpg,pmram_1443
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (44).jpg,pituitary,0.999987,True,Training/pituitary/Tr-pi_243.jpg,pmram_1444
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (45).jpg,pituitary,0.99997115,True,Training/pituitary/Tr-pi_333.jpg,pmram_1445
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (46).jpg,pituitary,0.99999875,True,Training/pituitary/Tr-pi_1318.jpg,pmram_1446
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (47).jpg,pituitary,0.9999757,True,Training/pituitary/Tr-pi_438.jpg,pmram_1447
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (48).jpg,pituitary,0.99998575,True,Training/pituitary/Tr-pi_717.jpg,pmram_1448
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (49).jpg,pituitary,0.9999858,True,Training/pituitary/Tr-pi_1155.jpg,pmram_1449
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (5).jpg,pituitary,0.9999802,True,Training/pituitary/Tr-pi_1144.jpg,pmram_1411
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (50).jpg,pituitary,0.9999988,True,Training/pituitary/Tr-pi_429.jpg,pmram_1451
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (51).jpg,pituitary,0.99999934,True,Training/pituitary/Tr-pi_750.jpg,pmram_1377
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (52).jpg,pituitary,0.9999999,True,Training/pituitary/Tr-pi_1317.jpg,pmram_1453
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (53).jpg,pituitary,0.99995124,True,Training/pituitary/Tr-pi_880.jpg,pmram_1454
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (54).jpg,pituitary,0.99996924,True,Training/pituitary/Tr-pi_1069.jpg,pmram_1455
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (55).jpg,pituitary,0.9999654,True,Training/pituitary/Tr-pi_108.jpg,pmram_1456
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (56).jpg,pituitary,0.99996066,True,Training/pituitary/Tr-pi_739.jpg,pmram_1269
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (57).jpg,pituitary,0.99997956,True,Training/pituitary/Tr-pi_285.jpg,pmram_1250
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (58).jpg,pituitary,0.9999872,True,Training/pituitary/Tr-pi_576.jpg,pmram_1459
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (59).jpg,pituitary,0.99997807,True,Training/pituitary/Tr-pi_830.jpg,pmram_1460
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (6).jpg,pituitary,0.9999823,True,Training/pituitary/Tr-pi_276.jpg,pmram_1461
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (60).jpg,pituitary,1.0,True,Testing/pituitary/Te-pi_347.jpg,pmram_1251
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (61).jpg,pituitary,0.9999982,True,Training/pituitary/Tr-pi_1036.jpg,pmram_1463
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (62).jpg,pituitary,0.99999994,True,Training/pituitary/Tr-pi_815.jpg,pmram_1464
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (63).jpg,pituitary,0.9999997,True,Training/pituitary/Tr-pi_624.jpg,pmram_1465
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (64).jpg,pituitary,0.9999803,True,Training/pituitary/Tr-pi_1302.jpg,pmram_1466
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (65).jpg,pituitary,0.9999746,True,Training/pituitary/Tr-pi_906.jpg,pmram_1467
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (66).jpg,pituitary,0.9999672,True,Training/pituitary/Tr-pi_467.jpg,pmram_1468
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (67).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_1289.jpg,pmram_1467
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (68).jpg,pituitary,0.99998087,True,Training/pituitary/Tr-pi_121.jpg,pmram_1470
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (69).jpg,pituitary,0.9999735,True,Training/pituitary/Tr-pi_565.jpg,pmram_1471
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (7).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_1184.jpg,pmram_1140
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (70).jpg,pituitary,0.9999808,True,Training/pituitary/Tr-pi_889.jpg,pmram_1473
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (71).jpg,pituitary,0.9999753,True,Training/pituitary/Tr-pi_109.jpg,pmram_1146
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (72).jpg,pituitary,0.99996567,True,Training/pituitary/Tr-pi_899.jpg,pmram_1475
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (73).jpg,pituitary,0.99998456,True,Training/pituitary/Tr-pi_1074.jpg,pmram_1476
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (74).jpg,pituitary,0.99997795,True,Training/pituitary/Tr-pi_1203.jpg,pmram_1477
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (75).jpg,pituitary,0.9999852,True,Training/pituitary/Tr-pi_823.jpg,pmram_1478
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (76).jpg,pituitary,0.9999366,True,Training/pituitary/Tr-pi_545.jpg,pmram_1479
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (77).jpg,pituitary,1.0,True,Training/pituitary/Tr-pi_208.jpg,pmram_1480
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (78).jpg,pituitary,0.99998343,True,Training/pituitary/Tr-pi_1340.jpg,pmram_1481
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (79).jpg,pituitary,0.9999994,True,Training/pituitary/Tr-pi_18.jpg,pmram_1482
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (8).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_587.jpg,pmram_1414
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (80).jpg,pituitary,0.9999752,True,Training/pituitary/Tr-pi_268.jpg,pmram_1484
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (81).jpg,pituitary,0.99996454,True,Training/pituitary/Tr-pi_686.jpg,pmram_1485
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (82).jpg,pituitary,0.999978,True,Training/pituitary/Tr-pi_1214.jpg,pmram_1406
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (83).jpg,pituitary,0.9999749,True,Training/pituitary/Tr-pi_1217.jpg,pmram_1487
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (84).jpg,pituitary,0.9999974,True,Training/pituitary/Tr-pi_1373.jpg,pmram_1488
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (85).jpg,pituitary,0.9999726,True,Training/pituitary/Tr-pi_157.jpg,pmram_1489
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (86).jpg,pituitary,0.9999994,True,Testing/pituitary/Te-pi_389.jpg,pmram_1490
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (87).jpg,pituitary,0.9999756,True,Training/pituitary/Tr-pi_274.jpg,pmram_1491
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (88).jpg,pituitary,0.9999662,True,Training/pituitary/Tr-pi_726.jpg,pmram_1492
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (89).jpg,pituitary,0.99996054,True,Training/pituitary/Tr-pi_951.jpg,pmram_1493
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (9).jpg,pituitary,0.9999845,True,Training/pituitary/Tr-pi_1254.jpg,pmram_1494
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (90).jpg,pituitary,0.9999995,True,Training/pituitary/Tr-pi_836.jpg,pmram_1495
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (91).jpg,pituitary,0.9999998,True,Training/pituitary/Tr-pi_789.jpg,pmram_1410
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (92).jpg,pituitary,0.9999994,True,Training/pituitary/Tr-pi_1019.jpg,pmram_1497
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (93).jpg,pituitary,0.99997556,True,Training/pituitary/Tr-pi_532.jpg,pmram_1201
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (94).jpg,pituitary,0.9999996,True,Training/pituitary/Tr-pi_1125.jpg,pmram_1499
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (95).jpg,pituitary,0.99999976,True,Training/pituitary/Tr-pi_1143.jpg,pmram_1500
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (96).jpg,pituitary,0.9999826,True,Training/pituitary/Tr-pi_265.jpg,pmram_1501
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (97).jpg,pituitary,0.9999778,True,Testing/pituitary/Te-pi_229.jpg,pmram_1502
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (98).jpg,pituitary,0.99998736,True,Training/pituitary/Tr-pi_1148.jpg,pmram_1503
+data/external/pmram/extracted/Raw/512Pituitary/pituitary (99).jpg,pituitary,0.9999993,True,Training/pituitary/Tr-pi_544.jpg,pmram_1504

@@ -1,0 +1,45 @@
+{
+ "radius": 8,
+ "ncc": 0.98,
+ "ncc_floor": 0.9,
+ "pmram": {
+  "images": 1505,
+  "by_class": {
+   "notumor": 396,
+   "glioma": 373,
+   "pituitary": 373,
+   "meningioma": 363
+  },
+  "copies_of_kaggle_images": 854,
+  "copies_of_kaggle_by_class": {
+   "pituitary": 373,
+   "notumor": 268,
+   "glioma": 206,
+   "meningioma": 7
+  },
+  "near_kaggle_ncc_ge_floor": 879,
+  "families": 1242,
+  "images_in_multi_image_families": 431,
+  "families_with_conflicting_labels": 1
+ },
+ "bdneuro": {
+  "images": 5941,
+  "by_class": {
+   "glioma": 2191,
+   "pituitary": 1485,
+   "meningioma": 1478,
+   "notumor": 787
+  },
+  "copies_of_kaggle_images": 5061,
+  "copies_of_kaggle_by_class": {
+   "glioma": 1810,
+   "meningioma": 1294,
+   "pituitary": 1282,
+   "notumor": 675
+  },
+  "near_kaggle_ncc_ge_floor": 5347,
+  "families": 3906,
+  "images_in_multi_image_families": 3478,
+  "families_with_conflicting_labels": 6
+ }
+}

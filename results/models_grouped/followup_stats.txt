@@ -1,0 +1,144 @@
+        group                           A                           B   delta      p  holm_within  holm_first26  holm_all
+0      ladder           bipal_learn_sigma             bipal_tpal_like  0.0021  0.335       1.0000         1.000    1.0000
+1      ladder              bipal_adaptive           bipal_learn_sigma -0.0107  0.000       0.0080         0.013    0.0225
+2      ladder                bipal_global              bipal_adaptive  0.0005  0.908       1.0000         1.000    1.0000
+3      ladder                bipal_mirror                bipal_global  0.0070  0.047       0.3760         0.611    1.0000
+4      ladder                  bipal_full                bipal_mirror  0.0057  0.055       0.3850         0.611    1.0000
+5      ladder                bipal_lesion                  bipal_full  0.0192  0.000       0.0080         0.013    0.0225
+6     summary                  bipal_full             bipal_tpal_like  0.0046  0.102       0.6120         0.918    1.0000
+7     summary                bipal_lesion             bipal_tpal_like  0.0238  0.000       0.0080         0.013    0.0225
+8     summary             bipal_tpal_like                       T-PAL -0.0005  0.861       1.0000         1.000    1.0000
+9     summary                  bipal_full                       T-PAL  0.0042  0.197       0.9850         1.000    1.0000
+10    summary                bipal_lesion                       T-PAL  0.0234  0.000       0.0080         0.013    0.0225
+11  baselines                bipal_lesion            resnet18_scratch  0.0125  0.037       0.3330         0.518    0.9250
+12  baselines                bipal_lesion                    resnet18 -0.0013  0.822       1.0000         1.000    1.0000
+13  baselines                bipal_lesion             efficientnet_b0 -0.0125  0.024       0.2640         0.384    0.6720
+14  baselines                bipal_lesion                  deit_small -0.0110  0.029       0.2900         0.435    0.7830
+15  baselines                    resnet18            resnet18_scratch  0.0138  0.000       0.0080         0.013    0.0225
+16   followup              bipal_tpal_cls             bipal_tpal_like -0.0006  0.852       1.0000         1.000    1.0000
+17   followup       bipal_tpal_cls_lesion              bipal_tpal_cls  0.0174  0.000       0.0050         0.013    0.0225
+18   followup       bipal_tpal_cls_lesion                bipal_lesion -0.0071  0.047       0.2350         0.611    1.0000
+19   followup                  bipal_full              bipal_tpal_cls  0.0053  0.084       0.3360         0.840    1.0000
+20   followup       bipal_tpal_cls_lesion                       T-PAL  0.0162  0.000       0.0050         0.013    0.0225
+21   followup              deit_small_cls                  deit_small -0.0013  0.538       1.0000         1.000    1.0000
+22   followup       deit_small_cls_lesion              deit_small_cls  0.0090  0.000       0.0050         0.013    0.0225
+23   followup       deit_small_cls_lesion                  deit_small  0.0076  0.002       0.0120         0.034    0.0660
+24   followup       deit_small_cls_lesion             efficientnet_b0  0.0061  0.125       0.3750         1.000    1.0000
+25   followup       deit_small_cls_lesion                       T-PAL  0.0420  0.000       0.0050         0.013    0.0225
+26  followup2         efficientnet_b0_cls             efficientnet_b0 -0.0045  0.060       0.3000           NaN    1.0000
+27  followup2  efficientnet_b0_cls_lesion         efficientnet_b0_cls  0.0073  0.002       0.0160           NaN    0.0660
+28  followup2  efficientnet_b0_cls_lesion             efficientnet_b0  0.0028  0.314       1.0000           NaN    1.0000
+29  followup2  efficientnet_b0_cls_lesion       deit_small_cls_lesion -0.0033  0.383       1.0000           NaN    1.0000
+30  followup2  efficientnet_b0_cls_lesion                       T-PAL  0.0387  0.000       0.0050           NaN    0.0225
+31  followup2   bipal_tpal_cls_lesion_m10              bipal_tpal_cls  0.0012  0.760       1.0000           NaN    1.0000
+32  followup2   bipal_tpal_cls_lesion_m25              bipal_tpal_cls  0.0038  0.334       1.0000           NaN    1.0000
+33  followup2   bipal_tpal_cls_lesion_m50              bipal_tpal_cls  0.0095  0.031       0.1860           NaN    0.8060
+34  followup2       bipal_tpal_cls_lesion   bipal_tpal_cls_lesion_m10  0.0162  0.000       0.0050           NaN    0.0225
+35  followup2       bipal_tpal_cls_lesion   bipal_tpal_cls_lesion_m50  0.0078  0.009       0.0630           NaN    0.2790
+36  followup3  efficientnet_b0_aux_lesion             efficientnet_b0  0.0046  0.124       0.6200           NaN    1.0000
+37  followup3  efficientnet_b0_aux_lesion  efficientnet_b0_cls_lesion  0.0019  0.486       1.0000           NaN    1.0000
+38  followup3  efficientnet_b0_aux_lesion       deit_small_cls_lesion -0.0015  0.688       1.0000           NaN    1.0000
+39  followup3  efficientnet_b0_aux_lesion                       T-PAL  0.0406  0.000       0.0045           NaN    0.0225
+40  followup3   deit_small_cls_lesion_m10              deit_small_cls  0.0064  0.010       0.0800           NaN    0.3000
+41  followup3   deit_small_cls_lesion_m25              deit_small_cls  0.0044  0.063       0.3780           NaN    1.0000
+42  followup3   deit_small_cls_lesion_m50              deit_small_cls  0.0068  0.012       0.0840           NaN    0.3480
+43  followup3       deit_small_cls_lesion   deit_small_cls_lesion_m10  0.0025  0.265       1.0000           NaN    1.0000
+44  followup3       deit_small_cls_lesion   deit_small_cls_lesion_m50  0.0022  0.346       1.0000           NaN    1.0000
+
+non-figshare tumour preds: 1707 (images 569 )  non-figshare glioma preds: 228
+
+2x2 interaction (lesion gain with full prior minus lesion gain with tpal_like prior):
+   +0.19 [-0.67, +1.02] p=0.681
+main effect of lesion, averaged over prior:
+   +1.83 [+1.18, +2.50] p=0.000
+main effect of full prior, averaged over lesion:
+   +0.62 [+0.10, +1.15] p=0.016
+DeiT lesion gain minus BiPAL(tpal_cls) lesion gain:
+   -0.84 [-1.74, -0.01] p=0.049
+
+source shortcut, A - B:
+  bipal_lesion vs bipal_full
+     non-figshare tumours called no tumour: -1.35 [-3.23, +0.50] p=0.154
+     non-figshare gliomas correct:          +15.79 [+6.28, +26.26] p=0.000
+     non-figshare gliomas called no tumour: -5.70 [-15.85, +3.60] p=0.257
+  bipal_tpal_cls_lesion vs bipal_tpal_cls
+     non-figshare tumours called no tumour: -1.58 [-3.63, +0.39] p=0.117
+     non-figshare gliomas correct:          +11.40 [+3.97, +19.90] p=0.003
+     non-figshare gliomas called no tumour: -7.02 [-14.56, +0.00] p=0.051
+  deit_small_cls_lesion vs deit_small_cls
+     non-figshare tumours called no tumour: -0.06 [-1.21, +1.09] p=0.943
+     non-figshare gliomas correct:          +4.82 [+0.00, +10.45] p=0.056
+     non-figshare gliomas called no tumour: -2.19 [-7.25, +2.41] p=0.405
+  deit_small_cls_lesion vs deit_small
+     non-figshare tumours called no tumour: +0.00 [-0.92, +0.93] p=1.000
+     non-figshare gliomas correct:          +1.32 [-5.39, +8.22] p=0.731
+     non-figshare gliomas called no tumour: +0.00 [-3.38, +3.33] p=1.000
+  efficientnet_b0_cls_lesion vs efficientnet_b0_cls
+     non-figshare tumours called no tumour: -1.64 [-3.01, -0.24] p=0.029
+     non-figshare gliomas correct:          +3.95 [-4.05, +11.70] p=0.364
+     non-figshare gliomas called no tumour: -10.96 [-16.67, -5.83] p=0.000
+  efficientnet_b0_cls_lesion vs efficientnet_b0
+     non-figshare tumours called no tumour: -0.35 [-2.19, +1.51] p=0.722
+     non-figshare gliomas correct:          +3.51 [-4.07, +11.11] p=0.440
+     non-figshare gliomas called no tumour: -7.02 [-13.11, -1.25] p=0.016
+  bipal_tpal_cls_lesion_m10 vs bipal_tpal_cls
+     non-figshare tumours called no tumour: +2.11 [+0.42, +3.86] p=0.017
+     non-figshare gliomas correct:          -0.44 [-8.33, +7.47] p=0.933
+     non-figshare gliomas called no tumour: +3.95 [-3.70, +11.39] p=0.335
+  bipal_tpal_cls_lesion_m25 vs bipal_tpal_cls
+     non-figshare tumours called no tumour: +2.05 [+0.12, +4.16] p=0.044
+     non-figshare gliomas correct:          +2.19 [-4.90, +9.44] p=0.620
+     non-figshare gliomas called no tumour: +0.00 [-6.40, +5.63] p=1.000
+  bipal_tpal_cls_lesion_m50 vs bipal_tpal_cls
+     non-figshare tumours called no tumour: +0.12 [-1.99, +2.33] p=0.954
+     non-figshare gliomas correct:          +8.77 [+1.67, +16.49] p=0.019
+     non-figshare gliomas called no tumour: -4.39 [-13.34, +3.29] p=0.333
+  efficientnet_b0_aux_lesion vs efficientnet_b0
+     non-figshare tumours called no tumour: -0.29 [-1.86, +1.25] p=0.719
+     non-figshare gliomas correct:          -2.63 [-10.45, +5.86] p=0.539
+     non-figshare gliomas called no tumour: -0.44 [-4.70, +3.70] p=0.917
+  deit_small_cls_lesion_m10 vs deit_small_cls
+     non-figshare tumours called no tumour: -0.41 [-1.45, +0.57] p=0.431
+     non-figshare gliomas correct:          +6.14 [-0.47, +13.15] p=0.079
+     non-figshare gliomas called no tumour: -1.75 [-7.11, +2.92] p=0.544
+  deit_small_cls_lesion_m50 vs deit_small_cls
+     non-figshare tumours called no tumour: +0.47 [-0.48, +1.41] p=0.381
+     non-figshare gliomas correct:          +3.51 [-3.75, +11.62] p=0.379
+     non-figshare gliomas called no tumour: -0.88 [-5.98, +3.76] p=0.818
+
+§5 EfficientNet-B0 lesion gain minus DeiT-S lesion gain (each against its class-pooling control):
+   -0.17 [-0.82, +0.48] p=0.619
+EfficientNet-B0 lesion gain minus BiPAL(tpal_cls) lesion gain:
+   -1.00 [-1.95, -0.13] p=0.024
+
+mask-fraction curve (accuracy, gain over 0%):
+     0%  bipal_tpal_cls                90.05  gain +0.00 [+0.00, +0.00] p=1.000
+    10%  bipal_tpal_cls_lesion_m10     90.17  gain +0.12 [-0.66, +0.86] p=0.760
+    25%  bipal_tpal_cls_lesion_m25     90.42  gain +0.38 [-0.38, +1.11] p=0.334
+    50%  bipal_tpal_cls_lesion_m50     91.00  gain +0.95 [+0.08, +1.80] p=0.031
+   100%  bipal_tpal_cls_lesion         91.78  gain +1.74 [+0.92, +2.57] p=0.000
+least-squares slope, accuracy per 100% of masks: +1.79 [+1.05, +2.50] p=0.000
+curvature: gain at 50% minus half the gain at 100% (> 0 = diminishing returns):
+   +0.09 [-0.52, +0.67] p=0.752
+gain at 10% minus a tenth of the gain at 100%:
+   -0.05 [-0.79, +0.65] p=0.892
+
+§6 aux-branch lesion gain on EfficientNet-B0 (vs standard) minus the class-pooling lesion gain (vs class pooling):
+   -0.27 [-0.82, +0.27] p=0.349
+
+mask-fraction curve, DeiT-S + class pooling (accuracy, gain over 0%):
+     0%  deit_small_cls                93.46  gain +0.00 [+0.00, +0.00] p=1.000
+    10%  deit_small_cls_lesion_m10     94.11  gain +0.64 [+0.13, +1.15] p=0.010
+    25%  deit_small_cls_lesion_m25     93.90  gain +0.44 [-0.02, +0.89] p=0.063
+    50%  deit_small_cls_lesion_m50     94.14  gain +0.68 [+0.15, +1.21] p=0.012
+   100%  deit_small_cls_lesion         94.36  gain +0.90 [+0.42, +1.39] p=0.000
+least-squares slope, accuracy per 100% of masks: +0.67 [+0.26, +1.08] p=0.000
+curvature: gain at 50% minus half the gain at 100% (> 0 = diminishing returns):
+   +0.23 [-0.21, +0.66] p=0.303
+gain at 10% minus a tenth of the gain at 100%:
+   +0.55 [+0.07, +1.03] p=0.028
+mean gain over 10/25/50% (masks present but partial):
+   +0.58 [+0.15, +1.03] p=0.007
+
+DeiT-S gain at 10% minus BiPAL(tpal_cls) gain at 10%:
+   +0.52 [-0.39, +1.43] p=0.237

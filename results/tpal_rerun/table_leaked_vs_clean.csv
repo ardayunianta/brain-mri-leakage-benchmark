@@ -1,0 +1,5 @@
+protocol,test predictions,% with a family member in train,"acc, with family member","acc, without"
+tpal_original,3240,90.6,0.9687,0.8449
+official,4800,87.6,0.9703,0.5645
+random_5fold,21600,91.2,0.9711,0.7822
+grouped_5fold,21600,0.0,,0.9016
