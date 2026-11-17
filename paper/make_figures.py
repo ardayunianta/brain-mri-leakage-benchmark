@@ -403,6 +403,52 @@ def fig_reliability():
     save(fig, "fig_reliability")
 
 
+# ---------------------------------------------------------------------------------------------------------------
+def fig_cross():
+    """CROSS on three backbones: (a-c) held-out missed vs false-tumour rate, (d) conformal coverage on held-out tumours."""
+    B = np.linspace(-8, 8, 641)
+    bbs = [("EfficientNet-B0", "results/cross_val"), ("DeiT-S", "results/cross_backbones/deit_small"),
+           ("ResNet-50", "results/cross_backbones/resnet50")]
+    S = pd.read_csv(R("results/cross_backbones/summary.csv"))
+    fig, axs = plt.subplots(1, 4, figsize=(190 * MM, 54 * MM), gridspec_kw={"wspace": 0.32, "width_ratios": [1, 1, 1, 1.25]})
+    arms = [("erm", "standard training", GREY), ("cross_p_r25", "CROSS", ORANGE)]
+    for k, (ax, (bb, d)) in enumerate(zip(axs[:3], bbs)):
+        for arm, lab, col in arms:
+            T = pd.concat([pd.read_csv(R(d, "preds", f"{arm}_heldout_source_f{f}_s{s}.csv")) for s in (42, 43, 44) for f in range(5)])
+            held, nt = ((T.source == "other") & (T.y != 2)).values, (T.y == 2).values
+            L = np.log(T[[f"p_{c}" for c in CL]].values + 1e-12)
+            Pb = (L[None] + B[:, None, None] * np.eye(4)[2]).argmax(2)
+            ax.plot(100 * (1 - (Pb[:, nt] == 2).mean(1)), 100 * (Pb[:, held] == 2).mean(1), color=col, lw=1.2, label=lab)
+            for rule, mk in (("argmax", "o"), ("val spec 98", "s")):
+                x = S[(S.backbone == bb) & (S.arm == arm) & (S.rule == rule)].iloc[0]
+                ax.scatter(100 * (1 - x["no-tumour specificity"]), 100 * x["held-out missed"], marker=mk, s=16, color=col,
+                           edgecolor="white", lw=0.6, zorder=3)
+        ax.set_xlim(0, 15); ax.set_ylim(0, 100); ax.set_title(bb)
+        ax.set_xlabel("False tumour rate (%)")
+        if k == 0:
+            ax.set_ylabel("Held-out tumours missed (%)")
+        panel(ax, "abc"[k], x=-0.2)
+    axs[0].legend(handles=[Line2D([], [], color=GREY, lw=1.2), Line2D([], [], color=ORANGE, lw=1.2),
+                           Line2D([], [], marker="o", ls="", color=MUTED, ms=4), Line2D([], [], marker="s", ls="", color=MUTED, ms=4)],
+                  labels=["standard", "CROSS", "default threshold", "val. threshold"], frameon=False, fontsize=5.6, loc="upper right")
+    ax = axs[3]
+    C = pd.read_csv(R("results/cross_cal/summary.csv"))
+    C = C[C.alpha == 0.10]
+    w = 0.2
+    combos = [("erm", "standard", GREY, "white"), ("erm", "CROSS-Cal (est. source)", GREY, GREY),
+              ("cross_p_r25", "standard", ORANGE, "white"), ("cross_p_r25", "CROSS-Cal (est. source)", ORANGE, ORANGE)]
+    labs = ["standard model, standard conformal", "standard model, CROSS-Cal", "CROSS model, standard conformal", "CROSS model, CROSS-Cal"]
+    for j, ((arm, m, ec, fc), lab) in enumerate(zip(combos, labs)):
+        v = [C[(C.backbone == bb) & (C.arm == arm) & (C.method == m)]["coverage held-out"].iloc[0] * 100 for bb, _ in bbs]
+        ax.bar(np.arange(3) + (j - 1.5) * w, v, w * 0.9, color=fc, edgecolor=ec, lw=0.8, label=lab)
+    ax.axhline(90, color=INK, lw=0.7, ls="--")
+    ax.set_xticks(range(3), ["EffNet-B0", "DeiT-S", "ResNet-50"]); ax.set_ylim(0, 100)
+    ax.set_ylabel("Held-out tumours covered (%)"); ax.set_title("90% prediction sets")
+    ax.legend(frameon=False, fontsize=5.2, loc="lower center", bbox_to_anchor=(0.5, 1.08), ncol=1, handlelength=1)
+    panel(ax, "d", x=-0.22)
+    save(fig, "fig_cross")
+
+
 if __name__ == "__main__":
     fig_audit()
     fig_pairs()
@@ -410,3 +456,4 @@ if __name__ == "__main__":
     fig_maps()
     fig_heldout()
     fig_reliability()
+    fig_cross()

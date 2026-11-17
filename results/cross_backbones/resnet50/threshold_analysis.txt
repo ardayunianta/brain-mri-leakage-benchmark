@@ -1,0 +1,36 @@
+Pooled over runs (%):
+                             in-source acc  held-out correct  held-out missed  glioma missed  meningioma missed  pituitary missed  no-tumour specificity
+arm         rule                                                                                                                                       
+erm         argmax                   94.9              41.1             51.3           83.7               46.1              48.3                   99.0
+            val spec 98              94.5              46.6             42.6           71.7               38.0              39.9                   97.1
+            edited Youden            89.2              58.3             19.9           34.1               18.3              13.6                   77.4
+            edited bal-acc           93.2              52.6             32.0           53.9               28.8              27.4                   92.3
+cross_p_r25 argmax                   93.9              69.7             17.4           32.1               14.3              21.8                   95.5
+            val spec 98              93.9              64.5             24.6           42.8               20.7              30.4                   96.2
+            edited Youden            93.0              75.2              9.7           16.3                8.0              14.0                   91.8
+            edited bal-acc           93.2              74.5             10.9           18.9                9.0              14.8                   92.8 
+
+Per arm, mean over runs:
+ arm                                    cross_p_r25    erm
+val transplant missed (b=0)                  0.370  0.980
+val spec real (b=0)                          0.966  0.989
+val spec controls (b=0)                      0.920  0.988
+b (val spec 98)                              0.697 -2.073
+b (edited Youden)                           -1.363 -4.085
+b (edited bal-acc)                          -1.155 -3.515
+test held-out missed (argmax)                0.174  0.513
+test held-out missed (val spec 98)           0.246  0.426
+test held-out missed (edited Youden)         0.097  0.199
+test held-out missed (edited bal-acc)        0.109  0.320 
+
+Run-level correlation, val transplant missed vs test held-out missed (b=0): 0.98
+{'A': 'cross_p_r25 / argmax', 'B': 'erm / argmax', 'held-out missed': '-33.90 [-37.80, -30.01] p=0.000', 'held-out correct': '+28.56 [+24.74, +32.43] p=0.000', 'in-source acc': '-1.08 [-1.95, -0.32] p=0.004', 'no-tumour specificity': '-3.54 [-6.00, -1.90] p=0.000'}
+{'A': 'cross_p_r25 / val spec 98', 'B': 'erm / val spec 98', 'held-out missed': '-18.04 [-21.57, -14.70] p=0.000', 'held-out correct': '+17.89 [+14.56, +21.24] p=0.000', 'in-source acc': '-0.61 [-1.48, +0.16] p=0.128', 'no-tumour specificity': '-0.83 [-2.88, +0.86] p=0.375'}
+{'A': 'cross_p_r25 / edited Youden', 'B': 'erm / edited Youden', 'held-out missed': '-10.26 [-13.07, -7.52] p=0.000', 'held-out correct': '+16.82 [+13.22, +20.32] p=0.000', 'in-source acc': '+3.79 [+2.40, +5.14] p=0.000', 'no-tumour specificity': '+14.48 [+10.75, +18.50] p=0.000'}
+{'A': 'cross_p_r25 / edited bal-acc', 'B': 'erm / edited bal-acc', 'held-out missed': '-21.17 [-24.67, -17.79] p=0.000', 'held-out correct': '+21.87 [+18.23, +25.58] p=0.000', 'in-source acc': '-0.01 [-0.93, +0.86] p=0.957', 'no-tumour specificity': '+0.54 [-1.83, +2.92] p=0.662'}
+{'A': 'erm / val spec 98', 'B': 'erm / argmax', 'held-out missed': '-8.67 [-10.22, -7.13] p=0.000', 'held-out correct': '+5.48 [+4.29, +6.74] p=0.000', 'in-source acc': '-0.43 [-0.80, -0.11] p=0.006', 'no-tumour specificity': '-1.98 [-3.19, -1.06] p=0.000'}
+{'A': 'erm / edited Youden', 'B': 'erm / argmax', 'held-out missed': '-31.38 [-34.76, -27.69] p=0.000', 'held-out correct': '+17.22 [+14.62, +20.03] p=0.000', 'in-source acc': '-5.76 [-7.26, -4.40] p=0.000', 'no-tumour specificity': '-21.69 [-25.95, -17.64] p=0.000'}
+{'A': 'erm / edited bal-acc', 'B': 'erm / argmax', 'held-out missed': '-19.29 [-21.98, -16.54] p=0.000', 'held-out correct': '+11.52 [+9.52, +13.74] p=0.000', 'in-source acc': '-1.70 [-2.47, -1.06] p=0.000', 'no-tumour specificity': '-6.74 [-9.19, -4.59] p=0.000'}
+{'A': 'cross_p_r25 / val spec 98', 'B': 'cross_p_r25 / argmax', 'held-out missed': '+7.18 [+5.96, +8.44] p=0.000', 'held-out correct': '-5.19 [-6.26, -4.12] p=0.000', 'in-source acc': '+0.04 [-0.18, +0.26] p=0.665', 'no-tumour specificity': '+0.72 [+0.05, +1.46] p=0.034'}
+{'A': 'cross_p_r25 / edited Youden', 'B': 'cross_p_r25 / argmax', 'held-out missed': '-7.74 [-9.08, -6.45] p=0.000', 'held-out correct': '+5.48 [+4.34, +6.63] p=0.000', 'in-source acc': '-0.89 [-1.34, -0.57] p=0.000', 'no-tumour specificity': '-3.67 [-4.95, -2.49] p=0.000'}
+{'A': 'cross_p_r25 / edited bal-acc', 'B': 'cross_p_r25 / argmax', 'held-out missed': '-6.56 [-7.69, -5.44] p=0.000', 'held-out correct': '+4.83 [+3.83, +5.84] p=0.000', 'in-source acc': '-0.63 [-0.98, -0.38] p=0.000', 'no-tumour specificity': '-2.67 [-3.72, -1.69] p=0.000'}
