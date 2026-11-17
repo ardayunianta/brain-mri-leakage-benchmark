@@ -277,6 +277,117 @@ def table_supp():
     write("tab_s_conformal", "\n".join(s) + "\n")
 
 
+# ---------------------------------------------------------------------------------------------------------------
+# CROSS (results/cross_backbones, results/cross_cal, results/cross_kaggle, results/cross_pilot)
+def parse(c):
+    """'-30.23 [-34.26, -26.41] p=0.000' -> LaTeX '$-$30.2 [$-$34.3, $-$26.4]'."""
+    import re
+    d, lo, hi = (float(x) for x in re.findall(r"[-+]?\d+\.\d+", c)[:3])
+    return f"{d:+.1f} [{lo:+.1f}, {hi:+.1f}]".replace("-", "$-$")
+
+
+BB = ["EfficientNet-B0", "DeiT-S", "ResNet-50"]
+ARMLAB = {"erm": "standard", "cross_p_r25": "CROSS"}
+
+
+def table_cross():
+    S = pd.read_csv(R("results/cross_backbones/summary.csv")).set_index(["backbone", "arm", "rule"])
+    P = pd.read_csv(R("results/cross_backbones/pairs.csv"))
+    T = pd.read_csv(R("results/cross_backbones/tradeoff.csv")).set_index(["backbone", "arm"])
+    s = []
+    for b in BB:
+        for arm in ("erm", "cross_p_r25"):
+            cells = []
+            for rule in ("argmax", "val spec 98"):
+                x = S.loc[(b, arm, rule)] * 100
+                cells += [f"{x['held-out missed']:.1f}", f"{x['glioma missed']:.1f}", f"{x['no-tumour specificity']:.1f}",
+                          f"{x['in-source acc']:.1f}"]
+            if arm == "erm":
+                d = "--"
+            else:
+                d = parse(P[(P.backbone == b) & (P.A == "cross_p_r25 / val spec 98") & (P.B == "erm / val spec 98")]["held-out missed"].iloc[0])
+            t = T.loc[(b, arm)] * 100
+            lab = b if arm == "erm" else ""
+            s.append(f"{lab} & {ARMLAB[arm]} & " + " & ".join(cells) + f" & {d} & {t['missed at test spec>=0.99']:.1f} \\\\")
+        if b != BB[-1]:
+            s.append("\\addlinespace")
+    write("tab_cross", "\n".join(s) + "\n")
+
+
+def table_crosscal():
+    S = pd.read_csv(R("results/cross_cal/summary.csv"))
+    S = S[S.alpha == 0.10].set_index(["backbone", "arm", "method"])
+    s = []
+    for b in BB:
+        for arm in ("erm", "cross_p_r25"):
+            for m, ml in (("standard", "standard"), ("CROSS-Cal (est. source)", "CROSS-Cal")):
+                x = S.loc[(b, arm, m)]
+                lab = b if (arm == "erm" and m == "standard") else ""
+                al = ARMLAB[arm] if m == "standard" else ""
+                s.append(f"{lab} & {al} & {ml} & {x['coverage in-source']*100:.1f} & {x['coverage held-out']*100:.1f} & "
+                         f"{x['coverage held-out glioma']*100:.1f} & {x['missed held-out']*100:.1f} & "
+                         f"{x['referred figshare tumour']*100:.1f} & {x['referred no-tumour']*100:.1f} & {x['set size held-out']:.2f} \\\\")
+        if b != BB[-1]:
+            s.append("\\addlinespace")
+    write("tab_crosscal", "\n".join(s) + "\n")
+
+
+def table_s_cross():
+    """Operator ablations on EfficientNet-B0 (Kaggle seeds 42-44; erasure: Apple-GPU pilot, seed 42)."""
+    S = pd.read_csv(R("results/cross_kaggle/summary.csv")).set_index("set")
+    P = pd.read_csv(R("results/cross_kaggle/pairs.csv"))
+    rows = [("erm, Kaggle 42-44", "No edits (standard)", "--", None),
+            ("cross_p, Kaggle 42-44", "Transplants + controls, 50\\% of no-tumour images", "0.50", "erm, Kaggle 42-44"),
+            ("cross_p_r25, Kaggle 42-44", "Transplants + controls, 25\\% (CROSS)", "0.25", "erm, Kaggle 42-44"),
+            ("cross_pm, Kaggle 42-44", "\\quad plane-matched donors, 50\\%", "0.50", "erm, Kaggle 42-44"),
+            ("cross_pm_r75_c67, Kaggle 42-44", "\\quad plane-matched, 75\\% edited, 2/3 controls", "0.75", "erm, Kaggle 42-44")]
+    s = []
+    for k, lab, r, base in rows:
+        x = S.loc[k] * 100
+        d = "--" if base is None else parse(P[(P.A == k) & (P.B == base)]["held-out missed"].iloc[0])
+        s.append(f"{lab} & {r} & {x['in-source acc']:.1f} & {x['held-out missed']:.1f} & {x['glioma missed']:.1f} & "
+                 f"{x['no-tumour specificity']:.1f} & {d} \\\\")
+    s.append("\\addlinespace")
+    L = pd.read_csv(R("results/cross_pilot/summary.csv")).set_index("arm")
+    Pp = pd.read_csv(R("results/cross_pilot/pairs.csv")).set_index("A")
+    for k, lab in (("erm", "Pilot (seed 42): no edits"), ("cross_p", "\\quad transplants + controls, 50\\%"),
+                   ("cross_pe", "\\quad + lesion erasure on figshare tumours")):
+        x = L.loc[k] * 100
+        d = "--" if k == "erm" else parse(Pp.loc[k, "held-out missed"])
+        s.append(f"{lab} & {'--' if k == 'erm' else '0.50'} & {x['in-source acc']:.1f} & {x['held-out missed']:.1f} & "
+                 f"{x['glioma missed']:.1f} & {x['no-tumour specificity']:.1f} & {d} \\\\")
+    write("tab_s_cross", "\n".join(s) + "\n")
+
+
+def table_s_labels():
+    """Label sensitivity: results with and without the 76 non-figshare gliomas and the 4 label-conflict families."""
+    H = pd.read_csv(R("results/label_sensitivity/heldout.csv")).set_index(["model", "set"])
+    names = {"bipal_tpal_cls": "\\texttt{tpal\\_like} + CP", "bipal_tpal_cls_lesion": "\\quad + lesion",
+             "efficientnet_b0_lr1e-3": "EfficientNet-B0", "efficientnet_b0_aux_lesion_lr3e-3": "\\quad + aux.\\ lesion",
+             "efficientnet_b0_gain_lr3e-3": "\\quad + GAIN", "deit_small_cls": "DeiT-S + CP", "deit_small_cls_lesion": "\\quad + lesion"}
+    s = ["\\multicolumn{5}{l}{\\emph{Held-out source, standard training (default threshold): held-out tumours called ``no tumour'' (\\%)}} \\\\"]
+    for k, lab in names.items():
+        a, w = H.loc[(k, "all")], H.loc[(k, "without")]
+        s.append(f"{lab} & {a['held-out missed']*100:.1f} & {a['held-out correct']*100:.1f} & {w['held-out missed']*100:.1f} & {w['held-out correct']*100:.1f} \\\\")
+    s.append("\\addlinespace")
+    s.append("\\multicolumn{5}{l}{\\emph{CROSS $-$ standard, held-out missed (points), default threshold / validation threshold}} \\\\")
+    PA = pd.read_csv(R("results/cross_backbones/pairs.csv"))
+    PW = pd.read_csv(R("results/label_sensitivity/pairs.csv"))
+    for b in BB:
+        a = [parse(PA[(PA.backbone == b) & (PA.A == f"cross_p_r25 / {r}") & (PA.B == f"erm / {r}")]["held-out missed"].iloc[0]) for r in ("argmax", "val spec 98")]
+        w = [parse(PW[(PW.backbone == b) & (PW.rule == r)]["held-out missed"].iloc[0]) for r in ("argmax", "val spec 98")]
+        s.append(f"{b} & \\multicolumn{{2}}{{c}}{{{a[0]} / {a[1]}}} & \\multicolumn{{2}}{{c}}{{{w[0]} / {w[1]}}} \\\\")
+    s.append("\\addlinespace")
+    s.append("\\multicolumn{5}{l}{\\emph{Coverage of held-out tumours, 90\\% sets (\\%): standard calibration / CROSS-Cal (est.\\ source)}} \\\\")
+    CA = pd.read_csv(R("results/cross_cal/summary.csv")); CA = CA[CA.alpha == 0.10].set_index(["backbone", "arm", "method"])
+    CW = pd.read_csv(R("results/label_sensitivity/cross_cal.csv")).set_index(["backbone", "arm", "method"])
+    for b in BB:
+        for arm in ("erm", "cross_p_r25"):
+            f = lambda T: f"{T.loc[(b, arm, 'standard'), 'coverage held-out']*100:.1f} / {T.loc[(b, arm, 'CROSS-Cal (est. source)'), 'coverage held-out']*100:.1f}"
+            s.append(f"{b + ', standard' if arm == 'erm' else '\\quad CROSS'} & \\multicolumn{{2}}{{c}}{{{f(CA)}}} & \\multicolumn{{2}}{{c}}{{{f(CW)}}} \\\\")
+    write("tab_s_labels", "\n".join(s) + "\n")
+
+
 if __name__ == "__main__":
     table_supp()
     table_tpal()
@@ -287,3 +398,7 @@ if __name__ == "__main__":
     table_external()
     table_ladder()
     table_lr()
+    table_cross()
+    table_crosscal()
+    table_s_cross()
+    table_s_labels()

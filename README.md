@@ -1,10 +1,11 @@
 # Brain tumour MRI leakage benchmark
 
-Code and derived data for the manuscript *"Leakage, source shortcuts and lesion supervision in brain tumour MRI
-classification: a family-grouped benchmark with a transformer case study"* (submitted).
+Code and derived data for the manuscript *"Leakage and source shortcuts in brain tumour MRI classification: a
+family-grouped benchmark, and counterfactual lesion transplants that cut missed tumours from unseen sources"*
+(submitted).
 
 The study audits the four-class Kaggle *Brain Tumor MRI Dataset* (Nickparvar, version 2; 7,200 images) and
-reports four things:
+reports five things:
 - **Leakage:** 88.1% of the official test images have a near-duplicate (under any flip or rotation) or a
   same-patient slice in the training folder.
 - **Source shortcut:** every no-tumour image comes from sources other than the figshare collection that
@@ -12,6 +13,12 @@ reports four things:
 - **A leakage-free benchmark:** 15 models, 15 runs each, compared with paired cluster-bootstrap statistics.
 - **Lesion-evidence supervision**, tested as a model-agnostic add-on, alongside stress tests: a held-out
   source, source-stratified conformal coverage, and external data checked for copies.
+- **CROSS and CROSS-Cal**, a remedy for the source shortcut. CROSS transplants masked figshare tumours into
+  no-tumour slices from other sources during training, with matched sham edits so that an edit never predicts the
+  label. With tumour sources held out of training, it cuts the share of their tumours called "no tumour" by 30–34
+  points on EfficientNet-B0, DeiT-S and ResNet-50. CROSS-Cal calibrates conformal prediction sets per source and
+  class, using the same transplants, and restores their coverage of unseen-source tumours from about a third to
+  86–91%.
 
 **No images are redistributed here.** Download them from their sources:
 - [Kaggle Brain Tumor MRI Dataset](https://doi.org/10.34740/KAGGLE/DSV/2645886)
@@ -54,6 +61,15 @@ test, fold (*f*+1) mod 5 as validation and the rest for training.
 | `results/external/` | Per-image copy status of PMRAM and BDNeuro-MRI against the Kaggle images |
 | `results/tpal_rerun/`, `results/models_grouped/`, `results/lr_tuning/`, `results/tpal_lr/`, `results/heldout_source/` | Per-run metrics (`results.csv`) and per-image test predictions (`preds/`) of all 836 training runs |
 | `results/eval/` | Per-run arrays from the checkpoint evaluation (logits, localisation scores) and summary tables |
+| `code/cross_edits.py`, `code/cross_pilot.py` | CROSS edit operators (transplant, matched control, erasure) and the training script (held-out-source protocol; `--arms`, `--model`, `--lr`) |
+| `kaggle/cross_kaggle*.ipynb` | The notebooks that ran the CROSS experiments on Kaggle T4 GPUs (they need the Kaggle dataset and a bundle of this repository's `code/` and `results/audit/` as inputs) |
+| `code/plane_embed.py`, `code/plane_labels.py`, `results/audit/planes.csv`, `plane_emb64.npz` | Imaging-plane labels for plane-matched donors (ablation) |
+| `code/cross_pilot_analysis.py`, `cross_kaggle_analysis.py`, `cross_tradeoff.py`, `cross_prior_correct.py` | Pilot, replication and operator ablations |
+| `code/cross_val_threshold.py`, `code/cross_backbones.py` | Validation-set thresholds, the edited validation set as a proxy, and the three-backbone comparison |
+| `code/cross_cal.py` | CROSS-Cal (Mondrian conformal by source group × class, calibrated with transplants; source estimated from file details) |
+| `code/label_sensitivity.py` | All main results without the 76 non-figshare gliomas and the 4 label-conflict families |
+| `results/cross_pilot/`, `results/cross_kaggle/`, `results/cross_val/`, `results/cross_backbones/` | Per-run metrics and per-image predictions of the 210 CROSS runs; `preds_val/` holds predictions on the real and edited validation images |
+| `results/cross_cal/`, `results/label_sensitivity/` | CROSS-Cal and label-sensitivity tables |
 
 Model weights (about 12 GB) are not included. They are available from the authors on request.
 
@@ -67,8 +83,15 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 .venv/bin/python paper/make_figures.py                     # figures (needs the Kaggle images for two figures)
 ```
 
-Training runs on any PyTorch device. The paper's runs used an Apple M5 Pro GPU (MPS backend; 836 runs, about
-104 GPU-hours).
+Training runs on any PyTorch device. The benchmark runs used an Apple M5 Pro GPU (MPS backend; 836 runs, about
+104 GPU-hours). The CROSS runs used NVIDIA T4 GPUs on Kaggle (195 runs, about 21 GPU-hours) plus a 15-run pilot on
+the Apple GPU. The CROSS analyses need no images or GPU:
+
+```bash
+.venv/bin/python code/cross_backbones.py     # thresholds and trade-off, three backbones
+.venv/bin/python code/cross_cal.py           # CROSS-Cal
+.venv/bin/python code/label_sensitivity.py   # results without the doubtful labels
+```
 
 ## Citation
 

@@ -1,0 +1,82 @@
+Excluded: 120 images (76 non-figshare gliomas, 46 in label-conflict families)
+
+1. Benchmark accuracy (%):
+                         acc all  acc without  rank all  rank without
+model                                                                
+T-PAL                      90.06        91.03        14            15
+ResNet-18 (scratch)        91.44        92.36        13            13
+tpal_like + CP             90.05        91.04        15            14
+tpal_like + CP + lesion    91.78        92.66        12            12
+ResNet-18                  93.35        94.16        11            11
+MobileNetV3-L              93.63        94.37         7             7
+ResNet-50                  94.33        95.09         5             3
+EfficientNet-B0            93.83        94.54         6             6
+EffNet-B0 + CP             94.38        95.04         3             5
+EffNet-B0 + CP + lesion    94.44        95.16         2             2
+EffNet-B0 + aux. lesion    94.75        95.46         1             1
+EffNet-B0 + GAIN           93.43        94.25        10             9
+DeiT-S                     93.60        94.29         8             8
+DeiT-S + CP                93.46        94.20         9            10
+DeiT-S + CP + lesion       94.36        95.06         4             4
+
+2. Held-out source, §8 models (%):
+                                           held-out missed  held-out correct  in-source acc
+model                             set                                                      
+bipal_tpal_cls                    all                 58.8              30.3           91.4
+                                  without             53.7              35.3           91.7
+bipal_tpal_cls_lesion             all                 58.2              35.5           93.5
+                                  without             52.7              40.8           93.8
+efficientnet_b0_lr1e-3            all                 52.2              42.0           94.6
+                                  without             46.7              48.0           94.7
+efficientnet_b0_aux_lesion_lr3e-3 all                 52.7              41.8           95.6
+                                  without             46.7              47.6           95.7
+efficientnet_b0_gain_lr3e-3       all                 54.6              39.7           94.1
+                                  without             48.4              45.8           94.3
+deit_small_cls                    all                 54.2              39.7           94.1
+                                  without             48.7              45.5           94.3
+deit_small_cls_lesion             all                 51.0              42.8           94.9
+                                  without             45.7              48.8           95.0
+
+3. CROSS without the 120 images (%):
+                                         held-out missed  held-out correct  no-tumour specificity  in-source acc
+backbone        arm         rule                                                                                
+EfficientNet-B0 erm         argmax                  47.3              46.8                   99.4           94.7
+                            val spec 98             38.3              52.8                   97.5           94.3
+                cross_p_r25 argmax                  20.0              71.0                   96.5           94.2
+                            val spec 98             27.2              65.2                   97.0           93.7
+DeiT-S          erm         argmax                  45.8              47.8                   99.2           94.5
+                            val spec 98             39.6              53.3                   97.8           94.2
+                cross_p_r25 argmax                  17.2              73.0                   96.7           93.5
+                            val spec 98             16.2              73.6                   96.3           93.4
+ResNet-50       erm         argmax                  45.6              47.1                   99.0           95.1
+                            val spec 98             37.7              52.8                   97.1           94.7
+                cross_p_r25 argmax                  14.6              75.0                   95.5           94.1
+                            val spec 98             21.2              70.0                   96.2           94.1
+
+4. CROSS-Cal without the 120 images (%):
+                                                     coverage in-source  coverage held-out  ruled out held-out
+backbone        arm         method                                                                            
+EfficientNet-B0 erm         standard                               89.8               40.2                36.0
+                            CROSS-Cal (est. source)                89.3               91.4                 0.7
+                cross_p_r25 standard                               89.0               55.5                 8.8
+                            CROSS-Cal (est. source)                90.6               89.2                 1.2
+DeiT-S          erm         standard                               89.6               38.6                40.3
+                            CROSS-Cal (est. source)                89.2               92.4                 0.9
+                cross_p_r25 standard                               88.7               60.9                 7.8
+                            CROSS-Cal (est. source)                90.3               91.7                 0.4
+ResNet-50       erm         standard                               89.9               37.0                36.1
+                            CROSS-Cal (est. source)                89.9               87.8                 3.7
+                cross_p_r25 standard                               89.4               57.6                 6.1
+                            CROSS-Cal (est. source)                90.6               90.2                 1.0
+
+Paired (CROSS - standard):
+       backbone                                               rule                 held-out missed        no-tumour specificity                in-source acc               held-out coverage                       ruled out
+EfficientNet-B0                                             argmax -27.38 [-31.92, -23.08] p=0.000 -2.87 [-4.85, -1.47] p=0.000 -0.47 [-1.25, +0.30] p=0.262                                                                
+EfficientNet-B0                                        val spec 98  -11.09 [-14.99, -7.22] p=0.000 -0.52 [-2.47, +1.02] p=0.581 -0.59 [-1.59, +0.34] p=0.233                                                                
+EfficientNet-B0 CROSS + CROSS-Cal vs standard + standard conformal                                                                                           +48.96 [+43.65, +53.70] p=0.000 -34.86 [-39.78, -29.51] p=0.000
+         DeiT-S                                             argmax -28.63 [-32.76, -24.26] p=0.000 -2.54 [-4.14, -1.31] p=0.000 -1.01 [-1.65, -0.41] p=0.000                                                                
+         DeiT-S                                        val spec 98 -23.37 [-27.42, -19.07] p=0.000 -1.52 [-2.96, -0.19] p=0.024 -0.87 [-1.51, -0.28] p=0.003                                                                
+         DeiT-S CROSS + CROSS-Cal vs standard + standard conformal                                                                                           +53.14 [+47.78, +57.78] p=0.000 -39.88 [-45.25, -33.89] p=0.000
+      ResNet-50                                             argmax -30.97 [-35.24, -26.43] p=0.000 -3.54 [-6.00, -1.90] p=0.000 -1.06 [-1.95, -0.29] p=0.004                                                                
+      ResNet-50                                        val spec 98 -16.48 [-20.28, -12.72] p=0.000 -0.83 [-2.88, +0.86] p=0.375 -0.59 [-1.45, +0.19] p=0.152                                                                
+      ResNet-50 CROSS + CROSS-Cal vs standard + standard conformal                                                                                           +53.25 [+48.23, +57.77] p=0.000 -35.13 [-40.23, -29.65] p=0.000
